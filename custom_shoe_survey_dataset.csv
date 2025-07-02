@@ -1,0 +1,1001 @@
+Age,Gender,Country,City_Tier,Occupation,Monthly_Income,Pairs_per_Year,Preferred_Shoe_Types,Struggle_Size,Shoe_Size,Interested_Customization,Customization_Options,Control_Level,Interest_AI_Advisor,Interest_AR_TryOn,Interest_Limited_Drops,Interest_Eco_Materials,Interest_On_Demand,Preferred_Materials,Pay_Premium_Sustainable,Max_Price_Willing_to_Pay,Likely_to_Use_App,Bought_Personalized_Before,Online_Buying_Frustration,Try_on_Recommendation,Buy_if_AR
+33,Male,India,Tier 2,Student,1145.88,3,"Sports, Slippers, Casual",No,8.5,Yes,Color,Full-design from scratch,3,2,2,3,5,Canvas,Yes,170.09,5,Yes,Size mismatch,No,No
+28,Male,India,Tier 1,Student,1596.71,6,Formal,No,9.3,Yes,"Color, Stitching pattern, Sole type",Material & sole,1,1,2,2,5,"Leather, Vegan",No,352.74,4,Yes,Generic designs,Yes,Yes
+35,Female,India,Tier 1,Professional,1038.85,6,Ethnic,No,8.1,Yes,"Color, Material, Sole type",Full-design from scratch,1,3,1,5,1,"Vegan, Knit, Recyclable",No,74.96,1,No,Generic designs,Yes,Yes
+42,Female,India,Tier 3,Professional,241.22,5,Ethnic,No,10.9,No,Stitching pattern,Full-design from scratch,1,3,2,3,3,"Vegan, Canvas, Recyclable",Yes,69.14,5,Yes,Size mismatch,Yes,Yes
+28,Male,UAE,Tier 1,Student,2495.26,4,"Boots, Sports, Slippers",No,8.8,Yes,"Material, Full-design",Just color,1,1,1,5,3,Canvas,Yes,151.39,3,No,Poor product information,Yes,Yes
+28,Other,USA,Tier 3,Self-employed,215.85,4,"Sports, Slippers",Yes,8.4,Yes,Material,Material & sole,4,2,5,1,5,Recyclable,No,147.71,4,No,Poor product information,Yes,No
+42,Male,USA,Tier 2,Entrepreneur,2352.53,2,Formal,No,7.6,Yes,"Sole type, Material, Full-design",Material & sole,3,3,3,2,3,Canvas,Yes,182.57,2,Yes,Poor product information,Maybe,Yes
+36,Female,India,Tier 1,Professional,3556.66,3,Boots,Yes,9.4,Yes,"Sole type, Full-design, Color",Just color,1,2,2,5,3,Knit,Yes,146.83,4,No,Generic designs,Maybe,Yes
+26,Female,Other,Tier 1,Self-employed,1050.67,3,"Sports, Boots, Formal",Yes,9.3,Yes,"Material, Full-design",Material & sole,4,5,5,1,5,"Canvas, Vegan",Yes,116.02,2,No,Poor product information,Yes,Yes
+34,Female,India,Tier 1,Student,1350.33,4,"Ethnic, Slippers, Boots",Yes,9.6,No,"Sole type, Full-design",Material & sole,2,4,2,2,4,"Leather, Canvas, Recyclable",No,139.29,1,No,Poor product information,Yes,Yes
+26,Female,India,Tier 1,Professional,1172.21,4,"Formal, Sneakers",No,7.5,Yes,Full-design,Full-design from scratch,1,1,4,5,4,Leather,No,122.88,3,No,Long delivery times,Yes,Yes
+26,Female,USA,Tier 1,Professional,939.5,2,"Casual, Sports, Formal",Yes,6.6,Yes,"Material, Stitching pattern, Sole type",Material & sole,4,4,1,5,5,"Canvas, Knit",No,106.7,5,Yes,Size mismatch,Yes,Yes
+31,Male,India,Tier 1,Self-employed,3476.2,6,"Sneakers, Casual, Ethnic",Yes,9.9,Yes,"Color, Sole type",Full-design from scratch,5,5,1,5,1,"Knit, Vegan",Yes,98.03,5,No,Generic designs,Maybe,Yes
+14,Female,India,Tier 1,Entrepreneur,3565.53,4,Formal,No,11.2,Yes,"Stitching pattern, Sole type, Full-design",Full-design from scratch,2,3,5,5,3,"Vegan, Leather",Yes,51.08,3,No,Generic designs,No,Yes
+16,Male,USA,Tier 2,Professional,813.79,4,"Sports, Slippers",Yes,7.5,Yes,"Stitching pattern, Material",Full-design from scratch,3,2,4,4,3,"Leather, Canvas",Yes,90.31,1,No,Poor product information,Yes,Yes
+25,Female,UAE,Tier 2,Self-employed,1632.04,4,"Sports, Casual",No,11.4,No,"Stitching pattern, Material",Material & sole,1,2,3,5,4,Knit,No,119.21,1,No,Generic designs,Yes,Yes
+21,Female,USA,Tier 2,Student,4124.05,6,"Boots, Casual",No,9.4,Yes,"Stitching pattern, Material, Color",Material & sole,1,5,4,4,5,"Leather, Vegan",No,20.0,4,No,Generic designs,Maybe,Yes
+32,Female,UK,Tier 1,Self-employed,5107.56,5,Ethnic,No,9.0,No,"Material, Stitching pattern",Material & sole,4,1,4,4,1,Canvas,Yes,99.41,1,Yes,Poor product information,Yes,Yes
+22,Female,Other,Tier 1,Other,1266.84,3,"Boots, Sports",Yes,8.4,No,Full-design,Material & sole,3,4,3,1,5,"Vegan, Leather",No,156.82,4,Yes,Generic designs,Yes,Yes
+18,Female,India,Tier 2,Student,1104.48,5,"Sports, Boots",Yes,6.9,Yes,"Stitching pattern, Material",Material & sole,5,3,3,2,4,Canvas,Yes,173.73,2,Yes,Long delivery times,No,Yes
+41,Female,India,Tier 1,Entrepreneur,690.04,5,"Slippers, Ethnic",No,10.5,Yes,"Material, Sole type",Full-design from scratch,2,1,4,4,4,"Vegan, Canvas",Yes,98.9,3,Yes,None of the above,No,Yes
+28,Female,India,Tier 1,Student,4986.59,5,"Slippers, Casual, Boots",Yes,7.8,Yes,Sole type,Material & sole,3,5,2,3,3,"Leather, Canvas, Vegan",No,97.4,2,Yes,Generic designs,Yes,No
+30,Male,USA,Tier 3,Professional,431.15,4,Ethnic,No,7.8,No,"Color, Stitching pattern, Material",Material & sole,1,5,2,4,2,"Leather, Canvas, Vegan",Yes,91.2,2,Yes,Long delivery times,Maybe,Yes
+18,Male,USA,Tier 2,Professional,1500.64,6,Sports,Yes,10.5,Yes,Full-design,Full-design from scratch,4,2,4,3,1,"Knit, Recyclable",Yes,97.66,2,No,Size mismatch,Yes,Yes
+25,Male,Other,Tier 2,Professional,698.08,2,"Formal, Casual, Sports",No,6.2,Yes,"Material, Color, Full-design",Just color,5,3,2,1,1,Leather,Yes,165.71,2,No,Generic designs,Maybe,Yes
+30,Male,UK,Tier 1,Self-employed,690.69,9,Slippers,No,6.7,Yes,"Full-design, Color",Material & sole,4,1,3,3,2,"Recyclable, Leather, Canvas",No,185.17,5,No,Size mismatch,Yes,Yes
+20,Female,USA,Tier 2,Professional,978.71,2,Sneakers,No,9.0,Yes,Material,Full-design from scratch,2,2,3,1,4,"Knit, Canvas",No,52.46,1,No,Size mismatch,No,Yes
+33,Male,India,Tier 2,Professional,10000.0,2,"Sneakers, Ethnic",No,9.4,Yes,"Full-design, Material, Stitching pattern",Just color,3,3,2,1,5,"Leather, Canvas",No,87.54,3,Yes,Generic designs,Maybe,No
+25,Prefer not to say,UAE,Tier 2,Self-employed,284.8,2,"Formal, Casual",No,9.7,Yes,Sole type,Material & sole,4,4,3,1,1,Canvas,No,45.46,3,No,Generic designs,Yes,Yes
+27,Male,Other,Tier 2,Other,1496.05,3,"Formal, Ethnic",No,8.5,No,"Color, Material",Material & sole,4,4,1,3,2,"Vegan, Knit, Leather",Yes,118.85,2,No,Poor product information,Maybe,Yes
+25,Male,UAE,Tier 3,Student,329.27,6,"Ethnic, Slippers",No,12.8,No,Color,Full-design from scratch,1,2,3,3,3,Knit,Yes,100.47,3,Yes,Generic designs,Maybe,Yes
+44,Female,India,Tier 2,Other,451.78,2,"Sports, Boots, Formal",No,8.7,Yes,"Stitching pattern, Material, Sole type",Material & sole,4,1,4,1,3,"Leather, Vegan, Recyclable",No,134.36,4,No,Poor product information,Yes,Yes
+29,Female,USA,Tier 1,Student,1068.56,4,"Ethnic, Formal, Slippers",Yes,8.7,Yes,"Material, Stitching pattern, Color",Material & sole,5,3,5,1,4,Leather,Yes,146.53,3,Yes,Poor product information,Maybe,No
+21,Female,India,Tier 2,Self-employed,1271.43,3,"Sneakers, Casual",Yes,7.8,No,"Sole type, Full-design, Material",Material & sole,3,4,2,2,1,"Vegan, Canvas, Recyclable",No,142.09,2,Yes,Size mismatch,Maybe,Yes
+36,Female,India,Tier 2,Professional,649.21,9,"Ethnic, Boots, Formal",No,9.2,Yes,"Full-design, Sole type",Just color,2,4,2,1,5,Canvas,No,54.16,3,Yes,Poor product information,No,No
+20,Female,India,Tier 2,Student,770.7,4,"Casual, Sports, Formal",Yes,9.9,No,"Sole type, Full-design",Material & sole,4,1,3,5,1,Vegan,No,118.97,1,No,Poor product information,Yes,No
+31,Male,USA,Tier 1,Professional,336.47,0,Slippers,No,10.8,Yes,"Stitching pattern, Full-design, Color",Material & sole,5,2,3,2,3,Recyclable,Yes,52.17,2,No,Generic designs,Yes,Yes
+14,Prefer not to say,UK,Tier 1,Professional,741.93,4,"Sneakers, Casual",Yes,6.8,Yes,"Stitching pattern, Sole type, Color",Material & sole,2,5,5,2,1,"Leather, Recyclable",Yes,189.47,5,No,Size mismatch,Yes,Yes
+19,Prefer not to say,India,Tier 3,Professional,5296.93,4,Formal,No,8.6,Yes,"Sole type, Stitching pattern",Material & sole,5,3,5,2,3,"Canvas, Leather",No,105.81,1,No,Size mismatch,Yes,Yes
+31,Female,India,Tier 2,Student,4542.67,3,"Ethnic, Casual, Formal",Yes,9.7,Yes,Full-design,Material & sole,4,4,4,5,2,Vegan,No,65.34,3,Yes,Generic designs,No,No
+35,Male,USA,Tier 3,Professional,811.68,3,"Sneakers, Slippers, Ethnic",No,9.9,No,Material,Material & sole,4,5,1,2,2,Knit,No,98.23,5,No,Generic designs,Yes,Yes
+31,Female,India,Tier 2,Self-employed,1468.94,1,Casual,Yes,9.0,Yes,Sole type,Material & sole,3,1,4,2,3,"Knit, Vegan, Recyclable",Yes,128.32,1,No,Poor product information,Yes,Yes
+29,Male,India,Tier 2,Professional,3805.19,6,Formal,Yes,9.8,Yes,"Full-design, Stitching pattern, Material",Material & sole,1,2,2,3,5,Leather,Yes,149.33,4,Yes,Size mismatch,Yes,Yes
+27,Male,USA,Tier 2,Professional,209.3,8,"Boots, Slippers, Casual",Yes,7.8,Yes,Material,Just color,5,3,3,3,5,"Vegan, Knit, Recyclable",No,172.01,1,No,Poor product information,Yes,Yes
+18,Male,UK,Tier 3,Professional,2696.5,3,"Boots, Sneakers, Slippers",No,11.3,No,"Material, Stitching pattern",Full-design from scratch,1,1,4,1,1,Knit,No,122.52,5,Yes,Long delivery times,No,No
+24,Female,India,Tier 2,Student,4645.47,2,"Casual, Formal",Yes,10.5,Yes,"Material, Stitching pattern, Sole type",Full-design from scratch,1,2,3,1,3,Vegan,No,106.65,4,Yes,Long delivery times,Maybe,Yes
+26,Female,India,Tier 2,Self-employed,343.65,6,Boots,No,7.0,No,"Sole type, Full-design, Material",Material & sole,2,1,3,4,4,"Vegan, Knit, Recyclable",Yes,147.4,3,No,Generic designs,Yes,Yes
+38,Female,India,Tier 1,Self-employed,464.12,2,"Sports, Slippers",Yes,7.4,Yes,"Stitching pattern, Full-design, Color",Material & sole,2,4,4,5,5,"Vegan, Canvas, Knit",No,146.31,2,No,Size mismatch,Yes,Yes
+32,Female,Other,Tier 1,Professional,5056.56,6,Formal,Yes,7.4,Yes,"Sole type, Material, Color",Material & sole,5,4,4,3,5,Recyclable,Yes,124.75,3,No,Generic designs,Yes,Yes
+15,Male,UK,Tier 2,Professional,1356.79,3,"Formal, Ethnic, Sneakers",No,10.0,No,"Full-design, Stitching pattern, Color",Material & sole,1,5,5,1,2,"Knit, Vegan",No,152.38,2,No,Size mismatch,Yes,Yes
+32,Male,UK,Tier 1,Entrepreneur,221.45,3,"Sports, Sneakers, Ethnic",No,7.1,Yes,"Color, Full-design, Stitching pattern",Material & sole,3,1,1,5,5,"Recyclable, Canvas",Yes,95.59,2,Yes,Poor product information,Yes,Yes
+26,Male,India,Tier 1,Professional,646.87,1,"Sneakers, Boots, Casual",No,8.5,Yes,"Color, Full-design, Material",Just color,1,4,5,2,5,Recyclable,Yes,119.04,5,No,Size mismatch,Maybe,Yes
+24,Prefer not to say,USA,Tier 1,Self-employed,1096.6,3,"Slippers, Sports, Ethnic",No,9.7,Yes,Material,Full-design from scratch,2,2,1,5,5,Vegan,No,38.68,4,No,Long delivery times,Yes,Yes
+34,Male,India,Tier 1,Professional,1970.92,4,"Boots, Casual, Ethnic",No,8.9,Yes,Material,Just color,1,5,4,3,3,"Knit, Recyclable",Yes,175.59,4,No,Generic designs,Maybe,Yes
+38,Female,USA,Tier 1,Entrepreneur,2181.66,4,Casual,No,9.4,Yes,Material,Material & sole,4,3,1,4,3,"Leather, Vegan",Yes,100.33,1,No,Generic designs,Yes,Yes
+37,Female,Other,Tier 1,Professional,8279.58,3,"Formal, Sneakers",No,7.4,Yes,"Stitching pattern, Sole type, Color",Full-design from scratch,4,1,2,3,2,"Canvas, Leather, Knit",Yes,175.82,3,No,Generic designs,Yes,No
+23,Male,USA,Tier 3,Professional,708.49,2,Ethnic,No,9.9,Yes,"Full-design, Stitching pattern, Sole type",Material & sole,3,4,5,1,1,"Recyclable, Canvas",No,93.75,5,No,Size mismatch,Maybe,No
+27,Female,UAE,Tier 2,Other,1359.0,8,"Casual, Boots, Formal",No,8.1,Yes,"Color, Full-design",Just color,5,2,5,1,5,"Leather, Vegan",Yes,132.09,3,No,Poor product information,Maybe,Yes
+32,Female,UK,Tier 1,Professional,1343.18,3,"Sports, Ethnic, Casual",No,8.5,Yes,"Full-design, Stitching pattern, Color",Full-design from scratch,1,1,5,5,1,Recyclable,Yes,122.19,1,No,Generic designs,No,Yes
+37,Female,India,Tier 1,Professional,980.42,4,"Boots, Slippers, Formal",No,9.4,Yes,Full-design,Full-design from scratch,4,2,3,3,3,"Vegan, Canvas, Knit",No,95.92,1,No,Generic designs,Maybe,No
+26,Other,Other,Tier 2,Professional,477.98,4,Casual,Yes,9.2,No,"Sole type, Full-design, Color",Full-design from scratch,5,5,3,1,5,"Knit, Vegan",Yes,139.18,5,Yes,Long delivery times,Yes,Yes
+28,Male,India,Tier 1,Professional,5888.47,7,Boots,Yes,9.0,No,"Stitching pattern, Material, Color",Material & sole,4,4,4,2,1,"Knit, Leather, Vegan",Yes,171.08,1,No,Size mismatch,Maybe,No
+21,Male,USA,Tier 3,Professional,3079.22,4,"Sports, Boots, Casual",No,7.9,Yes,Full-design,Just color,5,4,4,2,1,"Leather, Recyclable, Vegan",Yes,191.59,5,No,Long delivery times,Yes,No
+20,Female,India,Tier 2,Student,1234.73,2,"Sports, Slippers",No,8.6,Yes,Material,Full-design from scratch,5,5,3,4,4,Leather,No,149.71,1,No,Poor product information,Maybe,Yes
+36,Other,India,Tier 2,Student,1586.66,2,"Slippers, Casual",No,9.0,No,Full-design,Material & sole,4,2,5,5,3,Leather,Yes,71.6,4,No,Generic designs,Yes,Yes
+40,Male,USA,Tier 1,Professional,586.72,3,Sports,Yes,6.9,Yes,"Sole type, Full-design, Material",Full-design from scratch,2,1,3,1,2,"Canvas, Leather",No,63.78,5,Yes,Poor product information,Yes,Yes
+29,Female,India,Tier 2,Entrepreneur,1377.19,4,Boots,No,8.3,Yes,"Color, Sole type",Material & sole,5,2,1,4,2,Recyclable,Yes,165.56,4,Yes,None of the above,No,Yes
+38,Female,USA,Tier 1,Professional,1981.02,5,Sports,Yes,9.6,No,"Stitching pattern, Material",Material & sole,1,1,5,2,4,"Vegan, Recyclable, Knit",No,80.11,4,Yes,Size mismatch,Yes,No
+32,Female,USA,Tier 3,Professional,1285.93,6,"Sneakers, Sports, Boots",No,7.1,Yes,"Material, Sole type, Stitching pattern",Full-design from scratch,4,5,3,4,1,"Recyclable, Knit, Leather",No,144.64,5,Yes,Generic designs,Yes,No
+24,Male,India,Tier 2,Professional,7151.15,6,Formal,Yes,10.7,Yes,Color,Material & sole,2,3,4,4,4,"Canvas, Leather",Yes,125.36,3,No,Generic designs,Yes,Yes
+32,Female,India,Tier 1,Student,1617.58,6,"Sneakers, Boots, Formal",No,10.9,No,Stitching pattern,Just color,4,1,3,1,4,Canvas,Yes,172.75,2,Yes,Size mismatch,No,Yes
+42,Other,USA,Tier 1,Professional,895.37,2,"Boots, Slippers",No,7.1,Yes,"Stitching pattern, Full-design",Material & sole,3,4,2,1,3,"Vegan, Leather, Canvas",No,140.4,1,No,Size mismatch,Maybe,Yes
+29,Male,India,Tier 1,Student,2418.61,2,"Formal, Boots",Yes,11.0,Yes,Color,Material & sole,1,4,3,1,5,"Leather, Knit, Vegan",Yes,118.78,1,No,Long delivery times,No,Yes
+42,Male,UK,Tier 2,Student,480.33,5,"Ethnic, Formal, Casual",No,8.8,Yes,"Material, Color, Full-design",Just color,3,4,5,5,1,"Vegan, Knit, Recyclable",No,202.45,3,Yes,Size mismatch,Maybe,Yes
+13,Prefer not to say,UK,Tier 1,Professional,928.02,4,"Ethnic, Slippers",No,9.6,Yes,"Sole type, Color",Material & sole,5,2,3,4,2,Recyclable,Yes,152.93,2,Yes,Size mismatch,No,No
+36,Male,UAE,Tier 2,Professional,839.17,3,"Sneakers, Boots",Yes,8.3,No,"Color, Material, Full-design",Material & sole,5,2,4,4,2,"Recyclable, Leather",No,142.19,3,No,None of the above,Yes,Yes
+30,Female,UK,Tier 1,Student,1047.94,3,"Sports, Formal",No,10.4,Yes,"Full-design, Stitching pattern, Material",Full-design from scratch,3,2,1,5,4,"Leather, Knit, Recyclable",Yes,92.7,2,Yes,Generic designs,Yes,Yes
+27,Female,USA,Tier 2,Professional,2483.38,5,Sports,No,9.6,Yes,Color,Material & sole,3,4,2,2,4,Recyclable,No,74.13,5,Yes,Size mismatch,No,Yes
+30,Male,UK,Tier 3,Professional,1192.98,1,"Sports, Boots",No,7.8,No,"Sole type, Color, Stitching pattern",Full-design from scratch,5,1,5,3,4,Leather,Yes,109.62,5,No,Generic designs,Yes,Yes
+14,Female,India,Tier 2,Professional,2569.92,3,"Formal, Boots, Slippers",Yes,7.3,Yes,"Color, Material",Just color,2,4,4,2,1,"Canvas, Vegan, Leather",Yes,60.05,4,No,Generic designs,Yes,Yes
+28,Male,India,Tier 2,Professional,1488.76,7,Sports,No,6.8,Yes,"Material, Stitching pattern, Color",Material & sole,1,1,2,5,4,Recyclable,Yes,107.12,4,No,Long delivery times,Yes,Yes
+32,Female,UK,Tier 1,Self-employed,827.98,5,"Ethnic, Sports, Formal",No,9.3,Yes,"Material, Full-design",Just color,4,2,3,4,4,"Canvas, Recyclable, Knit",Yes,152.04,5,Yes,Generic designs,No,Yes
+41,Male,USA,Tier 1,Student,2690.93,6,Sports,No,9.9,Yes,"Stitching pattern, Sole type, Material",Full-design from scratch,3,3,2,4,5,"Recyclable, Vegan, Knit",Yes,159.27,4,Yes,Long delivery times,Yes,Yes
+25,Female,UK,Tier 2,Professional,608.28,5,"Sports, Boots",No,10.0,Yes,"Material, Color, Sole type",Full-design from scratch,1,2,1,1,1,Recyclable,Yes,106.32,5,No,Size mismatch,Maybe,Yes
+23,Male,UAE,Tier 1,Student,581.14,4,Casual,No,8.8,No,"Sole type, Color, Stitching pattern",Full-design from scratch,4,5,2,1,3,"Vegan, Recyclable",No,237.44,3,No,Generic designs,Maybe,Yes
+25,Male,UAE,Tier 1,Student,1253.29,4,"Sneakers, Formal, Boots",Yes,7.3,No,"Material, Color",Material & sole,4,1,2,4,3,Canvas,Yes,170.93,1,No,Size mismatch,Maybe,No
+37,Prefer not to say,Other,Tier 1,Professional,653.38,4,Ethnic,Yes,8.0,Yes,"Full-design, Stitching pattern",Material & sole,3,3,3,4,5,Recyclable,No,118.8,5,Yes,Size mismatch,Maybe,No
+32,Male,USA,Tier 1,Professional,213.69,5,"Boots, Sneakers, Formal",No,10.7,Yes,"Color, Sole type",Full-design from scratch,2,2,3,1,2,"Recyclable, Knit",Yes,165.66,5,Yes,Generic designs,Yes,Yes
+25,Female,India,Tier 1,Self-employed,1767.45,3,"Slippers, Sneakers",No,8.3,Yes,"Stitching pattern, Material",Full-design from scratch,2,3,5,1,3,"Canvas, Vegan, Recyclable",Yes,96.82,5,Yes,Size mismatch,No,Yes
+34,Male,USA,Tier 3,Professional,1273.38,5,Sports,Yes,9.2,Yes,"Full-design, Stitching pattern",Full-design from scratch,1,4,3,2,1,"Recyclable, Knit",Yes,130.16,4,No,Generic designs,Maybe,No
+30,Female,India,Tier 1,Other,1084.58,5,Ethnic,Yes,7.4,Yes,"Material, Stitching pattern",Material & sole,1,1,2,4,2,"Vegan, Recyclable",No,105.58,4,Yes,Long delivery times,No,Yes
+37,Male,USA,Tier 2,Student,5315.44,0,"Casual, Sneakers",No,9.5,No,Full-design,Full-design from scratch,5,5,1,4,4,"Knit, Canvas, Recyclable",No,71.53,4,No,Poor product information,Maybe,Yes
+24,Prefer not to say,UK,Tier 1,Student,1470.14,5,"Sneakers, Ethnic",No,8.3,Yes,"Material, Color",Just color,2,4,3,5,1,"Canvas, Vegan, Knit",Yes,141.31,4,Yes,Size mismatch,Yes,Yes
+27,Female,UK,Tier 2,Student,3186.39,2,Ethnic,Yes,10.6,Yes,Sole type,Material & sole,1,3,5,2,2,"Knit, Recyclable, Canvas",No,119.76,3,No,Generic designs,No,Yes
+26,Male,India,Tier 1,Student,425.28,6,"Ethnic, Sports, Slippers",Yes,10.2,Yes,Stitching pattern,Just color,5,2,5,3,3,"Vegan, Leather",Yes,122.73,5,Yes,None of the above,Yes,Yes
+18,Male,India,Tier 3,Professional,1463.19,4,"Ethnic, Casual",No,8.3,Yes,"Material, Stitching pattern, Full-design",Material & sole,4,1,2,3,4,"Leather, Knit, Vegan",Yes,118.91,3,No,Generic designs,Maybe,Yes
+32,Male,USA,Tier 3,Professional,3237.2,3,Formal,No,8.8,Yes,"Color, Full-design",Full-design from scratch,1,5,3,3,4,Recyclable,Yes,84.08,4,Yes,Generic designs,Maybe,Yes
+32,Female,India,Tier 1,Student,1512.38,5,Formal,No,8.2,Yes,Sole type,Full-design from scratch,5,2,3,1,1,Knit,Yes,183.53,3,No,Size mismatch,Maybe,No
+30,Male,UAE,Tier 3,Self-employed,2098.85,7,"Sneakers, Formal, Slippers",No,6.9,Yes,"Sole type, Full-design",Full-design from scratch,2,5,5,3,4,Knit,Yes,129.95,5,No,Size mismatch,No,No
+28,Female,India,Tier 3,Self-employed,897.93,4,Casual,No,7.7,Yes,Material,Material & sole,4,1,3,5,2,Canvas,No,109.32,5,Yes,Generic designs,Yes,Yes
+18,Male,India,Tier 3,Professional,345.51,2,"Formal, Sports",No,9.3,Yes,Material,Material & sole,1,3,2,1,5,"Leather, Knit",Yes,67.63,4,No,Size mismatch,Yes,Yes
+26,Male,India,Tier 3,Student,1118.46,5,"Slippers, Boots",No,9.5,Yes,"Stitching pattern, Full-design",Full-design from scratch,2,5,1,1,3,"Recyclable, Canvas, Leather",No,176.14,5,No,Long delivery times,Maybe,Yes
+27,Female,USA,Tier 1,Student,952.5,3,Sports,Yes,9.2,Yes,Color,Material & sole,4,1,2,3,1,Vegan,Yes,156.69,3,No,Poor product information,Yes,Yes
+23,Female,USA,Tier 2,Student,3226.79,0,"Boots, Sports, Ethnic",No,8.5,No,Sole type,Full-design from scratch,3,5,3,1,5,"Canvas, Recyclable",Yes,120.06,2,No,Generic designs,Yes,Yes
+28,Male,India,Tier 1,Student,619.56,3,Formal,No,10.4,Yes,"Color, Sole type, Material",Material & sole,2,2,2,2,5,"Knit, Canvas",No,68.63,5,No,Long delivery times,No,Yes
+33,Male,India,Tier 1,Professional,5304.84,9,"Sneakers, Slippers",No,9.1,Yes,Sole type,Material & sole,3,5,4,2,1,Knit,No,186.36,3,Yes,Long delivery times,Yes,Yes
+45,Male,USA,Tier 3,Professional,4960.07,4,Slippers,No,10.1,Yes,"Stitching pattern, Color",Material & sole,1,2,4,3,2,"Leather, Vegan",No,105.41,3,Yes,Generic designs,No,Yes
+31,Female,India,Tier 1,Professional,626.79,5,"Sports, Formal",No,6.3,Yes,"Full-design, Material, Sole type",Full-design from scratch,5,2,3,5,3,"Canvas, Leather, Knit",Yes,93.14,3,No,None of the above,Yes,Yes
+32,Female,UK,Tier 2,Other,841.69,4,"Sports, Sneakers",No,5.0,Yes,"Material, Stitching pattern, Color",Material & sole,1,1,3,1,1,"Vegan, Canvas",No,118.04,5,No,None of the above,No,No
+29,Female,USA,Tier 3,Professional,3588.65,2,"Slippers, Sneakers",Yes,9.4,Yes,Sole type,Material & sole,2,4,1,4,5,"Recyclable, Leather",No,135.01,2,Yes,None of the above,Maybe,Yes
+14,Female,India,Tier 3,Self-employed,5299.8,3,"Sneakers, Ethnic",No,6.9,Yes,"Sole type, Stitching pattern",Full-design from scratch,3,5,2,3,5,"Knit, Leather, Recyclable",Yes,113.25,4,No,Long delivery times,Yes,No
+29,Female,India,Tier 3,Student,1078.97,4,"Slippers, Boots, Sneakers",No,8.7,Yes,Color,Material & sole,3,3,1,1,1,"Vegan, Leather, Recyclable",Yes,20.0,4,Yes,Generic designs,Yes,No
+30,Female,Other,Tier 1,Professional,780.69,5,Formal,No,8.5,Yes,Stitching pattern,Full-design from scratch,4,2,3,3,5,"Knit, Vegan",Yes,129.99,5,No,Generic designs,Yes,Yes
+49,Female,USA,Tier 1,Professional,1320.12,4,"Formal, Sports",No,11.4,Yes,"Stitching pattern, Sole type",Material & sole,1,4,3,3,1,"Leather, Canvas",Yes,156.9,5,No,Size mismatch,Maybe,Yes
+28,Male,UK,Tier 1,Student,1946.02,5,"Ethnic, Boots, Sports",No,9.6,No,"Color, Sole type",Material & sole,1,2,5,5,1,"Recyclable, Leather, Knit",Yes,84.36,1,No,Size mismatch,Yes,Yes
+32,Male,India,Tier 1,Student,679.22,4,"Casual, Sports, Ethnic",No,9.2,Yes,"Material, Stitching pattern",Full-design from scratch,2,4,1,4,3,"Vegan, Leather, Canvas",No,182.42,2,Yes,Size mismatch,Yes,Yes
+29,Male,USA,Tier 1,Professional,2200.4,4,"Sneakers, Boots, Ethnic",Yes,10.3,Yes,"Full-design, Material, Stitching pattern",Material & sole,3,4,3,1,1,"Leather, Knit, Vegan",Yes,154.99,3,No,Size mismatch,No,Yes
+20,Male,India,Tier 1,Professional,279.56,5,Sports,Yes,9.6,Yes,Material,Material & sole,2,3,4,3,5,"Canvas, Knit, Vegan",No,138.75,3,No,Poor product information,Yes,Yes
+39,Female,USA,Tier 2,Professional,275.83,5,"Sports, Formal, Slippers",No,8.3,Yes,"Color, Stitching pattern",Material & sole,2,4,5,3,4,"Canvas, Recyclable, Leather",No,79.44,4,No,Size mismatch,Maybe,Yes
+36,Other,Other,Tier 2,Professional,932.34,3,"Sports, Ethnic, Formal",No,10.6,Yes,"Full-design, Stitching pattern",Material & sole,3,3,2,1,3,"Vegan, Recyclable, Knit",Yes,524.6,5,Yes,None of the above,Maybe,Yes
+36,Male,India,Tier 1,Professional,854.21,3,"Sports, Boots",No,7.3,No,"Stitching pattern, Sole type",Material & sole,2,1,5,3,5,"Recyclable, Leather, Vegan",Yes,134.2,2,No,Long delivery times,No,Yes
+22,Male,India,Tier 2,Student,768.89,2,Boots,No,9.5,No,"Full-design, Material",Just color,3,2,2,3,5,"Knit, Vegan",Yes,116.72,4,No,Size mismatch,No,Yes
+41,Female,India,Tier 1,Professional,1213.02,1,"Sports, Boots, Slippers",Yes,6.7,Yes,"Sole type, Material",Full-design from scratch,2,3,4,3,3,Canvas,No,155.65,2,No,Size mismatch,Yes,Yes
+18,Other,India,Tier 1,Student,780.11,6,"Ethnic, Boots",No,9.3,Yes,"Sole type, Material",Full-design from scratch,5,2,2,2,3,"Leather, Vegan",No,105.57,5,No,Long delivery times,No,Yes
+34,Male,India,Tier 2,Student,520.27,3,"Boots, Casual, Ethnic",Yes,9.3,Yes,"Sole type, Full-design",Just color,2,5,1,2,5,"Leather, Vegan, Canvas",Yes,109.13,3,No,Long delivery times,Maybe,Yes
+47,Female,India,Tier 2,Other,755.44,3,Ethnic,No,11.5,Yes,"Stitching pattern, Material, Full-design",Material & sole,2,1,2,4,4,Vegan,No,93.35,1,Yes,None of the above,Yes,No
+22,Male,UK,Tier 2,Professional,5727.59,3,"Casual, Formal, Slippers",No,6.7,Yes,"Sole type, Stitching pattern",Material & sole,5,5,2,5,2,"Vegan, Canvas, Leather",Yes,101.95,2,No,None of the above,Yes,Yes
+25,Male,USA,Tier 1,Entrepreneur,994.28,5,"Formal, Ethnic",No,8.1,No,"Color, Material",Just color,1,5,5,1,5,"Recyclable, Canvas",No,114.0,3,No,None of the above,Maybe,Yes
+30,Prefer not to say,India,Tier 3,Professional,1082.4,4,"Casual, Sneakers, Slippers",Yes,10.2,No,"Full-design, Material, Sole type",Material & sole,3,4,4,5,3,"Vegan, Canvas",Yes,112.56,2,Yes,Poor product information,Yes,Yes
+25,Prefer not to say,Other,Tier 2,Professional,1488.96,6,Sports,Yes,9.5,Yes,"Color, Stitching pattern, Sole type",Material & sole,4,4,2,5,1,"Recyclable, Canvas, Leather",Yes,110.76,2,No,Size mismatch,No,Yes
+17,Male,India,Tier 2,Professional,6342.19,3,"Boots, Slippers",No,9.3,Yes,Stitching pattern,Material & sole,5,5,1,2,1,Knit,Yes,156.96,2,Yes,Long delivery times,Yes,Yes
+30,Prefer not to say,Other,Tier 2,Student,614.82,1,Sports,No,7.6,Yes,"Color, Stitching pattern",Material & sole,1,4,5,4,3,"Knit, Leather",Yes,180.11,5,Yes,Size mismatch,Yes,Yes
+21,Female,India,Tier 3,Student,1915.17,3,"Formal, Boots, Casual",No,8.1,Yes,"Stitching pattern, Material, Sole type",Material & sole,2,2,4,5,3,Vegan,Yes,68.73,4,No,Long delivery times,Maybe,No
+33,Female,UAE,Tier 2,Entrepreneur,2088.09,7,Casual,Yes,10.9,Yes,"Material, Sole type",Full-design from scratch,1,4,4,5,2,"Knit, Recyclable",No,179.18,2,No,Generic designs,Yes,Yes
+22,Female,USA,Tier 2,Professional,1602.16,5,Formal,No,8.9,Yes,"Material, Stitching pattern, Full-design",Full-design from scratch,5,5,3,3,3,Knit,Yes,146.98,5,No,Long delivery times,No,Yes
+42,Female,UAE,Tier 3,Professional,339.12,4,"Casual, Formal",No,9.6,Yes,Stitching pattern,Material & sole,2,4,1,1,1,"Recyclable, Leather",No,84.28,1,No,Size mismatch,Yes,Yes
+23,Female,Other,Tier 2,Professional,1894.56,6,"Slippers, Boots",No,8.8,Yes,"Stitching pattern, Full-design, Sole type",Full-design from scratch,1,4,5,4,4,"Canvas, Knit",Yes,106.8,4,No,Generic designs,Yes,Yes
+27,Female,India,Tier 1,Self-employed,299.36,6,"Casual, Boots, Ethnic",No,7.2,Yes,"Stitching pattern, Color, Material",Material & sole,4,3,5,1,3,"Vegan, Canvas, Recyclable",No,131.36,5,No,Generic designs,Maybe,Yes
+36,Male,Other,Tier 2,Student,1560.04,2,Ethnic,Yes,10.4,Yes,"Full-design, Color, Stitching pattern",Full-design from scratch,3,3,1,2,2,Canvas,No,53.8,1,No,None of the above,No,Yes
+20,Male,India,Tier 1,Professional,2218.2,3,"Casual, Ethnic, Sports",No,9.8,Yes,Sole type,Material & sole,3,5,4,5,4,Knit,No,116.53,4,No,Size mismatch,Maybe,No
+31,Male,India,Tier 1,Professional,555.43,6,Casual,No,12.5,Yes,Full-design,Full-design from scratch,5,2,2,5,2,Leather,Yes,141.02,5,No,None of the above,Maybe,Yes
+40,Female,India,Tier 2,Entrepreneur,2964.16,4,Sports,No,7.5,Yes,Full-design,Material & sole,2,1,1,1,4,Leather,Yes,90.23,1,Yes,Long delivery times,Maybe,Yes
+17,Male,USA,Tier 3,Other,246.24,1,"Boots, Formal, Casual",No,10.2,Yes,"Stitching pattern, Sole type, Material",Material & sole,2,1,5,2,3,Recyclable,No,60.81,5,No,Generic designs,Maybe,Yes
+31,Female,India,Tier 3,Professional,2985.05,2,"Boots, Formal",No,7.0,Yes,Color,Material & sole,3,5,1,3,1,Knit,Yes,127.95,1,No,Long delivery times,Yes,Yes
+32,Prefer not to say,USA,Tier 1,Self-employed,1125.19,5,"Casual, Formal, Slippers",Yes,9.2,Yes,Sole type,Material & sole,1,2,4,3,4,Knit,Yes,208.33,2,No,Generic designs,Maybe,No
+36,Male,USA,Tier 2,Self-employed,568.06,3,"Sneakers, Casual, Sports",No,10.5,Yes,Full-design,Material & sole,2,2,3,5,5,"Leather, Knit, Canvas",Yes,91.47,2,No,Size mismatch,Yes,Yes
+20,Female,UK,Tier 1,Professional,415.42,5,Ethnic,No,5.9,Yes,"Full-design, Material, Stitching pattern",Material & sole,4,2,3,5,2,"Leather, Knit",No,92.52,4,Yes,Size mismatch,Yes,Yes
+19,Male,UAE,Tier 3,Professional,4796.25,4,"Slippers, Casual",No,8.7,No,"Stitching pattern, Full-design",Full-design from scratch,4,3,2,4,4,Recyclable,No,111.98,1,No,Long delivery times,Yes,No
+34,Female,USA,Tier 3,Professional,313.16,5,Sports,Yes,8.2,Yes,"Full-design, Material, Stitching pattern",Material & sole,2,5,2,1,2,Canvas,No,731.16,2,Yes,Generic designs,Yes,Yes
+32,Male,India,Tier 2,Other,533.02,5,"Slippers, Formal",No,7.9,Yes,Stitching pattern,Material & sole,2,1,4,5,1,"Recyclable, Knit, Vegan",Yes,53.9,4,Yes,Size mismatch,No,Yes
+32,Female,India,Tier 3,Student,841.16,3,"Casual, Formal, Sneakers",Yes,9.6,Yes,Sole type,Material & sole,3,2,2,2,2,"Recyclable, Canvas",Yes,150.79,3,No,Generic designs,Yes,Yes
+32,Female,India,Tier 2,Entrepreneur,1652.3,6,"Ethnic, Sneakers, Boots",Yes,10.7,Yes,"Color, Full-design",Full-design from scratch,5,5,3,1,2,"Leather, Vegan, Knit",No,101.16,2,No,Poor product information,Yes,Yes
+24,Other,India,Tier 2,Professional,1380.53,6,Sports,No,8.8,No,"Material, Sole type, Full-design",Full-design from scratch,3,1,4,4,5,"Recyclable, Leather, Canvas",Yes,104.61,2,No,Size mismatch,Yes,Yes
+31,Female,India,Tier 1,Entrepreneur,401.4,4,Ethnic,No,9.3,Yes,"Stitching pattern, Material",Full-design from scratch,5,3,4,3,2,Leather,Yes,79.59,5,Yes,Generic designs,Yes,Yes
+32,Female,India,Tier 1,Professional,713.16,2,Boots,No,9.2,Yes,"Stitching pattern, Sole type, Material",Material & sole,4,4,4,4,4,"Canvas, Knit",Yes,110.04,3,No,Size mismatch,Maybe,No
+24,Female,Other,Tier 2,Professional,609.19,3,Slippers,No,9.0,Yes,Stitching pattern,Material & sole,5,1,1,1,2,Vegan,Yes,80.75,1,No,Size mismatch,Yes,Yes
+44,Female,USA,Tier 2,Self-employed,560.33,5,"Boots, Slippers",No,7.4,Yes,"Stitching pattern, Sole type, Color",Just color,3,1,2,3,3,"Leather, Recyclable, Canvas",Yes,98.31,4,Yes,Poor product information,Yes,No
+33,Female,India,Tier 1,Self-employed,994.36,5,Sneakers,No,10.7,No,"Color, Full-design",Material & sole,2,1,5,2,2,"Knit, Recyclable, Leather",Yes,21.38,3,Yes,Generic designs,Yes,Yes
+20,Male,USA,Tier 3,Self-employed,2026.25,3,Sports,No,9.4,Yes,Sole type,Just color,5,4,3,3,3,Knit,Yes,50.64,1,Yes,Size mismatch,Yes,Yes
+35,Other,India,Tier 1,Student,567.8,3,"Casual, Sports",Yes,9.6,Yes,"Color, Material, Sole type",Material & sole,3,2,2,3,2,"Vegan, Canvas, Recyclable",Yes,133.47,2,No,Poor product information,No,Yes
+22,Female,USA,Tier 2,Professional,885.17,3,"Formal, Ethnic",No,7.8,No,Full-design,Material & sole,4,4,3,2,2,"Leather, Knit, Canvas",No,170.49,4,No,Size mismatch,Yes,No
+36,Female,USA,Tier 2,Student,943.7,2,Ethnic,No,8.3,No,Full-design,Material & sole,5,1,2,5,4,"Recyclable, Leather, Vegan",Yes,249.19,4,No,Size mismatch,Yes,Yes
+39,Male,USA,Tier 2,Professional,5823.36,4,Casual,No,8.7,Yes,Sole type,Material & sole,4,3,5,5,3,Recyclable,Yes,156.98,3,No,Size mismatch,Yes,Yes
+23,Female,USA,Tier 2,Professional,4840.56,1,"Slippers, Sneakers, Boots",No,6.7,Yes,"Stitching pattern, Full-design, Color",Full-design from scratch,4,1,3,3,3,"Recyclable, Leather",No,99.41,5,No,Size mismatch,Yes,Yes
+37,Male,Other,Tier 1,Professional,2615.19,6,"Formal, Slippers, Ethnic",Yes,6.5,Yes,"Material, Full-design",Just color,1,3,5,3,5,Canvas,No,40.65,1,No,Size mismatch,Maybe,No
+33,Female,UAE,Tier 1,Professional,614.93,5,Sneakers,No,8.1,Yes,"Stitching pattern, Full-design, Color",Full-design from scratch,5,5,3,4,2,"Knit, Recyclable, Canvas",Yes,141.59,3,No,Long delivery times,Yes,No
+36,Male,USA,Tier 2,Other,305.69,4,Formal,Yes,9.8,No,"Full-design, Material, Stitching pattern",Just color,3,3,1,5,2,"Canvas, Leather",No,61.9,5,No,Poor product information,Maybe,Yes
+45,Female,USA,Tier 2,Student,771.68,2,"Casual, Sneakers, Formal",No,8.0,Yes,"Stitching pattern, Full-design, Color",Just color,5,1,1,2,4,"Knit, Recyclable",Yes,87.71,5,No,Size mismatch,Maybe,Yes
+28,Prefer not to say,USA,Tier 1,Professional,665.49,4,"Formal, Ethnic",Yes,7.5,Yes,"Material, Full-design, Stitching pattern",Just color,5,4,3,3,5,"Knit, Canvas, Recyclable",Yes,155.44,5,No,Size mismatch,Yes,Yes
+23,Male,India,Tier 2,Professional,1257.6,5,Sneakers,No,7.8,No,"Color, Full-design, Sole type",Full-design from scratch,4,1,3,3,5,"Leather, Knit",Yes,131.77,4,Yes,Size mismatch,Maybe,No
+22,Prefer not to say,India,Tier 1,Student,2455.78,5,Slippers,No,8.3,Yes,Sole type,Material & sole,4,1,5,4,4,"Leather, Knit",Yes,82.84,1,Yes,Long delivery times,Maybe,Yes
+23,Male,India,Tier 2,Student,3131.31,5,"Formal, Slippers",No,8.5,Yes,"Material, Stitching pattern",Full-design from scratch,4,5,4,4,3,Canvas,No,51.74,1,No,Poor product information,No,Yes
+29,Female,USA,Tier 3,Self-employed,2995.18,6,"Casual, Slippers",No,12.2,No,Sole type,Material & sole,4,2,3,4,1,"Vegan, Canvas",Yes,128.49,3,Yes,Size mismatch,Yes,No
+32,Female,USA,Tier 1,Self-employed,868.67,6,Formal,No,10.6,No,"Stitching pattern, Sole type, Full-design",Just color,3,1,2,1,4,Vegan,Yes,133.43,2,No,Poor product information,No,Yes
+32,Female,India,Tier 1,Self-employed,1943.45,4,Ethnic,No,10.5,No,"Full-design, Stitching pattern",Full-design from scratch,2,5,2,2,3,"Recyclable, Canvas, Vegan",No,180.15,3,No,Generic designs,Yes,Yes
+36,Female,Other,Tier 2,Other,762.77,4,Sneakers,No,10.8,Yes,"Color, Sole type, Material",Just color,1,4,2,1,5,Recyclable,Yes,20.32,1,Yes,Size mismatch,Yes,Yes
+30,Female,Other,Tier 2,Professional,294.26,5,"Casual, Sports",No,7.5,No,"Full-design, Material",Full-design from scratch,4,5,1,3,4,Vegan,No,124.73,4,No,Generic designs,Maybe,Yes
+41,Male,UK,Tier 2,Professional,2013.81,6,"Casual, Ethnic",No,7.2,Yes,"Sole type, Color, Full-design",Just color,4,5,5,4,1,"Recyclable, Knit",No,156.67,3,No,Poor product information,Maybe,Yes
+27,Male,USA,Tier 3,Professional,214.81,4,"Sneakers, Ethnic, Boots",Yes,7.3,Yes,Sole type,Material & sole,1,3,1,4,2,"Recyclable, Canvas",Yes,103.19,2,Yes,Size mismatch,Yes,Yes
+51,Female,UAE,Tier 3,Professional,989.37,6,"Sports, Slippers",No,11.0,No,Material,Full-design from scratch,4,2,2,4,4,Canvas,No,56.13,3,No,Generic designs,Maybe,Yes
+35,Female,India,Tier 3,Professional,799.33,2,"Formal, Boots",Yes,8.2,Yes,"Color, Material",Full-design from scratch,2,2,3,5,1,"Recyclable, Canvas, Leather",Yes,83.01,5,No,Generic designs,Maybe,Yes
+23,Female,UK,Tier 2,Professional,1973.21,3,"Sports, Slippers",No,7.1,No,"Material, Stitching pattern",Material & sole,5,4,2,2,1,"Recyclable, Canvas",Yes,121.5,2,Yes,Generic designs,Yes,Yes
+21,Female,India,Tier 1,Professional,2380.23,4,"Sneakers, Casual, Ethnic",No,8.4,Yes,"Full-design, Material",Full-design from scratch,1,5,3,1,4,"Canvas, Recyclable",Yes,100.52,5,Yes,Poor product information,Yes,No
+33,Male,UK,Tier 1,Professional,743.81,5,"Boots, Slippers",No,8.6,Yes,"Stitching pattern, Full-design, Color",Just color,3,4,5,2,3,"Leather, Recyclable",No,132.16,4,Yes,Generic designs,Yes,Yes
+28,Female,India,Tier 1,Student,2704.0,4,Sneakers,No,9.4,No,"Full-design, Material",Full-design from scratch,1,4,4,4,4,Knit,No,171.17,1,Yes,Poor product information,Maybe,Yes
+35,Male,UAE,Tier 2,Professional,722.03,6,"Formal, Casual, Sports",No,9.4,Yes,"Material, Stitching pattern, Full-design",Material & sole,2,2,3,3,5,Leather,Yes,104.03,3,Yes,Generic designs,Maybe,Yes
+33,Female,Other,Tier 1,Professional,1086.77,2,"Sneakers, Sports, Boots",Yes,7.8,Yes,Material,Just color,3,2,1,5,1,"Vegan, Recyclable",Yes,168.79,3,No,Generic designs,Yes,Yes
+29,Male,India,Tier 3,Professional,2147.53,7,"Ethnic, Slippers, Formal",No,10.0,Yes,"Stitching pattern, Color",Material & sole,5,2,2,2,1,"Vegan, Knit",Yes,115.37,5,Yes,Size mismatch,No,No
+23,Male,USA,Tier 2,Professional,1970.97,2,"Sneakers, Sports",Yes,8.0,No,"Color, Stitching pattern",Just color,4,1,2,3,2,Canvas,No,133.56,5,No,Generic designs,Maybe,Yes
+17,Male,Other,Tier 2,Entrepreneur,6757.34,3,"Casual, Boots, Slippers",No,8.8,Yes,Material,Material & sole,1,5,2,4,1,Canvas,No,115.32,1,Yes,Generic designs,Maybe,Yes
+26,Male,USA,Tier 1,Student,582.65,7,"Slippers, Sports, Casual",Yes,10.0,Yes,"Full-design, Stitching pattern",Material & sole,3,4,3,4,2,Leather,No,134.59,3,No,Poor product information,Yes,No
+36,Female,UAE,Tier 1,Professional,1828.48,2,"Casual, Ethnic, Sneakers",No,8.0,Yes,"Stitching pattern, Full-design",Material & sole,1,5,5,4,1,"Recyclable, Knit, Vegan",No,141.55,1,No,Long delivery times,No,Yes
+31,Male,USA,Tier 1,Entrepreneur,1611.19,3,"Sneakers, Ethnic",No,8.1,No,"Stitching pattern, Full-design, Color",Full-design from scratch,5,4,3,4,1,"Recyclable, Canvas, Knit",Yes,145.67,5,No,Long delivery times,Maybe,Yes
+20,Male,India,Tier 1,Professional,3899.39,2,"Boots, Formal",Yes,9.9,Yes,Full-design,Just color,1,4,1,5,4,Canvas,Yes,120.13,5,No,Size mismatch,Yes,No
+31,Male,India,Tier 1,Professional,455.05,5,Sneakers,No,7.7,Yes,Material,Material & sole,3,4,2,5,4,"Leather, Knit, Recyclable",Yes,20.0,2,Yes,None of the above,Yes,Yes
+33,Male,India,Tier 2,Professional,2290.27,1,"Sneakers, Ethnic, Formal",No,8.4,Yes,"Color, Sole type",Material & sole,2,4,3,2,5,"Vegan, Canvas, Knit",No,143.82,5,No,Poor product information,Maybe,Yes
+22,Male,UK,Tier 3,Professional,1459.93,4,"Boots, Casual, Sneakers",No,9.8,Yes,Full-design,Full-design from scratch,3,3,2,4,3,"Vegan, Knit, Leather",Yes,41.19,5,Yes,Generic designs,Yes,Yes
+31,Male,India,Tier 3,Entrepreneur,681.68,2,"Slippers, Sports, Casual",No,12.1,Yes,"Material, Stitching pattern",Material & sole,1,3,1,5,5,"Vegan, Recyclable",Yes,95.72,1,Yes,Long delivery times,Maybe,No
+30,Female,USA,Tier 2,Entrepreneur,1164.92,4,"Formal, Sneakers",Yes,9.9,Yes,"Stitching pattern, Color, Sole type",Material & sole,5,1,4,3,1,Canvas,No,24.35,2,No,Generic designs,Yes,Yes
+20,Female,USA,Tier 1,Professional,809.2,4,"Boots, Ethnic, Casual",Yes,9.7,Yes,Sole type,Material & sole,4,2,4,5,5,Canvas,No,187.94,2,No,Poor product information,Yes,Yes
+32,Female,USA,Tier 3,Professional,1498.8,3,"Sneakers, Slippers",No,9.8,No,"Sole type, Color, Full-design",Material & sole,4,4,4,5,4,Vegan,Yes,136.69,3,Yes,None of the above,Yes,No
+34,Female,UAE,Tier 3,Student,3497.35,3,"Formal, Boots, Sneakers",No,7.4,No,"Full-design, Material",Just color,5,5,2,2,1,Knit,No,106.97,4,No,Size mismatch,Yes,Yes
+38,Male,Other,Tier 1,Professional,1463.53,3,"Formal, Ethnic, Sports",No,9.2,Yes,"Color, Material",Material & sole,1,3,3,5,1,"Canvas, Recyclable",No,176.76,3,No,Size mismatch,Yes,Yes
+38,Female,USA,Tier 2,Professional,1698.38,4,"Boots, Ethnic",Yes,9.0,Yes,"Color, Stitching pattern",Just color,5,2,2,3,5,Leather,Yes,141.28,3,No,Poor product information,No,Yes
+18,Female,UAE,Tier 1,Professional,1297.05,4,"Boots, Casual, Sports",Yes,9.5,No,"Sole type, Color",Material & sole,1,1,5,4,2,Vegan,Yes,124.98,3,Yes,Long delivery times,Yes,Yes
+22,Female,UK,Tier 3,Professional,278.78,3,Ethnic,No,9.2,Yes,"Color, Material",Material & sole,3,2,3,1,3,"Vegan, Knit, Canvas",Yes,135.81,2,Yes,None of the above,Maybe,Yes
+34,Male,USA,Tier 3,Professional,597.63,5,"Formal, Slippers",Yes,9.6,Yes,Full-design,Material & sole,2,4,1,2,5,Vegan,Yes,104.72,1,No,Size mismatch,No,No
+34,Male,Other,Tier 1,Student,1215.92,3,Sports,No,8.5,Yes,"Sole type, Stitching pattern, Color",Just color,1,2,4,3,5,"Leather, Vegan",No,70.41,5,Yes,Long delivery times,Yes,Yes
+34,Male,India,Tier 3,Professional,757.11,5,Formal,Yes,9.1,Yes,"Material, Full-design, Color",Full-design from scratch,4,4,3,2,3,"Knit, Vegan, Recyclable",Yes,158.44,2,No,Size mismatch,Yes,Yes
+60,Male,India,Tier 2,Professional,500.91,1,"Boots, Sports",Yes,7.2,No,Full-design,Full-design from scratch,4,3,3,4,1,"Recyclable, Leather, Knit",Yes,117.16,5,No,None of the above,No,Yes
+34,Female,UAE,Tier 3,Entrepreneur,1252.17,6,"Sneakers, Ethnic",No,8.5,Yes,"Full-design, Sole type",Just color,2,3,4,5,1,Vegan,Yes,49.64,5,No,Generic designs,Yes,Yes
+39,Female,USA,Tier 1,Student,784.7,6,"Formal, Ethnic, Sneakers",No,11.1,Yes,"Full-design, Material, Stitching pattern",Material & sole,1,4,1,5,2,"Leather, Canvas",Yes,140.3,4,No,Size mismatch,Yes,Yes
+37,Female,UAE,Tier 3,Professional,647.83,2,"Sneakers, Formal",No,9.5,Yes,"Sole type, Full-design, Stitching pattern",Material & sole,2,5,2,3,5,"Recyclable, Vegan, Knit",Yes,121.63,3,No,Size mismatch,Maybe,Yes
+35,Female,UAE,Tier 1,Self-employed,1135.39,6,Ethnic,Yes,9.0,Yes,"Full-design, Color",Just color,3,3,2,4,3,Recyclable,No,187.99,4,No,Size mismatch,Yes,Yes
+27,Female,India,Tier 1,Student,414.57,6,"Sports, Slippers, Sneakers",No,11.8,Yes,Stitching pattern,Material & sole,2,5,3,1,5,"Recyclable, Leather",Yes,130.74,3,No,Size mismatch,Yes,No
+36,Female,UAE,Tier 1,Professional,4141.35,4,Formal,No,7.0,Yes,Sole type,Material & sole,3,4,4,1,4,Knit,No,72.76,2,Yes,Long delivery times,No,Yes
+23,Prefer not to say,USA,Tier 3,Student,3234.05,2,"Boots, Sneakers, Sports",No,7.3,No,"Material, Full-design, Color",Full-design from scratch,4,4,5,5,5,"Vegan, Knit",No,48.39,5,No,Size mismatch,No,Yes
+28,Male,USA,Tier 3,Professional,2044.55,3,"Formal, Sports, Sneakers",No,11.6,No,Sole type,Full-design from scratch,3,3,1,4,5,"Vegan, Canvas",Yes,170.57,4,No,None of the above,Yes,Yes
+26,Male,USA,Tier 3,Professional,368.43,5,Slippers,No,9.1,No,Stitching pattern,Material & sole,1,5,2,4,4,"Knit, Leather",No,117.46,2,No,Generic designs,Maybe,No
+30,Male,Other,Tier 3,Professional,2443.34,3,"Ethnic, Boots",No,8.6,No,"Material, Sole type",Material & sole,1,4,1,3,4,"Recyclable, Canvas, Vegan",No,85.37,2,No,Generic designs,No,No
+48,Female,India,Tier 1,Professional,2675.06,1,"Boots, Casual, Sneakers",No,7.2,Yes,"Stitching pattern, Full-design, Material",Full-design from scratch,1,3,1,1,3,"Vegan, Leather, Knit",Yes,91.21,3,No,Size mismatch,No,Yes
+15,Female,USA,Tier 1,Self-employed,2390.01,3,"Slippers, Ethnic, Boots",No,9.7,Yes,Color,Full-design from scratch,1,4,1,3,1,"Leather, Canvas, Knit",Yes,171.93,5,No,Long delivery times,Yes,Yes
+35,Male,UK,Tier 1,Student,381.5,4,"Slippers, Boots",Yes,9.8,Yes,"Full-design, Sole type",Full-design from scratch,5,2,4,2,2,"Recyclable, Canvas, Vegan",No,138.87,3,No,Generic designs,Maybe,Yes
+17,Other,UK,Tier 1,Student,1748.85,4,"Formal, Ethnic",No,7.4,Yes,"Sole type, Stitching pattern, Material",Just color,3,2,4,4,4,"Knit, Vegan",No,163.89,3,No,Long delivery times,Yes,Yes
+26,Male,UK,Tier 1,Self-employed,2896.59,5,"Sneakers, Casual",No,8.8,No,"Full-design, Color",Just color,1,3,4,1,1,Canvas,Yes,129.81,2,Yes,None of the above,No,No
+38,Other,India,Tier 1,Professional,1491.83,4,Slippers,No,8.5,No,"Color, Stitching pattern, Sole type",Material & sole,2,4,3,3,3,"Recyclable, Canvas",Yes,86.54,3,Yes,Size mismatch,Yes,Yes
+30,Male,India,Tier 1,Self-employed,1759.41,1,"Casual, Boots, Sneakers",No,9.4,Yes,"Sole type, Color, Full-design",Material & sole,2,3,4,5,5,"Leather, Knit",Yes,191.46,1,No,Size mismatch,Maybe,Yes
+21,Male,India,Tier 1,Professional,1119.74,4,"Formal, Casual, Sneakers",No,7.3,Yes,"Material, Stitching pattern",Just color,5,1,3,2,3,"Canvas, Leather",Yes,104.36,5,No,Long delivery times,Yes,Yes
+24,Female,UAE,Tier 1,Self-employed,1328.41,2,Ethnic,No,10.9,No,Stitching pattern,Just color,3,3,2,3,3,Leather,Yes,152.18,3,No,Long delivery times,Yes,Yes
+35,Male,India,Tier 1,Professional,252.47,4,"Formal, Casual",Yes,10.4,No,"Sole type, Full-design",Full-design from scratch,3,3,2,5,4,"Vegan, Knit, Leather",Yes,163.37,3,Yes,Generic designs,Maybe,Yes
+24,Male,India,Tier 3,Entrepreneur,1728.16,2,"Casual, Boots",No,8.5,Yes,"Full-design, Material",Full-design from scratch,3,2,2,1,2,"Vegan, Canvas, Recyclable",Yes,120.25,4,Yes,Poor product information,Yes,Yes
+31,Male,Other,Tier 2,Self-employed,327.43,3,Formal,No,8.7,No,"Stitching pattern, Sole type, Full-design",Material & sole,5,2,2,1,4,"Vegan, Leather, Recyclable",Yes,75.47,5,Yes,Generic designs,Yes,Yes
+30,Female,India,Tier 3,Professional,1056.43,2,Formal,No,8.8,Yes,Color,Full-design from scratch,3,4,2,2,5,"Recyclable, Canvas",Yes,92.87,5,No,Poor product information,No,Yes
+24,Female,Other,Tier 1,Student,719.36,4,"Ethnic, Formal",No,7.8,Yes,Stitching pattern,Material & sole,3,3,4,5,4,Canvas,Yes,147.09,3,Yes,Size mismatch,Maybe,Yes
+47,Male,UK,Tier 1,Professional,1382.6,3,"Formal, Sports, Sneakers",Yes,8.3,Yes,Color,Full-design from scratch,1,3,5,4,5,Leather,Yes,141.35,1,Yes,Poor product information,Yes,Yes
+35,Female,UAE,Tier 2,Student,414.79,6,"Casual, Boots",No,8.6,Yes,Stitching pattern,Material & sole,3,4,4,1,4,"Knit, Recyclable",Yes,172.03,4,No,Size mismatch,Yes,Yes
+13,Female,India,Tier 1,Professional,1964.75,3,"Sneakers, Sports",Yes,11.4,Yes,"Color, Stitching pattern",Just color,1,5,5,4,2,"Vegan, Knit, Recyclable",No,165.57,1,No,Poor product information,Maybe,Yes
+31,Male,India,Tier 1,Professional,2577.2,6,Slippers,No,10.4,Yes,Material,Material & sole,1,4,4,4,1,Leather,No,81.88,3,Yes,None of the above,No,No
+24,Male,UK,Tier 1,Professional,467.53,2,"Sneakers, Boots",No,10.4,No,"Sole type, Material, Stitching pattern",Material & sole,3,2,2,3,2,Canvas,Yes,177.75,5,No,Long delivery times,Yes,No
+36,Male,UAE,Tier 1,Professional,365.25,5,"Sports, Boots, Sneakers",No,9.6,Yes,Sole type,Material & sole,2,2,1,3,4,Recyclable,Yes,78.95,5,No,None of the above,Maybe,Yes
+23,Male,UK,Tier 1,Professional,435.89,4,"Sports, Casual",No,7.3,Yes,"Color, Sole type",Just color,4,3,5,1,3,"Leather, Vegan",Yes,143.79,1,No,Long delivery times,No,Yes
+29,Female,India,Tier 1,Professional,3344.91,7,"Slippers, Sneakers",No,8.9,Yes,"Material, Color, Full-design",Full-design from scratch,2,2,1,4,1,"Vegan, Leather",Yes,216.86,2,No,Poor product information,Yes,Yes
+34,Male,UK,Tier 2,Student,1326.77,4,"Boots, Ethnic",No,10.5,Yes,"Sole type, Material, Stitching pattern",Material & sole,3,4,2,3,3,"Vegan, Canvas, Leather",Yes,132.5,3,No,Long delivery times,Yes,Yes
+36,Female,UK,Tier 1,Student,1144.59,2,"Boots, Slippers, Formal",No,7.1,Yes,"Color, Full-design, Stitching pattern",Just color,3,3,5,5,2,"Vegan, Recyclable, Canvas",Yes,48.85,5,Yes,None of the above,Yes,Yes
+20,Female,UK,Tier 1,Student,369.27,4,"Formal, Casual",No,10.0,Yes,Stitching pattern,Material & sole,2,4,1,5,1,"Leather, Recyclable",No,106.96,2,Yes,None of the above,Maybe,Yes
+27,Male,UK,Tier 3,Professional,1772.83,8,"Sneakers, Sports",Yes,12.5,Yes,Material,Material & sole,3,4,4,5,4,Recyclable,Yes,206.99,5,No,Generic designs,Yes,Yes
+26,Female,UAE,Tier 1,Professional,3237.43,3,"Casual, Ethnic",No,10.6,Yes,"Material, Stitching pattern, Color",Material & sole,1,3,2,5,3,"Recyclable, Canvas",Yes,111.72,5,No,Size mismatch,Yes,No
+24,Male,USA,Tier 1,Professional,2842.01,2,"Slippers, Sneakers, Formal",No,11.1,Yes,Sole type,Full-design from scratch,5,5,4,4,4,Canvas,No,173.08,2,No,Size mismatch,Maybe,No
+44,Prefer not to say,India,Tier 3,Professional,1675.47,5,"Formal, Boots",Yes,9.3,Yes,Stitching pattern,Material & sole,3,2,4,5,5,Leather,No,81.74,1,Yes,Size mismatch,Yes,Yes
+33,Female,USA,Tier 1,Self-employed,317.39,4,"Sports, Sneakers, Boots",No,10.5,No,"Material, Stitching pattern, Color",Material & sole,3,1,2,4,1,"Knit, Leather, Vegan",Yes,105.77,3,No,None of the above,No,Yes
+19,Female,India,Tier 1,Student,378.85,2,"Ethnic, Sports, Slippers",No,7.9,Yes,Stitching pattern,Full-design from scratch,2,1,5,1,3,Recyclable,Yes,111.37,2,Yes,Poor product information,Yes,Yes
+37,Female,USA,Tier 1,Professional,275.85,6,"Sneakers, Formal, Slippers",No,10.2,Yes,Color,Just color,1,1,3,1,2,"Knit, Recyclable, Leather",Yes,198.04,2,No,Long delivery times,No,Yes
+46,Male,USA,Tier 1,Professional,646.56,3,Sports,No,10.0,Yes,Sole type,Material & sole,2,2,3,5,2,Leather,Yes,107.76,5,Yes,Poor product information,Yes,Yes
+38,Female,India,Tier 2,Entrepreneur,418.69,2,"Sneakers, Casual",No,9.4,Yes,"Sole type, Material",Full-design from scratch,2,5,2,5,2,"Canvas, Recyclable",Yes,44.58,2,No,Generic designs,Yes,Yes
+17,Prefer not to say,India,Tier 3,Self-employed,651.76,8,Sneakers,No,11.0,Yes,"Material, Full-design",Just color,3,4,3,5,2,"Knit, Canvas, Vegan",Yes,215.28,3,Yes,Size mismatch,No,Yes
+26,Female,India,Tier 1,Student,929.34,5,"Casual, Sneakers",Yes,8.2,No,Full-design,Material & sole,1,3,1,1,3,"Recyclable, Knit, Leather",Yes,129.1,1,Yes,Size mismatch,No,Yes
+40,Female,UAE,Tier 2,Student,4496.6,4,"Slippers, Sneakers",No,8.7,No,"Color, Material, Stitching pattern",Full-design from scratch,3,5,5,3,5,Knit,No,146.19,1,Yes,Poor product information,No,Yes
+24,Female,Other,Tier 2,Self-employed,1613.86,2,"Slippers, Sports",No,9.1,Yes,"Material, Full-design",Material & sole,3,1,4,1,2,"Knit, Vegan",No,55.73,1,No,Generic designs,No,No
+33,Male,India,Tier 1,Professional,2902.48,3,"Sports, Ethnic",No,7.5,Yes,"Full-design, Stitching pattern",Material & sole,3,2,4,5,2,Vegan,Yes,130.31,3,Yes,Size mismatch,No,Yes
+36,Male,Other,Tier 2,Professional,2058.63,6,"Sports, Casual, Formal",Yes,9.3,Yes,Color,Full-design from scratch,3,2,2,3,2,"Leather, Knit, Canvas",Yes,120.76,5,No,Long delivery times,No,Yes
+22,Female,USA,Tier 1,Professional,379.03,0,"Sports, Ethnic, Slippers",Yes,6.4,No,Material,Just color,5,3,4,3,5,Leather,Yes,81.35,3,No,Poor product information,No,Yes
+29,Male,India,Tier 1,Professional,2197.26,3,Formal,Yes,10.6,Yes,Full-design,Just color,4,4,1,2,1,"Knit, Recyclable, Vegan",Yes,146.72,2,No,Long delivery times,No,Yes
+13,Female,India,Tier 1,Self-employed,682.58,3,Slippers,No,9.1,Yes,"Stitching pattern, Sole type, Material",Full-design from scratch,1,5,1,4,2,"Recyclable, Canvas",Yes,51.74,4,Yes,Size mismatch,No,No
+21,Other,USA,Tier 1,Other,1728.76,5,Boots,No,8.2,No,"Material, Full-design",Full-design from scratch,5,5,2,5,2,"Canvas, Leather, Vegan",No,81.07,4,No,Generic designs,No,Yes
+27,Male,UK,Tier 1,Entrepreneur,825.46,0,Formal,Yes,7.7,No,"Color, Material",Material & sole,4,5,4,4,2,"Recyclable, Leather, Canvas",No,168.48,4,No,Size mismatch,Yes,Yes
+20,Male,UK,Tier 3,Professional,9294.29,5,Sneakers,No,8.6,No,"Full-design, Sole type, Stitching pattern",Material & sole,4,4,3,2,1,"Recyclable, Knit, Canvas",No,90.97,1,No,Long delivery times,Yes,Yes
+43,Female,India,Tier 1,Self-employed,658.87,4,"Sports, Boots, Formal",No,10.0,No,Sole type,Full-design from scratch,4,4,3,4,2,"Knit, Recyclable, Vegan",No,100.27,3,No,Poor product information,Yes,No
+18,Male,India,Tier 1,Student,690.95,2,"Ethnic, Casual",No,9.8,No,Full-design,Full-design from scratch,5,4,5,5,1,"Recyclable, Knit, Leather",No,123.6,3,No,Generic designs,Maybe,Yes
+26,Female,USA,Tier 1,Professional,4203.37,4,"Formal, Boots",No,7.9,Yes,"Full-design, Material, Sole type",Material & sole,1,3,2,2,1,"Recyclable, Vegan, Knit",No,105.12,1,No,None of the above,Maybe,No
+31,Male,India,Tier 2,Self-employed,237.43,6,"Ethnic, Slippers, Sports",Yes,7.7,Yes,"Sole type, Color",Just color,2,2,5,4,4,"Vegan, Recyclable, Leather",No,147.64,2,No,Size mismatch,No,Yes
+41,Female,India,Tier 2,Professional,1989.49,8,Casual,No,10.0,No,Stitching pattern,Material & sole,4,1,3,1,4,"Canvas, Knit, Leather",Yes,127.04,4,No,Size mismatch,Yes,Yes
+18,Male,India,Tier 2,Professional,2138.26,3,Boots,Yes,7.9,Yes,"Color, Material",Full-design from scratch,2,4,3,3,2,Leather,Yes,59.73,4,Yes,Long delivery times,Yes,Yes
+39,Female,UAE,Tier 2,Student,2915.3,2,Casual,No,9.1,No,"Full-design, Color",Full-design from scratch,2,2,3,2,3,Vegan,Yes,90.61,1,Yes,Generic designs,Maybe,Yes
+30,Female,Other,Tier 3,Self-employed,5700.05,3,"Ethnic, Sneakers, Slippers",No,9.2,Yes,"Color, Sole type, Material",Full-design from scratch,3,4,5,1,4,"Leather, Canvas, Knit",No,86.28,4,Yes,Size mismatch,Maybe,Yes
+22,Female,USA,Tier 1,Professional,5769.88,3,"Formal, Sports, Boots",No,9.5,Yes,Stitching pattern,Full-design from scratch,2,1,2,5,4,"Vegan, Leather",Yes,101.46,5,Yes,Poor product information,Yes,Yes
+33,Male,Other,Tier 2,Professional,301.26,2,"Slippers, Ethnic, Formal",No,10.3,Yes,"Stitching pattern, Sole type, Full-design",Material & sole,3,4,1,3,3,"Knit, Canvas",Yes,124.48,3,No,Size mismatch,Maybe,Yes
+31,Female,India,Tier 3,Professional,2787.6,1,Ethnic,No,7.1,Yes,"Material, Stitching pattern, Color",Material & sole,1,2,1,2,5,Canvas,Yes,132.25,4,No,Size mismatch,Yes,No
+25,Female,USA,Tier 3,Entrepreneur,1759.0,7,"Slippers, Ethnic",No,6.1,Yes,Full-design,Full-design from scratch,1,3,3,3,2,"Knit, Recyclable, Leather",No,25.28,4,Yes,Poor product information,Yes,Yes
+30,Male,India,Tier 3,Entrepreneur,1763.39,5,"Slippers, Sports, Boots",No,8.1,Yes,Color,Full-design from scratch,3,1,2,2,5,"Knit, Recyclable",Yes,161.0,5,No,Long delivery times,Maybe,Yes
+26,Male,USA,Tier 1,Professional,406.05,8,Casual,Yes,11.7,Yes,"Material, Color",Material & sole,1,2,2,2,5,Leather,No,116.37,2,Yes,Poor product information,No,Yes
+30,Male,Other,Tier 1,Professional,1775.54,3,"Sneakers, Ethnic, Casual",No,12.0,Yes,Stitching pattern,Just color,4,5,4,4,1,"Knit, Recyclable, Canvas",No,75.18,2,No,Generic designs,Maybe,Yes
+35,Female,USA,Tier 1,Professional,6266.84,4,Boots,No,11.7,Yes,"Sole type, Stitching pattern, Material",Full-design from scratch,1,5,4,3,1,"Recyclable, Leather, Vegan",No,158.09,5,No,Long delivery times,Yes,Yes
+42,Female,India,Tier 2,Other,3842.54,5,"Casual, Sports, Sneakers",No,8.7,Yes,"Stitching pattern, Color, Sole type",Material & sole,3,5,5,3,2,Knit,Yes,35.78,2,Yes,Poor product information,Yes,Yes
+20,Female,USA,Tier 1,Professional,1067.4,7,"Sports, Sneakers",No,6.3,Yes,"Full-design, Material, Stitching pattern",Material & sole,4,3,4,1,3,"Vegan, Recyclable",Yes,56.97,1,No,Generic designs,Yes,No
+47,Male,India,Tier 1,Self-employed,261.15,5,"Ethnic, Sneakers",No,5.5,Yes,Sole type,Material & sole,2,4,5,5,1,Canvas,Yes,205.17,5,Yes,Long delivery times,Yes,Yes
+14,Male,UAE,Tier 3,Professional,874.82,1,"Formal, Sneakers, Slippers",No,8.1,No,Full-design,Material & sole,2,4,1,1,4,"Canvas, Vegan",Yes,125.85,3,No,Size mismatch,No,No
+28,Female,USA,Tier 1,Entrepreneur,2826.42,3,"Boots, Ethnic, Casual",No,8.7,No,Material,Material & sole,2,4,3,4,2,"Knit, Vegan, Canvas",Yes,90.51,3,No,Poor product information,Yes,Yes
+34,Female,USA,Tier 3,Entrepreneur,2013.47,3,"Slippers, Boots, Sneakers",No,11.0,No,"Sole type, Stitching pattern, Full-design",Full-design from scratch,3,3,2,2,5,"Leather, Knit, Vegan",No,124.34,3,Yes,None of the above,Yes,Yes
+32,Prefer not to say,USA,Tier 1,Professional,1122.46,7,"Sneakers, Ethnic",Yes,10.3,No,"Color, Sole type, Stitching pattern",Material & sole,2,5,1,4,2,"Knit, Leather, Vegan",Yes,112.74,4,No,None of the above,Yes,Yes
+25,Male,USA,Tier 1,Other,285.02,3,"Casual, Slippers, Formal",No,9.3,Yes,"Material, Color",Just color,1,4,1,4,1,"Knit, Recyclable, Leather",No,121.43,5,Yes,Size mismatch,Maybe,Yes
+28,Female,India,Tier 1,Professional,1035.03,4,Casual,No,7.7,No,Color,Material & sole,2,3,5,1,3,Knit,No,139.57,5,Yes,Size mismatch,No,Yes
+26,Male,UK,Tier 2,Student,1149.56,0,"Formal, Sneakers",No,7.6,No,"Color, Stitching pattern",Full-design from scratch,5,3,3,2,5,Knit,Yes,112.08,2,No,Size mismatch,No,No
+25,Male,India,Tier 1,Professional,4158.25,4,"Boots, Ethnic, Sneakers",No,9.4,No,"Full-design, Color, Material",Full-design from scratch,5,2,5,5,3,"Recyclable, Canvas",No,134.19,5,No,Poor product information,Yes,Yes
+36,Female,UK,Tier 1,Entrepreneur,1737.01,3,"Sports, Sneakers",No,10.0,Yes,"Material, Color, Stitching pattern",Full-design from scratch,2,4,1,4,2,"Recyclable, Vegan, Leather",No,113.68,5,No,Poor product information,Yes,Yes
+32,Female,UAE,Tier 3,Professional,760.19,4,"Formal, Sneakers",No,9.6,No,"Material, Color, Stitching pattern",Full-design from scratch,2,5,2,5,3,"Leather, Knit, Vegan",Yes,87.17,2,No,Generic designs,Yes,No
+24,Prefer not to say,UAE,Tier 1,Professional,1317.67,4,Casual,No,7.4,Yes,"Sole type, Full-design",Just color,5,1,4,2,3,"Leather, Knit",Yes,75.76,5,No,Long delivery times,Yes,Yes
+37,Male,USA,Tier 2,Professional,302.51,2,"Casual, Slippers",Yes,10.0,No,Sole type,Just color,2,3,5,2,2,"Leather, Vegan",Yes,172.76,5,Yes,Poor product information,Yes,No
+32,Male,USA,Tier 2,Professional,5594.08,6,"Ethnic, Casual, Boots",No,9.6,Yes,Sole type,Material & sole,4,2,1,1,5,Knit,Yes,145.9,1,No,Long delivery times,Yes,Yes
+36,Female,India,Tier 1,Professional,869.57,5,Boots,No,7.4,Yes,"Color, Full-design, Material",Material & sole,5,1,4,3,3,"Knit, Canvas",No,484.43999999999994,2,No,Size mismatch,No,Yes
+35,Female,UK,Tier 2,Professional,1174.75,4,Sports,Yes,7.8,Yes,"Sole type, Color",Full-design from scratch,3,3,4,1,3,"Knit, Canvas, Leather",Yes,120.15,1,No,Size mismatch,Maybe,Yes
+23,Male,India,Tier 1,Entrepreneur,858.42,2,Ethnic,No,10.0,Yes,"Full-design, Color",Material & sole,5,2,1,5,2,"Leather, Canvas",No,129.03,4,Yes,Generic designs,Yes,Yes
+25,Male,USA,Tier 2,Professional,1920.97,5,"Sneakers, Boots",No,8.6,Yes,"Stitching pattern, Sole type",Full-design from scratch,1,4,3,1,4,Vegan,Yes,112.87,2,No,Size mismatch,Maybe,Yes
+35,Male,India,Tier 1,Professional,1828.09,1,Ethnic,No,11.4,No,Stitching pattern,Material & sole,4,2,1,2,3,"Leather, Vegan, Knit",Yes,166.3,5,No,Poor product information,Yes,Yes
+34,Female,India,Tier 2,Professional,2084.6,4,"Ethnic, Slippers",Yes,9.8,Yes,"Material, Sole type, Color",Material & sole,3,3,2,4,1,Canvas,Yes,106.21,5,No,Long delivery times,No,Yes
+29,Male,USA,Tier 1,Student,668.26,5,"Sneakers, Sports",Yes,8.3,Yes,"Color, Full-design",Material & sole,2,4,4,3,5,"Vegan, Knit",Yes,80.64,1,No,Size mismatch,No,No
+30,Male,India,Tier 2,Entrepreneur,768.97,0,Casual,No,9.0,Yes,Full-design,Material & sole,1,5,2,2,3,"Canvas, Leather",Yes,140.85,1,Yes,Generic designs,Maybe,Yes
+40,Male,UK,Tier 1,Self-employed,400.73,3,Sneakers,Yes,9.1,Yes,Color,Material & sole,1,2,5,4,2,"Canvas, Recyclable, Knit",Yes,113.91,4,No,Poor product information,Yes,Yes
+25,Male,India,Tier 1,Professional,1798.54,1,"Formal, Casual, Boots",No,7.9,Yes,Material,Material & sole,4,1,4,5,1,Vegan,No,130.0,4,No,Size mismatch,Yes,No
+34,Male,India,Tier 1,Entrepreneur,260.92,3,"Sneakers, Boots",Yes,7.6,Yes,Stitching pattern,Material & sole,3,4,3,5,2,"Recyclable, Leather",No,148.45,5,No,Generic designs,Yes,No
+28,Female,USA,Tier 1,Self-employed,1565.77,3,"Casual, Sneakers, Boots",No,10.1,Yes,"Stitching pattern, Material",Material & sole,1,4,1,5,3,Knit,Yes,96.84,3,Yes,Long delivery times,Yes,Yes
+28,Male,India,Tier 3,Self-employed,3256.83,1,"Casual, Ethnic",Yes,10.3,Yes,Color,Just color,3,5,5,1,1,Recyclable,Yes,111.24,4,No,Poor product information,Maybe,No
+38,Female,India,Tier 1,Student,3522.3,2,"Casual, Slippers",Yes,9.9,Yes,"Stitching pattern, Material, Full-design",Material & sole,3,2,2,5,5,Knit,Yes,107.58,5,No,Generic designs,Maybe,Yes
+36,Male,UK,Tier 3,Other,1094.13,6,"Formal, Sports",No,11.3,Yes,Stitching pattern,Material & sole,1,1,5,5,5,"Leather, Recyclable",Yes,171.47,4,Yes,None of the above,Maybe,Yes
+36,Female,India,Tier 3,Professional,1122.35,7,"Formal, Casual, Sports",Yes,8.2,Yes,"Sole type, Full-design, Color",Just color,3,5,3,1,5,"Knit, Leather, Recyclable",No,482.28,2,Yes,Long delivery times,No,Yes
+40,Female,UAE,Tier 2,Professional,320.14,2,"Boots, Ethnic, Formal",No,11.5,No,"Sole type, Color, Full-design",Material & sole,4,2,1,4,4,"Canvas, Knit",No,126.26,1,No,Size mismatch,Maybe,Yes
+30,Female,India,Tier 1,Student,1866.48,5,Formal,No,7.6,Yes,"Color, Material, Full-design",Material & sole,1,1,5,2,2,Canvas,No,73.74,5,No,Generic designs,Yes,Yes
+35,Female,India,Tier 1,Professional,2782.73,3,"Sneakers, Casual, Boots",No,7.5,Yes,"Color, Stitching pattern, Full-design",Material & sole,4,1,2,3,3,"Knit, Recyclable",Yes,149.23,4,Yes,Generic designs,Yes,Yes
+27,Male,UK,Tier 2,Student,620.87,5,"Boots, Casual, Sports",No,6.4,Yes,"Sole type, Full-design",Just color,4,3,5,5,1,"Leather, Knit",No,137.12,1,Yes,Generic designs,Maybe,Yes
+32,Male,India,Tier 1,Professional,1020.46,0,Casual,Yes,8.3,Yes,"Color, Stitching pattern",Material & sole,3,1,1,5,2,Canvas,Yes,86.59,3,Yes,Poor product information,Yes,No
+28,Female,India,Tier 1,Professional,2938.03,5,Casual,Yes,8.2,Yes,Sole type,Material & sole,3,2,5,5,3,"Leather, Recyclable",No,196.92,4,Yes,Size mismatch,Yes,Yes
+30,Prefer not to say,India,Tier 2,Self-employed,3344.83,2,Casual,No,9.8,Yes,Sole type,Material & sole,1,5,2,1,4,"Recyclable, Leather, Vegan",Yes,133.49,5,No,Generic designs,Yes,No
+34,Female,India,Tier 3,Self-employed,617.94,1,Ethnic,No,9.4,Yes,"Sole type, Material, Stitching pattern",Full-design from scratch,2,5,1,1,3,"Knit, Recyclable, Canvas",Yes,95.06,2,Yes,Poor product information,No,Yes
+23,Female,UAE,Tier 2,Professional,1399.66,1,"Formal, Casual, Sports",No,7.2,Yes,"Full-design, Stitching pattern",Material & sole,1,3,3,1,2,Knit,Yes,119.89,1,Yes,Generic designs,No,No
+46,Female,India,Tier 1,Self-employed,520.71,4,Boots,No,8.4,Yes,Full-design,Material & sole,4,2,3,3,3,"Canvas, Recyclable, Leather",Yes,105.26,1,No,Long delivery times,Yes,Yes
+21,Female,UK,Tier 2,Self-employed,361.18,1,"Ethnic, Formal",No,8.4,Yes,Material,Full-design from scratch,3,1,4,2,1,"Recyclable, Knit",No,181.76,2,Yes,Long delivery times,Maybe,No
+20,Male,UAE,Tier 1,Entrepreneur,3830.71,4,"Slippers, Sneakers, Sports",Yes,6.3,No,Stitching pattern,Material & sole,4,3,5,5,4,"Vegan, Leather, Recyclable",No,157.33,5,No,Poor product information,Maybe,Yes
+39,Female,USA,Tier 1,Student,2776.43,4,Boots,No,7.5,Yes,Material,Full-design from scratch,5,4,2,4,1,Vegan,Yes,138.16,3,No,Poor product information,Maybe,Yes
+36,Prefer not to say,Other,Tier 3,Professional,2340.89,2,"Sneakers, Slippers",No,7.8,Yes,"Sole type, Color, Material",Material & sole,5,2,5,5,4,"Leather, Recyclable, Canvas",No,188.67,2,No,Generic designs,No,Yes
+34,Male,India,Tier 1,Self-employed,274.99,3,"Casual, Formal",No,11.2,No,Stitching pattern,Material & sole,4,3,1,5,4,Leather,Yes,78.47,3,No,Generic designs,Maybe,Yes
+35,Female,Other,Tier 1,Professional,2984.24,3,Casual,No,9.3,No,"Sole type, Color, Stitching pattern",Full-design from scratch,2,5,4,5,3,"Vegan, Canvas",Yes,151.04,5,No,None of the above,Maybe,Yes
+29,Male,India,Tier 1,Professional,1064.5,7,"Sports, Slippers",No,10.0,Yes,"Material, Stitching pattern, Full-design",Just color,2,3,2,5,1,"Recyclable, Vegan, Knit",No,141.89,4,Yes,Generic designs,Yes,Yes
+22,Female,UK,Tier 3,Professional,828.73,5,"Sneakers, Sports",Yes,6.8,Yes,Material,Material & sole,1,4,5,2,4,"Knit, Recyclable",No,110.78,4,No,Size mismatch,Yes,Yes
+30,Male,USA,Tier 2,Professional,1386.06,5,"Ethnic, Slippers, Sports",No,10.8,Yes,"Sole type, Color, Stitching pattern",Material & sole,1,2,2,4,4,Recyclable,Yes,110.96,5,No,Generic designs,Yes,Yes
+24,Female,India,Tier 2,Professional,343.7,2,Formal,No,11.0,Yes,Full-design,Material & sole,1,3,1,1,3,Vegan,Yes,156.93,3,Yes,Generic designs,Yes,Yes
+37,Female,USA,Tier 2,Student,2319.86,0,"Casual, Sports, Formal",No,6.0,Yes,"Sole type, Stitching pattern",Material & sole,3,1,4,4,2,"Canvas, Leather, Knit",Yes,154.0,2,No,Generic designs,Yes,Yes
+28,Male,UK,Tier 1,Professional,1509.97,3,Boots,Yes,7.9,Yes,"Color, Full-design, Sole type",Material & sole,2,2,2,5,2,"Leather, Vegan",No,63.11,5,No,Generic designs,Yes,Yes
+23,Female,India,Tier 1,Self-employed,509.78,4,"Boots, Slippers",Yes,9.7,Yes,Stitching pattern,Full-design from scratch,4,3,1,4,5,"Vegan, Recyclable",No,192.66,5,Yes,Size mismatch,Yes,Yes
+27,Female,India,Tier 1,Self-employed,512.81,7,"Formal, Boots, Sneakers",No,10.0,Yes,Full-design,Full-design from scratch,5,3,3,5,5,Canvas,Yes,165.71,4,No,Size mismatch,Yes,Yes
+33,Other,UK,Tier 1,Student,505.47,3,"Sneakers, Casual",No,8.0,Yes,"Color, Stitching pattern, Sole type",Material & sole,2,2,2,4,4,Recyclable,No,108.74,2,No,Poor product information,Yes,Yes
+25,Male,UK,Tier 1,Other,288.04,5,"Sneakers, Casual, Boots",No,8.5,Yes,Material,Full-design from scratch,2,5,4,3,2,"Knit, Vegan",Yes,88.35,4,No,Poor product information,Maybe,Yes
+23,Male,Other,Tier 3,Professional,1529.36,3,"Sports, Boots, Slippers",No,8.1,Yes,"Sole type, Full-design",Material & sole,2,1,2,4,4,Knit,Yes,164.42,3,No,Size mismatch,Maybe,No
+31,Male,UK,Tier 1,Professional,2952.14,5,Ethnic,No,9.2,Yes,"Sole type, Full-design",Material & sole,1,2,2,1,1,"Vegan, Recyclable",No,139.86,3,No,Long delivery times,No,Yes
+31,Prefer not to say,Other,Tier 1,Entrepreneur,226.48,3,Casual,No,10.8,Yes,"Sole type, Material",Full-design from scratch,3,1,1,1,2,Leather,Yes,148.66,1,Yes,Poor product information,Yes,No
+25,Other,UK,Tier 1,Self-employed,275.37,3,"Sports, Formal, Ethnic",No,7.8,Yes,Material,Full-design from scratch,4,1,5,4,2,"Leather, Knit",Yes,142.83,5,Yes,None of the above,Yes,Yes
+26,Female,India,Tier 1,Self-employed,1475.65,3,Boots,No,10.5,No,Full-design,Full-design from scratch,1,2,5,4,2,"Vegan, Canvas",No,168.58,2,Yes,Size mismatch,Yes,Yes
+31,Female,India,Tier 3,Professional,2768.0,2,Formal,Yes,7.8,Yes,Material,Just color,3,3,2,2,5,"Knit, Canvas",Yes,154.24,2,No,Size mismatch,Yes,Yes
+18,Female,UK,Tier 1,Self-employed,793.43,1,Sneakers,Yes,7.7,Yes,Material,Material & sole,2,5,4,4,3,"Leather, Vegan, Knit",Yes,98.64,4,No,Poor product information,Maybe,No
+18,Female,USA,Tier 1,Student,845.28,6,"Ethnic, Boots",No,10.2,No,"Stitching pattern, Sole type",Full-design from scratch,3,1,4,1,3,Knit,No,96.3,4,No,Size mismatch,Yes,Yes
+24,Male,India,Tier 2,Entrepreneur,1560.8,5,"Casual, Sports",No,10.4,Yes,"Color, Sole type",Material & sole,1,1,1,3,5,"Leather, Knit, Vegan",No,134.24,2,No,None of the above,Maybe,Yes
+28,Female,India,Tier 1,Entrepreneur,680.75,6,Casual,Yes,10.3,No,Stitching pattern,Material & sole,2,3,2,1,5,"Vegan, Recyclable",No,211.59,4,No,Size mismatch,Maybe,Yes
+32,Male,Other,Tier 1,Professional,240.45,4,"Casual, Ethnic, Sneakers",Yes,7.0,Yes,"Stitching pattern, Sole type",Material & sole,1,2,2,2,5,Recyclable,Yes,114.01,1,No,Poor product information,Yes,Yes
+41,Female,USA,Tier 1,Professional,2193.33,2,Ethnic,No,8.3,Yes,Color,Full-design from scratch,4,5,5,4,3,Recyclable,Yes,134.52,5,Yes,None of the above,No,Yes
+36,Female,USA,Tier 2,Self-employed,1673.85,5,Casual,Yes,10.2,Yes,Sole type,Material & sole,2,1,1,3,4,Vegan,No,155.78,1,No,Poor product information,Yes,Yes
+28,Female,USA,Tier 3,Student,1503.95,6,"Boots, Ethnic, Formal",No,9.1,Yes,"Full-design, Color, Stitching pattern",Material & sole,3,1,3,1,5,"Leather, Knit",Yes,103.23,3,No,Size mismatch,Yes,Yes
+29,Male,India,Tier 2,Student,2230.36,6,"Sports, Boots",No,7.4,Yes,"Material, Color",Just color,1,2,4,3,4,Recyclable,Yes,151.9,2,No,Poor product information,No,No
+21,Male,India,Tier 1,Entrepreneur,1886.96,7,Ethnic,Yes,9.7,No,"Material, Sole type, Full-design",Material & sole,5,3,4,5,4,"Vegan, Knit",Yes,120.56,1,Yes,Poor product information,Maybe,No
+29,Male,India,Tier 3,Professional,545.78,5,Casual,No,7.9,Yes,"Color, Sole type, Material",Full-design from scratch,3,4,2,1,1,"Canvas, Recyclable, Knit",Yes,170.0,1,No,Size mismatch,Maybe,Yes
+27,Male,India,Tier 1,Self-employed,851.91,2,Sports,Yes,11.7,Yes,Color,Just color,3,3,1,5,3,"Leather, Vegan, Recyclable",Yes,82.22,4,No,Poor product information,Maybe,Yes
+32,Male,UK,Tier 1,Professional,402.2,3,Formal,No,11.3,No,"Stitching pattern, Material",Material & sole,2,1,3,3,4,"Recyclable, Vegan, Canvas",No,212.56,4,Yes,Long delivery times,Yes,Yes
+23,Other,USA,Tier 1,Student,408.65,4,"Boots, Ethnic",Yes,9.9,Yes,Stitching pattern,Material & sole,3,1,4,4,3,"Leather, Vegan, Recyclable",No,107.5,4,Yes,Long delivery times,Yes,Yes
+34,Female,UAE,Tier 1,Self-employed,1891.42,4,"Casual, Sneakers, Sports",Yes,11.0,Yes,Material,Just color,1,5,1,4,3,"Vegan, Leather",Yes,140.86,3,Yes,Size mismatch,Yes,Yes
+42,Male,UAE,Tier 2,Professional,3134.24,2,"Ethnic, Casual",Yes,9.1,Yes,Color,Material & sole,5,3,3,4,1,"Leather, Vegan, Canvas",No,120.2,1,No,Size mismatch,Yes,Yes
+29,Male,India,Tier 2,Student,5134.45,5,"Sneakers, Casual, Boots",Yes,10.1,No,Material,Just color,4,4,2,5,3,"Leather, Recyclable",No,76.85,5,Yes,Size mismatch,Yes,No
+33,Male,UK,Tier 3,Entrepreneur,1684.69,4,"Sneakers, Slippers, Sports",Yes,11.2,Yes,Material,Material & sole,5,5,5,4,4,Canvas,No,153.33,4,No,Generic designs,No,No
+35,Female,USA,Tier 2,Professional,505.2,3,"Sports, Sneakers, Casual",No,9.4,Yes,"Sole type, Color",Material & sole,1,4,4,2,2,"Leather, Canvas, Knit",Yes,109.43,3,No,Poor product information,No,Yes
+26,Female,UAE,Tier 2,Professional,367.49,4,"Casual, Sports, Ethnic",No,8.6,No,"Full-design, Sole type, Color",Full-design from scratch,2,5,4,1,4,Vegan,Yes,141.03,3,No,Long delivery times,Maybe,Yes
+31,Other,India,Tier 1,Professional,2713.78,6,Ethnic,No,6.4,Yes,Color,Full-design from scratch,1,3,3,1,4,"Knit, Vegan, Recyclable",Yes,87.79,4,No,Generic designs,Maybe,No
+30,Female,UK,Tier 1,Self-employed,1496.82,3,"Boots, Sports, Casual",No,8.9,Yes,Stitching pattern,Material & sole,3,1,5,3,3,"Vegan, Canvas, Leather",Yes,109.61,2,Yes,Size mismatch,Yes,No
+30,Prefer not to say,USA,Tier 2,Self-employed,1644.62,2,"Sports, Formal, Sneakers",No,10.2,Yes,Color,Just color,2,4,1,5,4,"Knit, Recyclable, Vegan",Yes,108.22,1,No,Generic designs,Maybe,Yes
+23,Female,India,Tier 1,Entrepreneur,2481.19,5,"Ethnic, Sneakers, Casual",No,10.4,Yes,"Color, Full-design",Full-design from scratch,4,3,2,1,2,"Knit, Vegan, Recyclable",Yes,142.02,4,Yes,Size mismatch,Yes,Yes
+30,Male,India,Tier 3,Student,2022.44,5,Boots,No,9.8,Yes,"Color, Material",Material & sole,4,4,1,5,3,"Leather, Recyclable",Yes,132.31,5,No,Size mismatch,Yes,Yes
+33,Other,UK,Tier 1,Self-employed,2897.8,5,"Ethnic, Sneakers",No,8.2,No,"Stitching pattern, Full-design, Material",Just color,1,3,3,3,5,"Recyclable, Vegan, Leather",Yes,112.94,1,Yes,Size mismatch,Maybe,Yes
+41,Male,UK,Tier 1,Professional,286.78,3,Sneakers,No,6.0,Yes,Stitching pattern,Full-design from scratch,3,5,4,4,4,"Leather, Knit",Yes,105.2,3,No,Size mismatch,Yes,Yes
+37,Female,India,Tier 1,Professional,2264.64,7,"Sneakers, Casual",No,8.3,Yes,"Stitching pattern, Material, Full-design",Material & sole,4,3,4,3,4,"Leather, Recyclable, Knit",Yes,132.6,5,No,Generic designs,Maybe,No
+47,Male,USA,Tier 1,Professional,3054.23,3,"Ethnic, Sports",No,8.5,Yes,Material,Material & sole,5,5,1,2,1,"Knit, Leather, Canvas",No,127.91,1,No,Generic designs,No,Yes
+23,Female,India,Tier 1,Self-employed,705.59,3,Casual,No,8.5,Yes,"Sole type, Stitching pattern",Material & sole,2,1,2,4,5,Canvas,Yes,125.16,5,No,Size mismatch,Maybe,Yes
+36,Female,UK,Tier 2,Entrepreneur,1734.34,2,"Ethnic, Sneakers",No,9.9,Yes,Color,Material & sole,5,5,3,4,5,"Recyclable, Vegan",No,198.77,3,Yes,None of the above,Maybe,Yes
+31,Female,India,Tier 1,Student,765.67,5,"Ethnic, Sneakers",No,12.0,No,"Full-design, Material, Sole type",Full-design from scratch,4,2,2,4,2,"Knit, Vegan, Canvas",No,142.08,4,Yes,Poor product information,No,Yes
+47,Female,UAE,Tier 2,Professional,4954.1,3,"Sports, Sneakers, Slippers",No,9.2,Yes,"Stitching pattern, Full-design",Material & sole,4,1,3,3,5,"Vegan, Canvas",No,196.96,5,No,Size mismatch,Yes,No
+23,Male,India,Tier 1,Self-employed,250.99,4,"Casual, Slippers",No,8.7,Yes,"Stitching pattern, Color, Full-design",Just color,1,3,2,2,1,"Canvas, Vegan, Leather",No,117.22,4,No,Size mismatch,Yes,Yes
+23,Male,India,Tier 1,Student,1500.51,4,Slippers,No,8.6,Yes,"Stitching pattern, Material",Full-design from scratch,1,3,1,5,2,Recyclable,No,118.06,3,No,Generic designs,Yes,No
+25,Male,India,Tier 1,Other,473.19,4,"Slippers, Boots",No,9.2,Yes,"Material, Full-design",Full-design from scratch,2,2,5,3,5,"Knit, Vegan",Yes,99.78,3,Yes,None of the above,Yes,Yes
+13,Male,India,Tier 3,Professional,2068.34,4,Ethnic,Yes,7.8,No,"Full-design, Color, Material",Material & sole,1,3,3,1,2,Knit,No,132.08,5,No,Generic designs,Maybe,Yes
+25,Female,USA,Tier 1,Professional,490.18,5,"Sneakers, Slippers, Sports",Yes,9.2,No,"Sole type, Stitching pattern, Full-design",Material & sole,3,1,1,1,5,"Canvas, Recyclable, Leather",No,106.97,5,No,None of the above,Yes,Yes
+23,Male,India,Tier 2,Professional,602.57,4,Boots,No,9.7,Yes,"Sole type, Full-design",Just color,2,1,4,3,5,Leather,No,101.27,3,No,Poor product information,Maybe,Yes
+31,Prefer not to say,UAE,Tier 1,Professional,1222.93,6,"Boots, Sneakers",No,9.3,No,"Sole type, Material",Full-design from scratch,3,5,4,5,5,Vegan,Yes,43.99,5,No,Poor product information,Maybe,Yes
+32,Female,India,Tier 2,Self-employed,3894.75,4,"Sneakers, Sports, Formal",Yes,9.7,Yes,Sole type,Just color,1,4,2,1,4,"Vegan, Canvas, Leather",Yes,178.63,5,No,Generic designs,Yes,No
+45,Female,India,Tier 1,Professional,556.84,1,"Boots, Formal",No,9.7,Yes,"Material, Color, Full-design",Just color,2,3,4,5,5,Vegan,No,314.01,5,Yes,Generic designs,Yes,Yes
+37,Male,India,Tier 2,Entrepreneur,433.65,1,"Sneakers, Ethnic",No,6.3,Yes,Stitching pattern,Material & sole,4,2,5,4,4,"Recyclable, Vegan",No,179.0,5,Yes,Poor product information,Yes,Yes
+25,Female,India,Tier 2,Professional,2334.29,3,"Sports, Slippers",No,10.0,Yes,"Sole type, Material, Color",Just color,5,1,3,3,3,"Canvas, Vegan, Knit",No,116.15,1,No,Long delivery times,Yes,Yes
+22,Other,India,Tier 3,Student,1241.58,6,"Boots, Formal, Ethnic",Yes,8.0,No,Material,Just color,4,1,2,4,1,"Recyclable, Vegan",Yes,145.78,3,No,Size mismatch,No,Yes
+33,Female,USA,Tier 1,Student,3841.97,4,"Boots, Sports",Yes,7.4,Yes,"Material, Sole type, Stitching pattern",Material & sole,3,1,3,1,2,"Knit, Canvas",Yes,122.97,3,No,Poor product information,Yes,Yes
+19,Female,USA,Tier 1,Professional,437.82,1,"Sneakers, Sports, Formal",No,7.3,Yes,"Color, Material, Sole type",Just color,4,4,3,5,2,Vegan,Yes,136.59,2,No,Generic designs,No,No
+44,Female,USA,Tier 1,Other,1757.38,5,Sneakers,No,9.7,No,"Sole type, Material",Just color,4,4,1,4,3,"Leather, Vegan, Knit",Yes,79.64,4,No,Generic designs,Yes,Yes
+39,Male,USA,Tier 3,Professional,597.67,1,Ethnic,No,8.7,Yes,Material,Just color,5,3,4,1,5,Recyclable,Yes,167.29,2,No,Size mismatch,Maybe,No
+26,Female,USA,Tier 2,Professional,455.76,3,Sneakers,No,6.5,No,"Sole type, Full-design, Stitching pattern",Material & sole,5,2,3,2,1,"Vegan, Knit",Yes,105.33,5,No,Poor product information,Maybe,Yes
+16,Male,India,Tier 2,Professional,1925.31,5,"Casual, Boots, Slippers",No,9.7,Yes,Sole type,Full-design from scratch,4,4,5,4,3,Leather,Yes,157.03,5,Yes,Poor product information,Yes,Yes
+40,Male,USA,Tier 1,Professional,1550.94,3,"Slippers, Sneakers",Yes,6.8,Yes,"Full-design, Material, Sole type",Full-design from scratch,5,5,5,2,3,"Vegan, Knit, Leather",Yes,61.57,1,No,Generic designs,Yes,Yes
+29,Male,Other,Tier 1,Professional,2308.69,4,"Formal, Sneakers",No,9.2,No,Stitching pattern,Material & sole,4,4,4,2,2,"Vegan, Leather, Recyclable",Yes,89.82,1,No,Long delivery times,Maybe,Yes
+39,Male,USA,Tier 1,Self-employed,755.43,5,"Formal, Sneakers, Slippers",No,9.4,Yes,"Sole type, Material, Stitching pattern",Material & sole,2,1,4,1,4,"Recyclable, Knit, Canvas",No,134.87,1,Yes,Generic designs,Maybe,Yes
+17,Male,UK,Tier 3,Professional,1091.23,5,"Boots, Ethnic, Formal",No,10.3,No,Color,Just color,4,2,2,3,4,"Leather, Recyclable, Vegan",No,113.45,1,No,Poor product information,Yes,Yes
+25,Male,India,Tier 2,Professional,979.98,2,Casual,No,11.7,Yes,Material,Just color,1,3,2,5,5,"Leather, Knit",No,138.27,1,No,None of the above,Yes,Yes
+30,Prefer not to say,UK,Tier 3,Student,6411.16,4,"Casual, Boots",No,7.0,No,"Material, Color, Sole type",Material & sole,5,4,2,1,5,"Leather, Knit, Vegan",Yes,128.3,1,No,Long delivery times,Yes,Yes
+30,Female,UK,Tier 1,Other,718.49,4,"Slippers, Sports",No,8.9,Yes,"Color, Sole type",Material & sole,5,1,4,4,3,Vegan,No,193.12,1,Yes,Size mismatch,Yes,Yes
+26,Prefer not to say,USA,Tier 2,Professional,723.95,7,"Ethnic, Casual",No,8.6,Yes,"Material, Full-design, Stitching pattern",Full-design from scratch,3,5,3,5,5,"Recyclable, Vegan",Yes,141.61,1,Yes,Size mismatch,Yes,Yes
+34,Male,Other,Tier 2,Student,856.71,2,"Boots, Ethnic, Sneakers",No,9.7,No,"Material, Sole type, Color",Material & sole,3,5,1,3,4,"Knit, Vegan, Canvas",No,102.69,1,Yes,Poor product information,Yes,Yes
+21,Male,India,Tier 1,Professional,1447.21,1,Sneakers,No,9.3,Yes,Material,Material & sole,1,3,2,1,1,"Knit, Canvas",No,104.27,3,Yes,Poor product information,No,No
+28,Female,India,Tier 3,Professional,636.18,5,"Sneakers, Casual, Ethnic",Yes,8.5,Yes,"Material, Color, Sole type",Just color,5,3,1,3,2,Recyclable,Yes,168.17,1,No,Long delivery times,Yes,Yes
+30,Male,UK,Tier 3,Professional,3902.78,3,"Slippers, Boots, Sneakers",No,8.3,No,"Color, Sole type",Full-design from scratch,5,4,5,4,4,"Knit, Recyclable, Leather",No,58.87,4,Yes,Long delivery times,Yes,Yes
+34,Male,UAE,Tier 3,Professional,663.23,3,"Casual, Formal",Yes,7.3,Yes,"Stitching pattern, Color, Material",Material & sole,3,3,4,1,5,"Vegan, Canvas, Knit",Yes,142.37,1,No,Long delivery times,Yes,No
+35,Female,India,Tier 2,Entrepreneur,3592.39,7,"Formal, Boots, Sneakers",Yes,10.5,No,"Sole type, Material",Full-design from scratch,3,1,5,4,2,Knit,Yes,75.37,5,Yes,Size mismatch,Maybe,Yes
+21,Male,India,Tier 1,Student,363.84,4,Slippers,No,9.7,Yes,Stitching pattern,Material & sole,4,1,2,5,2,"Recyclable, Leather, Canvas",No,164.37,5,Yes,Generic designs,Yes,Yes
+17,Female,India,Tier 1,Self-employed,1803.13,5,"Sports, Casual",Yes,10.4,Yes,"Stitching pattern, Sole type, Color",Full-design from scratch,5,1,3,5,3,"Leather, Canvas",Yes,102.71,1,No,Size mismatch,Maybe,No
+40,Female,India,Tier 3,Professional,3762.5,5,"Sneakers, Ethnic, Slippers",Yes,8.5,Yes,"Full-design, Sole type, Color",Full-design from scratch,5,4,2,3,5,"Leather, Knit, Canvas",Yes,141.05,1,No,Size mismatch,No,Yes
+32,Male,UK,Tier 1,Professional,477.24,2,"Ethnic, Slippers",No,8.0,Yes,"Full-design, Material, Stitching pattern",Full-design from scratch,4,4,1,3,3,Recyclable,No,121.49,5,No,Generic designs,Yes,Yes
+24,Male,USA,Tier 2,Professional,5378.43,4,Sneakers,No,7.4,Yes,"Sole type, Material",Material & sole,5,3,2,5,2,"Knit, Recyclable",Yes,64.53,4,No,Size mismatch,Yes,Yes
+42,Female,India,Tier 2,Professional,1104.64,7,Formal,No,9.5,Yes,Color,Material & sole,1,4,3,2,3,Leather,No,145.61,2,No,Generic designs,No,Yes
+30,Female,India,Tier 2,Entrepreneur,4570.26,3,"Boots, Casual, Sports",Yes,7.4,Yes,"Full-design, Stitching pattern, Sole type",Material & sole,3,1,3,5,5,"Canvas, Recyclable, Knit",No,91.17,3,No,Generic designs,No,Yes
+39,Male,India,Tier 3,Professional,1894.32,6,"Sports, Boots",Yes,11.8,Yes,Material,Full-design from scratch,3,2,4,1,4,"Knit, Canvas",Yes,152.07,5,No,Long delivery times,No,Yes
+30,Prefer not to say,India,Tier 1,Professional,738.42,8,"Sports, Ethnic",Yes,7.0,Yes,"Sole type, Material, Full-design",Material & sole,3,1,4,4,1,"Canvas, Vegan",Yes,79.92,1,Yes,Size mismatch,Maybe,Yes
+46,Male,USA,Tier 1,Professional,512.94,6,Sneakers,No,9.4,No,"Color, Stitching pattern, Full-design",Just color,2,2,3,5,4,Recyclable,Yes,129.68,3,No,Long delivery times,Maybe,Yes
+44,Female,Other,Tier 1,Other,743.04,3,"Formal, Sports, Sneakers",Yes,11.4,Yes,"Color, Material",Material & sole,1,3,3,5,2,Knit,Yes,121.56,1,Yes,None of the above,Yes,Yes
+28,Prefer not to say,UAE,Tier 1,Professional,346.45,4,"Casual, Boots",No,9.9,Yes,"Sole type, Material",Just color,1,5,1,4,4,Canvas,Yes,95.9,2,No,Long delivery times,Maybe,Yes
+37,Male,India,Tier 1,Self-employed,433.0,2,"Sneakers, Ethnic, Sports",No,9.3,No,"Color, Sole type, Material",Material & sole,4,4,2,4,3,"Canvas, Vegan, Recyclable",Yes,175.19,2,Yes,Long delivery times,No,Yes
+35,Male,UAE,Tier 1,Professional,365.83,3,"Slippers, Ethnic",Yes,7.5,Yes,Sole type,Material & sole,2,4,4,1,5,"Canvas, Vegan",Yes,121.34,5,No,Generic designs,Yes,Yes
+40,Male,UK,Tier 3,Student,1024.72,5,"Sneakers, Casual, Slippers",No,6.9,No,Material,Material & sole,5,1,1,4,4,"Canvas, Recyclable, Knit",Yes,103.13,3,No,Poor product information,No,Yes
+22,Male,UK,Tier 3,Professional,2581.36,4,"Sports, Boots, Slippers",No,10.2,Yes,"Color, Sole type, Material",Just color,1,1,2,3,4,"Knit, Leather, Recyclable",No,395.84999999999997,3,Yes,Generic designs,No,Yes
+35,Male,USA,Tier 1,Professional,428.65,2,Ethnic,No,11.3,Yes,Color,Full-design from scratch,2,2,4,5,5,"Leather, Recyclable",No,61.77,2,No,Generic designs,Yes,Yes
+38,Female,India,Tier 1,Professional,409.45,4,"Casual, Formal, Sports",Yes,8.3,Yes,Stitching pattern,Full-design from scratch,2,4,1,4,3,Vegan,No,218.07,1,Yes,Generic designs,Yes,Yes
+15,Male,India,Tier 3,Student,1746.83,6,"Sports, Ethnic",No,7.3,No,"Stitching pattern, Material",Full-design from scratch,1,3,5,1,1,"Vegan, Knit",Yes,76.57,5,Yes,Long delivery times,Yes,Yes
+20,Female,India,Tier 1,Self-employed,529.44,6,"Slippers, Sports, Sneakers",No,5.3,Yes,"Stitching pattern, Full-design",Material & sole,4,1,5,4,4,"Recyclable, Canvas",Yes,142.07,4,No,Poor product information,Yes,Yes
+13,Prefer not to say,India,Tier 1,Self-employed,354.06,8,Ethnic,No,7.5,No,"Full-design, Stitching pattern",Full-design from scratch,2,4,4,5,2,"Vegan, Recyclable",No,122.44,2,No,Size mismatch,Yes,No
+27,Female,India,Tier 1,Entrepreneur,473.81,0,"Sports, Slippers",Yes,8.8,Yes,Stitching pattern,Material & sole,3,5,1,2,3,"Canvas, Vegan",Yes,167.22,2,No,Generic designs,Yes,Yes
+35,Female,USA,Tier 2,Student,4060.24,5,"Slippers, Sports",No,11.4,Yes,"Material, Full-design, Stitching pattern",Material & sole,2,2,2,4,3,Knit,Yes,127.12,5,No,Size mismatch,Yes,Yes
+42,Male,UK,Tier 1,Student,2784.51,2,"Casual, Slippers",No,10.0,Yes,Color,Just color,5,1,2,3,4,"Vegan, Knit",No,94.47,1,No,Poor product information,Yes,Yes
+30,Female,USA,Tier 3,Student,855.58,5,"Formal, Slippers",No,9.5,Yes,"Color, Sole type",Material & sole,1,1,1,5,5,"Leather, Recyclable, Knit",Yes,45.68,3,No,Size mismatch,Maybe,Yes
+43,Female,India,Tier 1,Entrepreneur,1799.89,1,"Sneakers, Boots, Formal",No,8.4,Yes,"Color, Full-design",Just color,5,3,5,1,4,"Knit, Vegan, Recyclable",Yes,48.8,2,No,Poor product information,Yes,Yes
+18,Male,Other,Tier 2,Self-employed,1355.94,2,Formal,Yes,8.1,No,"Material, Stitching pattern",Full-design from scratch,4,1,1,5,4,"Knit, Recyclable, Canvas",No,110.48,5,Yes,Long delivery times,Yes,Yes
+16,Male,Other,Tier 1,Professional,1895.73,3,Boots,Yes,11.1,Yes,Color,Just color,3,4,5,2,5,"Leather, Knit",No,174.81,5,Yes,Generic designs,Yes,Yes
+29,Female,UK,Tier 1,Student,1921.73,4,"Boots, Ethnic",No,9.3,Yes,"Color, Sole type, Stitching pattern",Material & sole,1,4,5,1,2,"Recyclable, Vegan, Canvas",Yes,53.11,5,Yes,Size mismatch,Maybe,Yes
+33,Male,Other,Tier 2,Professional,1686.25,1,Sneakers,Yes,5.8,Yes,"Stitching pattern, Color, Material",Material & sole,2,4,2,2,5,"Canvas, Recyclable, Knit",Yes,193.97,3,No,Poor product information,Yes,No
+29,Male,USA,Tier 2,Professional,664.08,3,"Formal, Slippers, Sneakers",No,8.0,No,"Material, Stitching pattern, Color",Material & sole,3,5,4,2,4,"Canvas, Knit",Yes,163.48,2,Yes,Size mismatch,Yes,No
+13,Male,Other,Tier 2,Professional,259.68,5,"Casual, Sneakers, Slippers",Yes,7.7,No,Color,Material & sole,2,5,3,3,1,"Leather, Recyclable, Vegan",No,66.05,5,Yes,Poor product information,Yes,Yes
+29,Male,India,Tier 2,Professional,1112.01,3,"Sports, Sneakers, Casual",No,8.2,No,"Material, Full-design",Just color,4,1,1,4,5,Vegan,Yes,76.59,3,No,Poor product information,Maybe,Yes
+19,Female,India,Tier 3,Entrepreneur,3524.25,5,"Boots, Formal, Sports",No,9.8,No,"Full-design, Sole type",Full-design from scratch,1,5,5,3,2,Recyclable,Yes,80.62,1,Yes,None of the above,No,No
+35,Female,India,Tier 3,Student,1464.2,7,"Casual, Boots",No,8.8,No,"Sole type, Full-design, Color",Material & sole,4,5,1,3,5,Vegan,No,131.97,4,No,Size mismatch,Yes,Yes
+32,Female,India,Tier 2,Student,2879.18,3,"Ethnic, Sneakers",No,8.9,No,Color,Material & sole,4,3,4,3,5,"Canvas, Knit",Yes,117.75,2,Yes,Generic designs,Yes,Yes
+22,Male,India,Tier 1,Other,7373.64,3,"Casual, Sneakers, Slippers",No,11.0,Yes,"Full-design, Stitching pattern",Full-design from scratch,4,5,4,1,3,"Canvas, Leather",No,116.25,3,Yes,Long delivery times,Yes,Yes
+25,Male,USA,Tier 1,Professional,468.0,6,Sneakers,No,8.0,Yes,Color,Full-design from scratch,4,2,3,4,3,Recyclable,No,99.81,4,Yes,None of the above,Yes,Yes
+21,Female,UK,Tier 1,Student,1965.4,5,"Sports, Formal",Yes,11.8,Yes,"Color, Stitching pattern",Full-design from scratch,2,2,3,4,4,Leather,Yes,127.13,4,No,Size mismatch,Maybe,No
+29,Male,USA,Tier 2,Student,1882.64,3,"Boots, Casual",No,8.0,Yes,Sole type,Material & sole,5,2,5,1,4,"Canvas, Leather, Knit",No,153.49,3,No,Generic designs,Yes,Yes
+37,Male,India,Tier 1,Student,6064.7,3,"Casual, Ethnic, Slippers",No,9.1,Yes,"Full-design, Stitching pattern, Color",Material & sole,2,1,3,3,5,Leather,Yes,114.87,3,Yes,Size mismatch,No,Yes
+22,Female,UAE,Tier 1,Professional,6560.87,5,Slippers,Yes,8.6,Yes,Color,Material & sole,3,4,5,3,1,"Canvas, Vegan, Knit",No,93.49,3,Yes,Poor product information,Yes,Yes
+34,Male,USA,Tier 3,Self-employed,1940.79,3,"Sneakers, Casual, Sports",No,9.2,Yes,Material,Full-design from scratch,4,3,2,2,4,"Recyclable, Canvas, Leather",No,159.68,5,No,Size mismatch,No,No
+25,Female,India,Tier 3,Professional,618.81,1,"Slippers, Ethnic, Sports",Yes,9.7,No,"Sole type, Color, Material",Full-design from scratch,3,1,5,2,5,"Canvas, Knit, Recyclable",Yes,111.15,1,No,Long delivery times,Yes,Yes
+23,Male,UK,Tier 3,Professional,2603.36,5,"Ethnic, Sneakers, Casual",No,9.7,Yes,Sole type,Just color,2,4,3,5,5,"Leather, Vegan",No,142.08,5,No,Size mismatch,Yes,Yes
+29,Male,India,Tier 1,Professional,369.8,7,Boots,Yes,7.9,No,"Stitching pattern, Full-design",Material & sole,4,3,1,2,5,"Vegan, Knit",No,116.0,4,No,Generic designs,No,No
+21,Male,India,Tier 2,Professional,2475.97,3,"Formal, Ethnic",No,7.3,Yes,"Sole type, Color, Full-design",Full-design from scratch,2,3,3,4,5,"Canvas, Leather",Yes,163.4,4,No,Generic designs,Yes,Yes
+25,Prefer not to say,Other,Tier 1,Self-employed,3815.19,1,Boots,Yes,12.8,No,"Stitching pattern, Material, Full-design",Material & sole,4,3,4,1,5,"Leather, Vegan",Yes,169.33,4,No,None of the above,No,Yes
+20,Female,India,Tier 1,Self-employed,923.92,4,"Ethnic, Slippers",No,8.3,No,"Sole type, Material",Material & sole,2,2,3,3,3,"Knit, Leather",Yes,167.93,3,No,Generic designs,Maybe,Yes
+45,Prefer not to say,USA,Tier 1,Student,1693.96,4,"Ethnic, Formal, Sports",No,10.0,No,"Color, Sole type",Material & sole,1,2,2,5,2,"Knit, Canvas",Yes,97.92,2,No,Size mismatch,Yes,Yes
+30,Female,UAE,Tier 1,Entrepreneur,1043.55,8,"Ethnic, Sports, Casual",No,6.6,Yes,"Stitching pattern, Sole type",Material & sole,5,2,5,2,2,"Leather, Vegan",No,97.52,5,Yes,Size mismatch,Maybe,Yes
+24,Male,UK,Tier 1,Professional,1063.75,3,"Sports, Boots",No,8.6,Yes,Sole type,Full-design from scratch,5,3,4,5,5,Recyclable,No,154.95,2,Yes,Size mismatch,Yes,Yes
+31,Female,India,Tier 3,Other,757.4,4,"Ethnic, Formal",No,8.8,Yes,"Color, Material, Sole type",Material & sole,4,3,5,1,4,"Canvas, Vegan",Yes,117.42,1,Yes,Long delivery times,Yes,Yes
+29,Female,India,Tier 1,Professional,2354.04,4,Casual,Yes,9.7,No,"Color, Full-design, Sole type",Material & sole,1,2,5,1,1,Canvas,Yes,118.63,1,Yes,Generic designs,No,Yes
+28,Female,India,Tier 2,Other,4327.45,8,"Ethnic, Sneakers",No,5.0,No,"Full-design, Stitching pattern",Just color,3,3,3,5,5,"Vegan, Canvas, Knit",Yes,92.2,5,Yes,Generic designs,No,Yes
+34,Male,USA,Tier 2,Entrepreneur,4439.01,3,Formal,Yes,9.2,No,"Material, Color, Full-design",Just color,1,2,1,5,1,"Leather, Vegan, Knit",Yes,176.38,4,Yes,Size mismatch,Yes,Yes
+36,Female,USA,Tier 1,Professional,488.16,2,Slippers,Yes,7.3,Yes,"Stitching pattern, Full-design, Sole type",Material & sole,4,2,4,5,3,"Leather, Recyclable",Yes,161.62,1,No,Long delivery times,Maybe,No
+25,Male,India,Tier 1,Professional,3316.09,3,"Casual, Boots, Ethnic",No,9.5,Yes,Stitching pattern,Material & sole,1,2,2,3,2,Leather,Yes,115.24,2,No,Generic designs,Maybe,Yes
+25,Male,Other,Tier 1,Other,2205.86,5,"Slippers, Formal",Yes,7.4,Yes,"Color, Stitching pattern",Material & sole,3,4,2,4,3,"Knit, Vegan, Leather",Yes,94.18,2,No,None of the above,Yes,Yes
+27,Female,USA,Tier 2,Self-employed,637.21,5,"Slippers, Sneakers",No,7.7,Yes,"Color, Material, Full-design",Material & sole,4,3,1,2,4,"Canvas, Leather",No,92.41,3,No,Generic designs,Maybe,Yes
+13,Female,India,Tier 1,Student,304.48,6,"Ethnic, Casual",No,8.6,Yes,"Material, Full-design",Full-design from scratch,5,1,1,2,4,Vegan,No,125.33,4,Yes,Poor product information,No,Yes
+17,Male,USA,Tier 1,Entrepreneur,667.96,5,Sneakers,No,7.4,Yes,Material,Material & sole,1,2,3,2,5,"Canvas, Knit",No,135.47,3,No,Poor product information,Maybe,Yes
+40,Male,UK,Tier 1,Professional,3849.18,5,Formal,No,8.3,No,Color,Material & sole,5,1,2,5,4,"Recyclable, Leather",Yes,85.5,5,No,Size mismatch,Yes,Yes
+43,Female,India,Tier 2,Student,1704.32,6,Slippers,No,7.2,Yes,"Color, Stitching pattern",Full-design from scratch,5,4,4,5,4,"Vegan, Recyclable, Canvas",No,70.21,1,Yes,Generic designs,Maybe,Yes
+28,Female,India,Tier 3,Professional,2115.11,0,"Ethnic, Slippers, Sneakers",No,6.3,Yes,Material,Material & sole,2,3,1,5,3,"Leather, Canvas",No,123.19,3,Yes,Generic designs,Yes,Yes
+34,Female,UAE,Tier 1,Professional,645.9,3,"Casual, Sports, Sneakers",No,10.5,No,"Sole type, Full-design, Stitching pattern",Full-design from scratch,3,2,1,3,1,Vegan,No,154.59,3,Yes,Size mismatch,Maybe,Yes
+32,Prefer not to say,USA,Tier 2,Self-employed,2106.17,1,Casual,Yes,7.1,Yes,Color,Material & sole,1,2,1,3,2,"Vegan, Leather, Knit",Yes,122.95,5,Yes,Size mismatch,No,Yes
+54,Female,USA,Tier 2,Professional,242.79,6,"Sports, Sneakers, Casual",No,8.7,Yes,"Full-design, Stitching pattern",Full-design from scratch,5,2,4,3,4,"Knit, Recyclable, Vegan",Yes,110.03,2,Yes,Size mismatch,Yes,Yes
+38,Male,USA,Tier 3,Self-employed,905.78,1,"Ethnic, Slippers, Casual",No,10.1,Yes,"Sole type, Full-design, Stitching pattern",Full-design from scratch,5,1,2,3,4,"Vegan, Leather",Yes,74.8,2,Yes,None of the above,Yes,Yes
+28,Female,India,Tier 3,Student,1678.27,7,"Sneakers, Ethnic, Casual",No,8.1,Yes,"Color, Stitching pattern",Material & sole,3,4,4,1,3,"Leather, Knit, Vegan",Yes,94.64,5,Yes,Size mismatch,Maybe,Yes
+22,Male,India,Tier 2,Professional,436.91,3,Ethnic,No,7.8,Yes,Stitching pattern,Full-design from scratch,5,3,4,3,2,"Leather, Vegan",No,155.14,2,Yes,Poor product information,No,Yes
+17,Male,USA,Tier 2,Professional,2797.44,3,Sneakers,No,9.3,Yes,Material,Full-design from scratch,5,4,3,3,3,"Canvas, Recyclable",No,69.87,5,No,Size mismatch,Yes,No
+31,Female,India,Tier 3,Professional,601.88,3,Boots,Yes,10.7,Yes,"Full-design, Color, Stitching pattern",Material & sole,5,2,1,3,1,"Leather, Vegan, Knit",Yes,190.91,2,Yes,Poor product information,Yes,No
+23,Male,India,Tier 1,Student,1784.54,3,"Casual, Boots, Formal",Yes,7.2,Yes,"Color, Sole type, Stitching pattern",Material & sole,5,4,2,2,3,Knit,Yes,123.4,5,Yes,Generic designs,Maybe,Yes
+18,Other,UAE,Tier 1,Student,979.29,4,"Sports, Ethnic, Sneakers",Yes,8.8,Yes,"Stitching pattern, Sole type",Material & sole,2,1,3,2,2,"Vegan, Leather, Knit",No,56.55,2,No,Long delivery times,Yes,Yes
+24,Female,Other,Tier 1,Professional,1559.67,5,"Casual, Ethnic, Sneakers",Yes,6.4,No,"Stitching pattern, Full-design",Full-design from scratch,2,5,3,2,2,"Knit, Vegan, Leather",Yes,140.13,3,No,Size mismatch,Yes,Yes
+21,Female,UK,Tier 3,Professional,370.51,4,Formal,Yes,8.4,Yes,Material,Material & sole,4,5,5,4,4,"Vegan, Canvas, Leather",No,138.01,3,Yes,Generic designs,Maybe,Yes
+43,Female,UAE,Tier 3,Professional,225.59,2,Sports,No,9.1,No,"Stitching pattern, Material",Just color,1,3,1,1,1,Canvas,No,102.5,2,No,Poor product information,Yes,Yes
+37,Female,India,Tier 1,Professional,3804.68,3,"Sneakers, Sports",No,7.7,Yes,"Full-design, Stitching pattern, Color",Just color,3,3,2,5,5,Recyclable,Yes,157.57,5,Yes,None of the above,Yes,Yes
+29,Female,Other,Tier 2,Self-employed,671.31,4,Formal,No,8.3,Yes,"Sole type, Material",Material & sole,4,4,2,3,4,Vegan,No,95.21,3,Yes,Size mismatch,Yes,Yes
+41,Female,India,Tier 1,Self-employed,2769.51,2,"Formal, Sneakers, Ethnic",Yes,6.9,No,Stitching pattern,Material & sole,2,3,2,2,3,"Leather, Knit",Yes,145.28,1,Yes,Size mismatch,Maybe,Yes
+30,Male,Other,Tier 1,Professional,10000.0,3,"Ethnic, Slippers",No,9.1,Yes,"Sole type, Color",Material & sole,2,1,1,1,3,"Recyclable, Vegan",No,118.61,2,No,Generic designs,Yes,No
+23,Female,Other,Tier 3,Professional,556.3,0,"Boots, Sneakers, Slippers",No,10.6,Yes,"Sole type, Full-design",Full-design from scratch,2,2,2,3,2,Leather,No,108.66,1,Yes,Size mismatch,No,Yes
+42,Male,UK,Tier 1,Student,662.18,8,"Ethnic, Formal, Sneakers",No,7.4,Yes,"Stitching pattern, Color",Material & sole,4,2,4,4,2,"Leather, Knit",No,173.72,1,No,Size mismatch,Maybe,Yes
+34,Female,Other,Tier 1,Other,1830.88,4,"Sports, Sneakers, Boots",No,8.1,Yes,Material,Just color,2,4,4,5,2,"Leather, Vegan, Recyclable",Yes,159.34,4,Yes,Generic designs,Yes,Yes
+21,Female,USA,Tier 2,Student,5247.96,3,"Casual, Sports",No,9.8,No,"Stitching pattern, Sole type",Just color,4,2,1,3,5,Recyclable,Yes,75.7,1,No,Generic designs,Maybe,Yes
+28,Female,India,Tier 2,Professional,3912.1,8,"Casual, Formal, Sneakers",No,10.8,No,"Stitching pattern, Color",Material & sole,2,4,2,5,5,"Recyclable, Canvas",Yes,135.21,1,Yes,Poor product information,Yes,No
+22,Male,USA,Tier 1,Professional,1248.37,5,"Formal, Casual",No,6.8,Yes,Stitching pattern,Material & sole,5,3,5,3,4,"Recyclable, Canvas, Leather",Yes,195.74,4,No,Generic designs,No,Yes
+18,Male,USA,Tier 2,Professional,2577.93,3,Ethnic,Yes,8.7,Yes,Stitching pattern,Material & sole,5,3,5,4,5,Canvas,No,174.76,4,No,Generic designs,Yes,Yes
+37,Female,India,Tier 2,Student,418.83,5,"Boots, Ethnic",No,9.4,Yes,"Stitching pattern, Sole type, Color",Material & sole,1,1,5,1,2,"Leather, Vegan",Yes,83.63,4,No,Generic designs,No,Yes
+45,Male,USA,Tier 1,Entrepreneur,5887.24,1,"Sports, Sneakers",Yes,8.8,No,"Material, Color, Full-design",Material & sole,2,2,4,5,4,"Leather, Canvas, Knit",No,183.84,5,Yes,Generic designs,Yes,Yes
+18,Male,Other,Tier 1,Student,5201.15,4,"Formal, Sports",No,5.3,No,"Full-design, Stitching pattern, Color",Just color,1,1,5,5,4,"Canvas, Leather, Vegan",Yes,157.2,4,No,Generic designs,Yes,Yes
+34,Male,India,Tier 2,Professional,468.2,3,"Sports, Ethnic",No,9.8,No,"Full-design, Color, Stitching pattern",Just color,4,5,2,1,1,"Leather, Knit, Recyclable",Yes,78.06,5,No,Size mismatch,Maybe,Yes
+24,Prefer not to say,UK,Tier 1,Student,733.78,1,Ethnic,Yes,11.3,Yes,Material,Full-design from scratch,1,1,2,5,5,"Recyclable, Canvas",No,128.31,2,Yes,Size mismatch,Yes,Yes
+26,Female,Other,Tier 3,Student,358.3,3,"Boots, Sports, Ethnic",Yes,9.2,No,Material,Material & sole,2,4,5,2,3,"Leather, Recyclable, Vegan",Yes,139.11,5,No,Poor product information,Maybe,Yes
+25,Male,Other,Tier 3,Self-employed,675.6,4,"Formal, Slippers",Yes,7.5,Yes,Stitching pattern,Full-design from scratch,4,4,3,1,3,"Recyclable, Canvas",No,76.92,2,No,Poor product information,Yes,Yes
+23,Male,Other,Tier 3,Student,2738.87,1,"Formal, Sports, Boots",Yes,8.2,Yes,Sole type,Full-design from scratch,4,1,5,4,1,Canvas,Yes,148.24,4,No,Long delivery times,Yes,Yes
+30,Male,USA,Tier 1,Self-employed,912.98,6,Boots,Yes,11.7,No,"Material, Sole type, Full-design",Material & sole,5,3,3,3,2,"Knit, Vegan",No,217.19,4,Yes,Poor product information,Maybe,Yes
+23,Female,Other,Tier 3,Professional,338.83,2,Slippers,Yes,10.4,Yes,"Full-design, Stitching pattern",Full-design from scratch,4,5,1,3,1,"Leather, Canvas",Yes,174.61,2,No,Size mismatch,Yes,Yes
+32,Female,UK,Tier 1,Student,828.34,4,Casual,Yes,10.0,No,"Color, Full-design, Stitching pattern",Just color,4,1,1,1,2,"Canvas, Leather",No,126.48,3,Yes,Size mismatch,Maybe,Yes
+29,Male,India,Tier 1,Other,6175.55,4,Slippers,Yes,9.5,Yes,"Stitching pattern, Full-design",Material & sole,1,3,2,2,5,"Canvas, Knit, Leather",Yes,108.75,5,No,Size mismatch,Yes,Yes
+28,Male,USA,Tier 1,Professional,1690.1,6,"Sports, Casual, Formal",No,8.0,No,Stitching pattern,Material & sole,4,1,4,4,5,Knit,Yes,133.14,1,No,Generic designs,Yes,Yes
+22,Male,UK,Tier 1,Self-employed,1007.19,3,Boots,No,8.7,Yes,"Full-design, Sole type, Material",Full-design from scratch,3,2,2,3,4,Vegan,No,80.99,4,No,Poor product information,No,Yes
+25,Female,India,Tier 2,Student,473.25,3,"Slippers, Formal",Yes,8.9,Yes,Sole type,Just color,5,4,2,3,4,Knit,No,100.9,5,Yes,Generic designs,Yes,Yes
+36,Female,USA,Tier 1,Self-employed,6622.11,2,Ethnic,No,9.8,Yes,"Color, Sole type, Full-design",Full-design from scratch,5,2,4,2,4,"Canvas, Vegan, Leather",Yes,41.53,5,No,Poor product information,Yes,Yes
+34,Male,UK,Tier 1,Student,2779.29,7,Formal,No,11.3,Yes,"Color, Material",Just color,4,2,2,5,4,"Leather, Canvas, Recyclable",Yes,137.38,4,Yes,Long delivery times,Maybe,Yes
+22,Male,India,Tier 2,Professional,695.84,2,Casual,No,10.7,Yes,"Material, Full-design, Sole type",Full-design from scratch,1,5,4,1,3,"Recyclable, Vegan, Leather",Yes,106.5,2,No,None of the above,Yes,Yes
+30,Male,USA,Tier 1,Entrepreneur,308.97,4,Boots,Yes,6.9,Yes,Material,Material & sole,5,3,2,2,4,Vegan,Yes,144.72,4,No,Generic designs,Yes,No
+36,Prefer not to say,UK,Tier 2,Self-employed,287.44,5,"Sports, Formal",No,9.3,Yes,"Stitching pattern, Color",Material & sole,5,4,1,2,4,Leather,No,124.79,5,No,Long delivery times,Maybe,Yes
+16,Male,USA,Tier 1,Self-employed,392.39,2,"Sports, Formal",No,10.1,Yes,"Color, Stitching pattern, Full-design",Material & sole,3,2,3,2,4,Canvas,Yes,79.57,3,Yes,Generic designs,Maybe,Yes
+34,Female,India,Tier 3,Self-employed,1504.0,5,"Sneakers, Boots, Sports",No,9.9,Yes,"Material, Color, Stitching pattern",Material & sole,4,4,2,2,2,Recyclable,Yes,128.02,2,Yes,None of the above,Yes,No
+24,Female,India,Tier 3,Self-employed,4162.62,5,"Sports, Sneakers, Ethnic",No,8.1,Yes,"Full-design, Sole type",Material & sole,5,3,3,5,4,"Vegan, Recyclable",No,91.46,4,Yes,Long delivery times,No,No
+34,Male,India,Tier 1,Student,1229.98,3,"Boots, Slippers",No,13.0,No,"Sole type, Stitching pattern, Material",Full-design from scratch,5,1,5,4,1,"Canvas, Recyclable, Leather",Yes,186.22,1,No,None of the above,No,Yes
+23,Male,Other,Tier 1,Professional,2976.74,4,Sneakers,No,7.1,No,"Stitching pattern, Sole type",Just color,5,2,2,2,4,"Knit, Vegan, Canvas",No,86.26,4,Yes,Generic designs,No,No
+15,Male,India,Tier 1,Professional,1085.58,4,"Formal, Boots, Sports",No,7.4,Yes,Stitching pattern,Full-design from scratch,5,3,1,2,4,Canvas,No,101.2,5,No,Long delivery times,Yes,No
+16,Female,USA,Tier 3,Professional,2049.5,2,"Slippers, Ethnic, Boots",No,9.4,Yes,"Full-design, Stitching pattern",Material & sole,1,4,4,1,3,"Leather, Canvas, Knit",Yes,79.46,5,No,Generic designs,Maybe,Yes
+30,Female,India,Tier 1,Professional,2174.44,3,"Sneakers, Ethnic",No,12.2,No,"Color, Full-design, Sole type",Full-design from scratch,2,3,1,3,4,"Recyclable, Leather",No,75.99,1,Yes,Size mismatch,Yes,Yes
+32,Female,India,Tier 1,Professional,486.67,3,Sports,No,7.7,Yes,"Sole type, Full-design, Material",Material & sole,3,1,3,5,2,"Knit, Recyclable, Canvas",Yes,121.2,2,Yes,Poor product information,No,Yes
+22,Female,UAE,Tier 1,Student,872.28,3,"Slippers, Sneakers",Yes,8.6,Yes,"Color, Stitching pattern, Full-design",Material & sole,1,3,4,2,5,Recyclable,Yes,70.18,5,Yes,Long delivery times,Maybe,Yes
+35,Male,UK,Tier 1,Professional,1721.28,6,"Ethnic, Sports",No,10.6,Yes,"Sole type, Full-design",Full-design from scratch,3,4,1,4,4,Canvas,Yes,112.48,2,Yes,Size mismatch,No,Yes
+16,Prefer not to say,India,Tier 1,Student,309.98,1,"Ethnic, Sneakers",Yes,9.0,Yes,"Sole type, Full-design",Material & sole,5,2,1,4,4,Recyclable,Yes,137.2,2,No,Generic designs,Maybe,Yes
+29,Female,USA,Tier 3,Professional,873.04,2,Sports,No,8.5,Yes,Material,Material & sole,3,2,1,4,4,Recyclable,Yes,103.05,4,No,Poor product information,Yes,Yes
+20,Male,India,Tier 1,Professional,1347.93,3,"Boots, Formal",No,9.8,Yes,"Material, Color, Sole type",Just color,4,5,4,1,3,"Recyclable, Canvas",Yes,31.88,2,No,Poor product information,Yes,Yes
+24,Prefer not to say,USA,Tier 1,Entrepreneur,8568.83,1,Formal,Yes,9.4,Yes,"Sole type, Material",Just color,4,4,1,4,5,"Canvas, Knit",No,173.36,5,Yes,Long delivery times,Maybe,No
+30,Female,UK,Tier 3,Entrepreneur,1165.2,6,"Boots, Ethnic",No,10.5,Yes,"Color, Stitching pattern, Material",Material & sole,2,5,1,1,3,Canvas,No,130.66,5,No,Long delivery times,Yes,Yes
+23,Female,India,Tier 3,Professional,2739.69,4,"Boots, Ethnic, Casual",Yes,10.9,Yes,"Stitching pattern, Full-design",Full-design from scratch,2,5,3,5,3,Canvas,No,131.14,3,Yes,Generic designs,Maybe,Yes
+26,Female,India,Tier 1,Student,1048.63,3,"Boots, Slippers",No,9.5,Yes,"Color, Material",Material & sole,3,1,1,4,3,"Vegan, Recyclable, Leather",Yes,110.72,2,Yes,Size mismatch,Yes,Yes
+38,Female,India,Tier 1,Professional,2587.33,9,"Sneakers, Boots",Yes,9.4,Yes,"Material, Stitching pattern",Just color,1,4,1,3,2,Leather,Yes,152.44,3,No,Poor product information,Maybe,Yes
+25,Female,Other,Tier 1,Student,1557.34,5,"Sneakers, Sports, Ethnic",No,9.3,Yes,"Sole type, Full-design, Color",Material & sole,1,2,5,2,5,Knit,Yes,157.52,4,No,Poor product information,No,Yes
+36,Male,Other,Tier 3,Professional,3465.19,6,"Ethnic, Boots, Formal",No,9.7,No,"Full-design, Material, Stitching pattern",Material & sole,5,4,4,5,2,"Canvas, Vegan",Yes,161.52,3,Yes,Poor product information,Yes,Yes
+20,Male,India,Tier 1,Professional,993.85,5,"Sneakers, Formal",No,9.1,Yes,Stitching pattern,Material & sole,1,1,5,3,2,"Knit, Vegan",Yes,130.75,2,No,Size mismatch,Yes,Yes
+34,Other,UK,Tier 3,Student,1590.67,3,"Casual, Sneakers",No,9.0,Yes,Sole type,Full-design from scratch,2,4,3,5,5,Leather,No,64.96,5,No,Generic designs,No,No
+41,Male,India,Tier 2,Professional,1691.45,4,"Sneakers, Ethnic",Yes,10.8,Yes,"Full-design, Material, Sole type",Full-design from scratch,1,4,5,4,2,"Leather, Canvas, Recyclable",Yes,136.21,4,No,Poor product information,Yes,Yes
+13,Male,India,Tier 2,Other,1010.34,5,Casual,No,11.3,Yes,"Color, Material",Just color,5,5,2,5,5,Vegan,Yes,130.7,2,Yes,Generic designs,No,No
+23,Male,UK,Tier 1,Other,433.77,7,"Casual, Ethnic",Yes,6.7,Yes,"Material, Sole type",Full-design from scratch,4,4,4,5,4,"Leather, Recyclable, Vegan",Yes,98.05,4,No,Poor product information,No,Yes
+34,Male,Other,Tier 1,Professional,347.34,1,"Casual, Formal",Yes,9.0,Yes,"Sole type, Full-design",Material & sole,1,5,1,5,3,"Vegan, Knit, Canvas",Yes,87.93,1,No,Poor product information,Yes,Yes
+28,Female,Other,Tier 1,Student,225.22,6,"Sneakers, Sports, Ethnic",Yes,8.0,No,"Full-design, Sole type",Full-design from scratch,1,5,5,1,2,Knit,Yes,141.72,2,No,Size mismatch,Maybe,Yes
+32,Other,USA,Tier 1,Student,3301.68,3,Sports,No,8.5,Yes,"Color, Stitching pattern",Just color,2,3,5,3,5,Leather,Yes,116.97,1,No,None of the above,Yes,No
+25,Male,India,Tier 2,Professional,604.71,5,"Sports, Ethnic",No,9.6,No,Full-design,Material & sole,3,1,1,4,1,"Canvas, Leather",No,104.4,3,No,Generic designs,Yes,Yes
+30,Male,UK,Tier 3,Self-employed,556.45,3,"Casual, Formal, Boots",Yes,10.0,Yes,"Full-design, Color, Material",Material & sole,4,5,1,2,2,Vegan,Yes,186.9,2,No,Size mismatch,Yes,No
+28,Male,India,Tier 2,Student,2197.91,5,Boots,Yes,8.8,No,Full-design,Material & sole,3,4,3,4,2,Vegan,No,146.86,1,Yes,Generic designs,No,No
+39,Female,USA,Tier 2,Entrepreneur,778.53,4,"Boots, Casual, Sports",Yes,6.1,No,Stitching pattern,Just color,5,5,5,4,5,Leather,Yes,137.38,5,No,Long delivery times,Maybe,Yes
+32,Female,India,Tier 1,Student,1257.97,6,"Casual, Ethnic",No,7.6,No,"Sole type, Stitching pattern, Color",Just color,5,5,5,1,1,"Recyclable, Vegan",Yes,168.74,3,Yes,Long delivery times,Yes,Yes
+32,Male,UK,Tier 1,Other,466.02,4,"Slippers, Ethnic",No,10.3,Yes,Material,Just color,3,5,2,1,1,Vegan,No,133.22,2,Yes,Generic designs,Yes,Yes
+26,Female,India,Tier 1,Professional,5018.81,6,Casual,Yes,5.0,Yes,Sole type,Material & sole,2,2,2,5,4,Canvas,Yes,91.84,2,No,Size mismatch,Yes,Yes
+26,Female,India,Tier 2,Entrepreneur,3061.58,5,"Casual, Slippers, Sports",No,10.8,No,"Full-design, Stitching pattern",Just color,2,2,5,4,2,"Vegan, Canvas, Recyclable",Yes,104.42,5,Yes,Generic designs,Maybe,Yes
+26,Female,Other,Tier 3,Professional,3190.33,2,"Boots, Formal, Ethnic",No,9.8,No,Sole type,Material & sole,2,2,2,3,3,"Canvas, Vegan",No,149.28,5,No,Long delivery times,Yes,Yes
+33,Other,India,Tier 2,Professional,983.27,1,"Sneakers, Formal, Sports",No,11.0,No,"Material, Color, Full-design",Just color,4,2,5,1,2,"Canvas, Knit, Recyclable",Yes,144.99,1,No,Generic designs,Maybe,Yes
+26,Male,USA,Tier 1,Student,2355.51,1,"Slippers, Boots",No,8.7,Yes,"Material, Sole type",Material & sole,5,3,4,1,3,Knit,Yes,137.85,1,No,Long delivery times,Yes,Yes
+32,Female,India,Tier 1,Student,433.01,3,"Sports, Casual",No,5.9,No,"Color, Full-design, Material",Just color,5,5,3,3,3,Leather,No,74.49,1,No,Size mismatch,Maybe,Yes
+46,Female,India,Tier 2,Self-employed,212.98,5,"Formal, Sneakers, Boots",No,9.6,Yes,"Material, Full-design",Full-design from scratch,5,3,2,1,5,"Recyclable, Leather, Canvas",No,152.53,4,Yes,Size mismatch,No,Yes
+36,Female,India,Tier 1,Self-employed,230.26,3,"Boots, Ethnic, Slippers",No,10.9,Yes,"Material, Stitching pattern, Color",Full-design from scratch,4,4,5,3,2,Leather,Yes,117.4,3,No,Long delivery times,Maybe,No
+27,Female,India,Tier 3,Self-employed,1525.02,5,Boots,Yes,10.4,Yes,Full-design,Material & sole,5,1,2,2,5,"Vegan, Recyclable",Yes,144.0,2,No,Generic designs,Yes,Yes
+39,Female,UAE,Tier 3,Professional,1111.54,4,"Slippers, Ethnic, Casual",No,8.0,Yes,"Stitching pattern, Full-design",Material & sole,3,3,3,3,4,Knit,No,86.79,3,Yes,Size mismatch,No,Yes
+26,Female,India,Tier 2,Self-employed,1294.76,3,Formal,No,9.1,No,"Stitching pattern, Full-design",Just color,1,2,4,2,3,Knit,Yes,198.64,5,Yes,Poor product information,Maybe,Yes
+13,Male,Other,Tier 1,Student,211.24,6,"Ethnic, Casual",Yes,8.2,Yes,Color,Full-design from scratch,4,2,1,5,1,"Canvas, Recyclable, Knit",Yes,129.9,3,Yes,Long delivery times,No,No
+21,Female,USA,Tier 1,Professional,1024.06,5,"Casual, Sports",Yes,7.8,Yes,"Material, Sole type, Color",Material & sole,1,4,1,5,3,"Canvas, Leather, Recyclable",Yes,103.3,3,No,Size mismatch,Yes,No
+15,Prefer not to say,USA,Tier 1,Professional,2099.13,6,Slippers,No,10.4,Yes,"Full-design, Material",Just color,3,5,2,1,4,"Vegan, Canvas, Knit",No,145.85,1,No,Size mismatch,Maybe,Yes
+27,Other,USA,Tier 1,Professional,1076.96,2,Boots,No,7.2,Yes,Color,Material & sole,2,1,5,3,3,"Vegan, Knit",Yes,154.32,5,Yes,Size mismatch,Yes,Yes
+30,Male,USA,Tier 1,Professional,2176.38,5,"Sneakers, Sports, Formal",No,7.7,Yes,"Material, Full-design, Sole type",Just color,2,3,3,1,5,Vegan,No,145.36,3,No,None of the above,Yes,Yes
+43,Male,UK,Tier 2,Student,597.94,6,"Ethnic, Sports, Slippers",No,7.3,Yes,"Sole type, Material",Material & sole,2,5,4,3,2,"Canvas, Recyclable, Vegan",Yes,80.21,2,Yes,None of the above,Yes,Yes
+32,Male,India,Tier 2,Professional,2716.11,3,"Boots, Formal, Sneakers",No,6.8,Yes,Stitching pattern,Material & sole,4,5,4,1,1,"Recyclable, Canvas",Yes,165.71,1,No,Generic designs,No,Yes
+28,Female,India,Tier 1,Self-employed,1531.67,5,"Sneakers, Casual",Yes,9.2,No,"Full-design, Sole type, Color",Material & sole,2,3,4,5,5,"Canvas, Leather, Recyclable",No,106.21,3,No,Generic designs,Maybe,Yes
+36,Female,UAE,Tier 1,Professional,555.03,5,Casual,No,10.7,No,Color,Material & sole,4,3,1,5,2,Leather,No,119.36,5,Yes,Poor product information,Yes,Yes
+13,Male,Other,Tier 1,Student,605.2,6,"Ethnic, Casual",No,8.7,Yes,"Sole type, Stitching pattern",Just color,4,3,3,1,1,"Recyclable, Leather",Yes,31.65,2,No,Size mismatch,Yes,Yes
+31,Female,UAE,Tier 1,Student,1683.41,3,"Boots, Sports, Ethnic",Yes,6.7,Yes,"Full-design, Sole type, Material",Material & sole,1,3,1,3,4,"Recyclable, Vegan",Yes,101.44,5,No,Long delivery times,No,Yes
+36,Female,USA,Tier 3,Professional,2857.4,6,Formal,Yes,10.3,Yes,"Material, Sole type, Full-design",Just color,2,2,2,4,3,"Leather, Vegan",No,101.19,5,No,Size mismatch,Yes,Yes
+18,Female,UK,Tier 1,Professional,1005.83,11,"Sports, Ethnic, Slippers",Yes,11.5,Yes,"Material, Full-design",Full-design from scratch,5,5,4,3,1,"Canvas, Leather",No,552.08,5,Yes,Poor product information,Maybe,Yes
+39,Female,USA,Tier 1,Professional,648.22,5,"Sneakers, Ethnic",No,8.0,Yes,"Color, Material",Just color,2,5,3,1,4,"Leather, Vegan, Recyclable",Yes,99.0,4,Yes,Generic designs,Maybe,Yes
+32,Female,USA,Tier 1,Professional,3226.24,6,"Sneakers, Boots",No,8.3,Yes,Material,Material & sole,2,2,4,3,2,Knit,Yes,55.14,2,Yes,Size mismatch,Yes,Yes
+26,Female,India,Tier 3,Professional,1859.67,5,"Sneakers, Casual",No,9.8,Yes,Color,Material & sole,2,5,1,2,1,"Canvas, Leather",No,129.75,5,No,Generic designs,Yes,Yes
+35,Male,USA,Tier 2,Professional,1091.54,5,Slippers,No,11.4,No,"Full-design, Material, Color",Material & sole,5,3,1,3,4,Vegan,No,109.98,4,No,Generic designs,Maybe,Yes
+48,Female,India,Tier 1,Self-employed,1203.85,2,"Sports, Casual, Sneakers",Yes,8.2,Yes,"Color, Stitching pattern",Material & sole,5,1,1,5,2,"Knit, Canvas, Recyclable",No,90.86,1,Yes,Generic designs,Yes,Yes
+31,Female,India,Tier 2,Professional,542.72,10,Casual,No,7.0,Yes,"Sole type, Color, Full-design",Material & sole,4,5,4,5,5,"Recyclable, Leather",Yes,123.5,4,No,Size mismatch,Yes,No
+31,Female,UAE,Tier 2,Professional,1678.47,2,"Ethnic, Boots, Sneakers",No,9.9,No,Color,Material & sole,5,1,3,2,3,"Vegan, Canvas",Yes,48.81,1,Yes,Size mismatch,Yes,No
+26,Female,India,Tier 3,Self-employed,866.49,2,"Ethnic, Casual, Sports",No,10.2,Yes,"Color, Full-design, Sole type",Material & sole,4,1,3,3,4,"Vegan, Canvas, Recyclable",No,144.82,4,Yes,Generic designs,Yes,Yes
+23,Female,India,Tier 1,Student,8354.71,2,Sneakers,No,9.0,Yes,Stitching pattern,Material & sole,1,2,2,4,5,"Vegan, Leather, Knit",Yes,112.69,5,No,None of the above,Maybe,Yes
+36,Male,India,Tier 3,Student,1181.42,3,"Sports, Slippers, Formal",Yes,8.2,Yes,"Stitching pattern, Color",Material & sole,4,4,4,3,2,Vegan,Yes,109.31,4,Yes,Size mismatch,No,Yes
+23,Female,Other,Tier 3,Self-employed,1197.96,3,"Formal, Slippers",No,10.5,No,"Sole type, Stitching pattern, Full-design",Material & sole,2,5,2,5,1,"Knit, Leather, Canvas",Yes,158.11,4,Yes,None of the above,Maybe,No
+30,Male,USA,Tier 3,Professional,1451.55,3,"Casual, Slippers",No,9.8,Yes,Material,Material & sole,3,2,2,5,3,"Knit, Canvas",Yes,98.57,5,Yes,Generic designs,Yes,Yes
+26,Male,USA,Tier 2,Professional,3928.97,3,Sports,No,7.8,No,"Color, Sole type, Material",Just color,3,2,2,1,2,"Leather, Knit, Vegan",Yes,130.35,1,No,Long delivery times,Yes,Yes
+33,Female,UAE,Tier 2,Student,2620.31,7,"Ethnic, Sneakers",No,9.1,Yes,"Color, Sole type, Stitching pattern",Material & sole,2,1,2,5,4,Recyclable,No,114.82,5,No,Size mismatch,Maybe,Yes
+32,Prefer not to say,UAE,Tier 1,Professional,1099.84,5,Formal,Yes,7.0,Yes,"Material, Stitching pattern, Color",Just color,4,5,1,1,3,"Knit, Leather, Vegan",No,248.64,2,No,Poor product information,Maybe,No
+38,Male,India,Tier 2,Professional,2102.5,6,"Boots, Ethnic",No,10.0,Yes,"Full-design, Color, Material",Just color,2,2,2,5,5,"Knit, Vegan",Yes,558.16,4,No,Size mismatch,Maybe,Yes
+25,Male,UK,Tier 2,Student,1523.69,1,Boots,No,8.6,Yes,Color,Material & sole,5,3,3,5,3,"Leather, Knit, Canvas",Yes,74.34,2,No,Poor product information,Yes,Yes
+27,Female,UK,Tier 2,Professional,1216.99,4,"Slippers, Ethnic, Casual",No,8.3,No,"Material, Full-design",Full-design from scratch,4,2,2,4,5,Recyclable,Yes,190.09,5,Yes,None of the above,Maybe,Yes
+22,Male,UK,Tier 1,Professional,520.38,3,Sneakers,No,9.0,Yes,"Full-design, Material",Full-design from scratch,2,3,1,1,2,"Leather, Canvas, Recyclable",No,161.72,5,No,Size mismatch,Yes,Yes
+26,Female,India,Tier 2,Professional,1135.25,7,"Sports, Sneakers, Slippers",No,9.1,Yes,"Stitching pattern, Sole type",Just color,5,4,5,1,1,"Canvas, Leather",Yes,121.8,3,No,Generic designs,No,Yes
+33,Female,UAE,Tier 3,Student,623.18,4,"Sports, Casual",Yes,10.3,Yes,Color,Material & sole,5,3,5,5,3,"Vegan, Canvas, Knit",No,102.51,2,No,Size mismatch,No,Yes
+36,Female,USA,Tier 1,Student,3894.87,3,"Sneakers, Boots, Slippers",No,9.9,No,"Stitching pattern, Material, Sole type",Material & sole,4,3,5,1,1,Knit,Yes,66.94,3,No,Generic designs,No,Yes
+22,Male,India,Tier 3,Professional,812.87,7,"Ethnic, Sneakers, Casual",No,8.8,Yes,"Sole type, Material",Just color,1,1,4,5,1,"Knit, Vegan",Yes,137.22,2,No,Size mismatch,Maybe,Yes
+36,Male,USA,Tier 2,Student,4763.1,1,Sneakers,No,10.1,No,Color,Full-design from scratch,1,2,3,5,3,"Leather, Recyclable",No,92.99,3,Yes,Size mismatch,No,Yes
+40,Female,India,Tier 3,Self-employed,1342.32,4,Casual,Yes,9.6,Yes,"Color, Full-design, Sole type",Full-design from scratch,5,4,1,3,3,"Knit, Vegan",Yes,84.8,3,No,Poor product information,Yes,Yes
+33,Female,India,Tier 1,Student,1697.65,3,Slippers,Yes,8.4,Yes,"Stitching pattern, Material, Color",Full-design from scratch,1,2,5,1,1,"Recyclable, Leather",Yes,151.02,2,Yes,Long delivery times,Yes,Yes
+45,Male,UK,Tier 1,Professional,1374.41,5,"Sneakers, Ethnic, Casual",Yes,8.8,Yes,"Color, Full-design, Material",Just color,5,3,1,2,4,"Recyclable, Knit",Yes,181.8,5,No,Size mismatch,No,Yes
+23,Female,India,Tier 3,Student,407.83,2,Sneakers,No,8.8,Yes,"Material, Stitching pattern, Full-design",Material & sole,1,3,1,1,4,"Recyclable, Knit",Yes,100.95,1,Yes,Size mismatch,Yes,Yes
+20,Male,USA,Tier 1,Professional,906.98,4,Formal,No,9.8,Yes,"Stitching pattern, Color",Full-design from scratch,5,2,4,1,3,"Leather, Canvas, Vegan",Yes,152.24,5,Yes,Size mismatch,Yes,Yes
+15,Female,USA,Tier 3,Self-employed,356.62,4,"Boots, Sneakers",No,8.4,Yes,Material,Material & sole,5,4,5,4,1,Leather,Yes,128.49,1,No,None of the above,Yes,Yes
+41,Male,India,Tier 1,Student,1663.08,4,"Sports, Sneakers, Casual",No,8.4,Yes,Sole type,Full-design from scratch,5,4,2,2,1,"Canvas, Knit",No,134.35,2,Yes,Generic designs,Yes,Yes
+35,Prefer not to say,Other,Tier 2,Other,1088.25,6,"Casual, Formal, Slippers",No,12.0,No,"Sole type, Stitching pattern",Just color,5,1,1,2,2,Leather,No,87.26,4,No,Generic designs,Maybe,Yes
+29,Male,India,Tier 1,Professional,2457.52,8,Sports,No,10.4,Yes,"Color, Full-design, Stitching pattern",Material & sole,3,3,5,4,1,Knit,No,111.51,5,No,Generic designs,Yes,No
+32,Male,India,Tier 2,Entrepreneur,573.6,5,"Ethnic, Sports, Boots",No,7.9,Yes,Material,Material & sole,1,3,1,4,4,Canvas,Yes,76.13,3,No,Size mismatch,No,Yes
+20,Male,India,Tier 1,Professional,469.71,3,"Formal, Casual, Ethnic",No,9.9,Yes,"Material, Sole type, Full-design",Just color,5,1,4,1,2,"Canvas, Recyclable",No,71.1,5,Yes,Generic designs,Maybe,Yes
+49,Male,India,Tier 1,Self-employed,982.15,4,"Slippers, Ethnic, Formal",No,9.2,Yes,"Full-design, Sole type",Material & sole,2,2,4,3,4,"Leather, Knit, Canvas",Yes,140.73,2,Yes,Size mismatch,Yes,Yes
+31,Female,India,Tier 1,Professional,4117.45,4,Sports,No,9.6,Yes,"Color, Sole type, Material",Material & sole,4,3,2,4,5,"Recyclable, Canvas, Vegan",Yes,99.03,4,Yes,Poor product information,Maybe,Yes
+30,Prefer not to say,UK,Tier 1,Professional,2058.99,4,Casual,No,9.2,Yes,Color,Just color,2,2,4,2,3,"Vegan, Recyclable",Yes,83.4,4,No,Generic designs,Yes,Yes
+35,Male,Other,Tier 3,Student,1014.31,7,Formal,No,10.8,Yes,"Stitching pattern, Full-design",Material & sole,2,4,5,2,5,"Leather, Knit, Recyclable",No,71.62,5,No,Generic designs,Maybe,Yes
+33,Male,India,Tier 3,Student,1292.45,5,"Formal, Ethnic, Sports",No,9.5,Yes,"Stitching pattern, Full-design",Material & sole,3,5,4,1,3,Leather,Yes,59.45,5,No,Size mismatch,Yes,Yes
+31,Female,UK,Tier 1,Self-employed,331.96,5,Slippers,Yes,8.9,Yes,"Material, Color",Material & sole,1,1,2,3,4,Recyclable,No,41.74,5,No,Size mismatch,Yes,Yes
+23,Female,UK,Tier 2,Professional,6457.74,6,"Sneakers, Slippers, Boots",Yes,10.6,Yes,Color,Full-design from scratch,3,3,3,5,4,"Knit, Vegan, Recyclable",Yes,124.44,2,No,Long delivery times,Yes,Yes
+33,Female,UAE,Tier 1,Professional,1846.75,2,"Sneakers, Ethnic, Boots",Yes,9.3,Yes,Color,Material & sole,1,1,1,4,5,"Knit, Vegan",Yes,20.0,1,No,Generic designs,Yes,Yes
+45,Male,USA,Tier 2,Entrepreneur,704.06,7,"Ethnic, Boots, Casual",No,9.2,Yes,"Full-design, Stitching pattern",Material & sole,5,4,1,4,3,"Recyclable, Vegan, Canvas",Yes,138.85,1,Yes,Size mismatch,Maybe,Yes
+40,Male,India,Tier 3,Professional,1522.14,3,"Casual, Formal, Sneakers",Yes,9.5,Yes,"Stitching pattern, Material, Sole type",Full-design from scratch,3,4,5,1,3,"Recyclable, Canvas",No,138.57,3,Yes,Size mismatch,Yes,Yes
+42,Female,India,Tier 3,Other,373.93,5,Sneakers,Yes,8.9,Yes,"Sole type, Color",Full-design from scratch,4,4,2,3,2,"Canvas, Knit",Yes,116.04,2,Yes,Long delivery times,No,Yes
+25,Male,UK,Tier 1,Entrepreneur,5264.9,2,"Ethnic, Casual",Yes,9.0,Yes,"Material, Stitching pattern, Full-design",Just color,1,4,2,2,1,Vegan,No,122.97,4,Yes,Long delivery times,Yes,Yes
+22,Female,UAE,Tier 2,Professional,488.17,4,"Boots, Sports",No,8.1,Yes,Stitching pattern,Full-design from scratch,3,5,2,2,2,"Knit, Leather",No,108.59,3,No,None of the above,Maybe,Yes
+28,Male,India,Tier 1,Self-employed,1766.32,6,"Boots, Sports",No,7.9,Yes,"Color, Full-design",Just color,4,2,1,5,4,Knit,No,129.01,4,No,Size mismatch,Maybe,Yes
+30,Female,India,Tier 3,Student,622.46,6,"Sneakers, Slippers",No,7.5,Yes,"Sole type, Color",Just color,2,2,4,2,5,"Vegan, Canvas",Yes,128.54,4,No,Poor product information,Yes,No
+38,Male,Other,Tier 1,Professional,2096.44,0,Sports,Yes,6.9,Yes,"Full-design, Material, Sole type",Material & sole,5,5,1,4,3,"Canvas, Knit, Leather",No,172.06,5,No,Size mismatch,Yes,No
+16,Female,UAE,Tier 2,Professional,2449.67,0,"Slippers, Casual",Yes,7.7,Yes,"Full-design, Color",Material & sole,5,2,1,5,2,Canvas,No,181.31,4,No,Generic designs,No,No
+42,Female,Other,Tier 2,Professional,1878.62,2,Ethnic,No,8.7,Yes,"Material, Stitching pattern",Full-design from scratch,2,4,1,3,5,Canvas,Yes,180.09,4,No,Size mismatch,Yes,No
+28,Female,UK,Tier 2,Entrepreneur,1629.82,4,Boots,No,9.2,Yes,"Stitching pattern, Material",Full-design from scratch,3,2,4,5,5,Leather,No,88.09,2,Yes,Size mismatch,Yes,Yes
+26,Male,India,Tier 1,Self-employed,3544.97,3,"Boots, Sneakers, Ethnic",Yes,8.6,Yes,"Full-design, Color, Stitching pattern",Full-design from scratch,2,1,3,3,1,"Recyclable, Canvas",Yes,150.31,5,Yes,Size mismatch,No,Yes
+21,Female,USA,Tier 3,Professional,322.84,4,"Boots, Ethnic, Sports",Yes,5.5,Yes,"Material, Stitching pattern, Full-design",Full-design from scratch,4,2,5,2,3,"Knit, Recyclable",Yes,140.24,5,Yes,Generic designs,Maybe,Yes
+16,Female,UK,Tier 1,Professional,802.77,3,"Slippers, Boots",No,11.4,Yes,Color,Material & sole,1,1,3,1,5,Canvas,Yes,94.04,3,Yes,Poor product information,Maybe,Yes
+36,Female,India,Tier 2,Other,628.1,8,"Formal, Casual, Boots",No,10.6,Yes,"Sole type, Material",Material & sole,3,3,3,5,3,"Leather, Knit, Canvas",Yes,84.55,5,No,Generic designs,No,Yes
+30,Female,USA,Tier 1,Professional,6836.02,6,"Boots, Formal",Yes,9.7,Yes,"Sole type, Color",Full-design from scratch,1,1,1,5,2,Knit,Yes,104.93,1,No,Long delivery times,No,Yes
+19,Female,UK,Tier 1,Professional,939.94,3,Sneakers,Yes,11.9,Yes,"Material, Stitching pattern, Full-design",Full-design from scratch,2,1,3,4,5,"Recyclable, Canvas",Yes,77.56,2,Yes,Generic designs,Maybe,No
+19,Female,India,Tier 2,Professional,2178.59,0,Slippers,No,7.5,Yes,Color,Full-design from scratch,5,4,1,4,5,"Knit, Leather, Vegan",No,64.43,3,No,Poor product information,No,Yes
+27,Male,UK,Tier 1,Self-employed,1931.47,2,"Ethnic, Sports",No,11.8,Yes,"Stitching pattern, Full-design",Full-design from scratch,1,4,1,3,2,"Vegan, Canvas",No,139.9,1,No,None of the above,Yes,No
+43,Female,USA,Tier 1,Professional,557.54,3,"Ethnic, Formal, Sports",No,7.6,Yes,Stitching pattern,Just color,1,4,5,1,3,"Knit, Canvas",No,121.31,4,Yes,Poor product information,Maybe,Yes
+27,Female,Other,Tier 1,Entrepreneur,609.68,6,Ethnic,No,9.4,Yes,"Sole type, Color",Full-design from scratch,5,1,2,4,3,Recyclable,Yes,121.1,1,Yes,Size mismatch,Yes,Yes
+17,Male,India,Tier 1,Self-employed,695.43,3,"Sneakers, Boots",No,7.1,No,"Color, Full-design",Full-design from scratch,1,5,1,4,5,"Knit, Recyclable, Canvas",No,157.07,3,No,None of the above,Yes,Yes
+28,Male,India,Tier 2,Professional,994.32,4,"Boots, Formal, Casual",No,9.0,Yes,"Stitching pattern, Color",Full-design from scratch,1,4,3,2,2,"Recyclable, Canvas",Yes,112.17,5,No,Size mismatch,No,Yes
+27,Male,USA,Tier 3,Professional,600.5,9,"Casual, Sneakers",No,9.6,Yes,"Full-design, Color, Stitching pattern",Material & sole,5,4,5,2,4,"Vegan, Knit, Recyclable",No,153.21,2,Yes,Generic designs,Yes,Yes
+13,Female,India,Tier 1,Self-employed,229.77,7,"Slippers, Casual",No,8.8,No,"Full-design, Sole type, Stitching pattern",Material & sole,5,1,3,4,3,Vegan,Yes,90.44,3,Yes,Poor product information,Yes,Yes
+29,Female,UK,Tier 1,Professional,3372.83,3,"Boots, Sports, Casual",Yes,10.1,No,"Material, Stitching pattern, Full-design",Material & sole,2,3,2,3,4,Canvas,Yes,90.19,1,Yes,Generic designs,Yes,Yes
+28,Female,UK,Tier 1,Entrepreneur,5254.98,2,Casual,No,9.1,No,"Color, Material",Material & sole,2,3,4,1,5,"Recyclable, Leather, Canvas",No,120.56,1,Yes,Generic designs,No,Yes
+35,Female,India,Tier 1,Self-employed,826.85,2,Boots,No,8.2,Yes,"Sole type, Stitching pattern",Material & sole,1,2,2,4,4,Vegan,Yes,204.85,3,No,Size mismatch,Maybe,Yes
+44,Male,USA,Tier 2,Professional,819.88,2,"Sneakers, Casual, Ethnic",Yes,8.1,No,"Sole type, Stitching pattern, Color",Material & sole,3,3,5,3,4,"Canvas, Vegan, Recyclable",Yes,171.42,3,Yes,Generic designs,Yes,No
+39,Male,USA,Tier 2,Entrepreneur,210.68,4,"Slippers, Ethnic, Boots",No,10.2,Yes,Material,Material & sole,2,4,2,3,3,Knit,No,163.92,3,Yes,Long delivery times,Yes,Yes
+27,Male,India,Tier 1,Self-employed,1910.33,6,Casual,No,8.0,Yes,Sole type,Material & sole,2,5,2,4,5,Recyclable,Yes,65.12,5,Yes,Size mismatch,Yes,Yes
+21,Male,Other,Tier 1,Self-employed,2818.23,3,Boots,No,10.4,Yes,"Sole type, Full-design",Material & sole,3,2,5,3,4,"Canvas, Recyclable, Vegan",Yes,125.8,3,No,Poor product information,No,Yes
+50,Male,UAE,Tier 1,Professional,437.8,3,"Formal, Casual, Ethnic",No,10.8,Yes,"Color, Full-design, Stitching pattern",Material & sole,3,5,5,5,3,Leather,Yes,152.84,4,Yes,Size mismatch,Maybe,Yes
+30,Male,UK,Tier 3,Student,460.93,5,"Ethnic, Slippers, Sneakers",No,6.5,Yes,"Material, Stitching pattern",Material & sole,5,5,3,3,4,Recyclable,Yes,203.41,2,Yes,Long delivery times,Yes,Yes
+30,Female,UK,Tier 3,Professional,2541.57,5,Boots,Yes,10.7,Yes,Sole type,Material & sole,2,4,1,4,3,"Leather, Vegan",Yes,52.65,2,No,Generic designs,Yes,Yes
+29,Female,USA,Tier 1,Professional,1636.81,5,"Sports, Casual, Boots",No,12.1,Yes,"Material, Full-design, Color",Just color,4,1,4,3,5,Vegan,No,149.24,4,No,Long delivery times,No,No
+31,Prefer not to say,Other,Tier 1,Professional,268.85,7,"Ethnic, Casual",No,9.4,Yes,"Material, Stitching pattern",Just color,4,1,4,4,2,"Recyclable, Leather",Yes,162.57,1,Yes,Size mismatch,No,Yes
+28,Other,UK,Tier 3,Entrepreneur,1661.46,3,Ethnic,Yes,9.9,No,Sole type,Just color,1,1,4,2,3,"Knit, Vegan, Leather",No,138.07,1,Yes,Size mismatch,Yes,No
+25,Female,UK,Tier 3,Professional,754.24,2,"Slippers, Ethnic, Boots",Yes,10.6,Yes,Stitching pattern,Material & sole,2,3,2,4,3,"Vegan, Knit, Canvas",Yes,65.99,1,No,Size mismatch,Yes,Yes
+25,Male,UAE,Tier 1,Professional,890.02,1,Ethnic,No,8.6,Yes,Full-design,Full-design from scratch,4,1,5,3,4,"Leather, Knit",Yes,130.13,1,No,Size mismatch,Yes,Yes
+29,Female,India,Tier 1,Student,2402.76,6,"Sneakers, Boots, Casual",Yes,9.3,No,Stitching pattern,Just color,2,4,5,4,5,"Knit, Recyclable",No,137.15,5,Yes,Generic designs,Maybe,Yes
+25,Female,UAE,Tier 1,Entrepreneur,2698.5,4,Casual,No,7.0,Yes,"Full-design, Material",Just color,2,3,5,1,1,"Recyclable, Leather",No,127.11,4,Yes,None of the above,Maybe,Yes
+24,Male,India,Tier 2,Professional,967.13,4,"Formal, Slippers",Yes,9.2,Yes,"Color, Full-design",Full-design from scratch,4,1,1,4,1,Vegan,No,92.6,2,Yes,Poor product information,Maybe,Yes
+30,Male,India,Tier 1,Professional,4610.53,6,"Slippers, Sneakers",Yes,9.7,No,"Stitching pattern, Full-design, Sole type",Material & sole,2,5,5,4,2,"Vegan, Recyclable, Canvas",No,87.65,4,No,None of the above,Maybe,Yes
+27,Female,India,Tier 1,Professional,982.48,1,Formal,No,9.8,No,Full-design,Full-design from scratch,3,4,5,1,5,Vegan,Yes,138.25,2,No,Size mismatch,Maybe,Yes
+42,Male,Other,Tier 2,Entrepreneur,2416.54,4,Formal,Yes,10.6,No,Material,Full-design from scratch,1,4,2,1,3,"Vegan, Canvas, Knit",Yes,92.95,1,No,None of the above,Maybe,Yes
+13,Female,UAE,Tier 1,Professional,1192.12,3,Casual,No,7.8,Yes,Stitching pattern,Material & sole,5,2,3,1,1,"Leather, Canvas, Recyclable",No,93.86,5,No,Size mismatch,Yes,Yes
+38,Female,UK,Tier 2,Professional,3617.31,4,Boots,No,8.2,Yes,"Full-design, Sole type, Stitching pattern",Material & sole,4,4,4,5,2,"Vegan, Knit",Yes,114.41,3,No,None of the above,Yes,Yes
+39,Male,UK,Tier 1,Other,3775.06,4,"Slippers, Ethnic, Boots",Yes,11.8,Yes,"Stitching pattern, Material",Material & sole,5,5,2,4,5,Recyclable,Yes,126.39,3,No,Size mismatch,Maybe,Yes
+13,Male,USA,Tier 1,Entrepreneur,337.21,4,Ethnic,Yes,8.8,Yes,"Stitching pattern, Sole type",Just color,1,4,2,1,2,"Leather, Recyclable",Yes,161.55,1,No,None of the above,No,Yes
+27,Male,Other,Tier 2,Other,4334.92,2,"Slippers, Boots",No,9.3,Yes,"Stitching pattern, Material",Just color,3,2,2,1,1,"Knit, Vegan",No,72.16,1,No,Size mismatch,Yes,Yes
+27,Male,USA,Tier 1,Professional,2819.05,2,Boots,Yes,8.9,Yes,Stitching pattern,Just color,3,4,4,2,4,Recyclable,Yes,68.21,4,Yes,Poor product information,Yes,Yes
+18,Male,India,Tier 3,Professional,2550.36,7,"Formal, Slippers",No,7.8,No,"Full-design, Sole type, Stitching pattern",Full-design from scratch,3,4,2,5,4,"Recyclable, Canvas",Yes,104.72,5,No,Poor product information,Yes,Yes
+23,Female,India,Tier 2,Self-employed,536.43,7,Slippers,No,11.4,Yes,"Sole type, Material, Color",Material & sole,3,2,3,4,5,Canvas,Yes,47.99,5,No,Poor product information,Yes,No
+21,Male,UK,Tier 1,Professional,2653.05,2,"Slippers, Boots, Formal",Yes,8.2,Yes,Full-design,Just color,4,4,5,3,2,"Knit, Vegan",No,143.46,4,No,Generic designs,Yes,Yes
+44,Female,UK,Tier 2,Entrepreneur,3047.01,5,"Sneakers, Sports, Slippers",No,7.3,Yes,"Sole type, Full-design, Stitching pattern",Material & sole,4,3,3,5,3,Knit,Yes,40.26,5,Yes,None of the above,No,Yes
+37,Male,India,Tier 1,Professional,711.94,3,"Ethnic, Slippers",Yes,8.3,Yes,Material,Material & sole,2,4,5,5,1,"Knit, Vegan, Recyclable",Yes,148.29,5,No,Generic designs,Maybe,Yes
+40,Other,India,Tier 3,Professional,4762.98,4,Sneakers,Yes,6.0,No,"Full-design, Sole type, Stitching pattern",Material & sole,2,1,5,2,4,"Vegan, Canvas, Leather",No,164.36,3,No,Generic designs,Maybe,Yes
+35,Male,UAE,Tier 1,Student,276.72,1,"Casual, Ethnic, Sneakers",Yes,8.0,Yes,Sole type,Material & sole,1,1,2,4,4,Canvas,No,130.39,5,No,Size mismatch,Maybe,No
+20,Male,India,Tier 2,Professional,443.62,3,Boots,No,7.5,Yes,"Stitching pattern, Full-design, Sole type",Material & sole,2,3,2,4,2,"Knit, Vegan",No,45.71,1,Yes,Generic designs,Maybe,Yes
+25,Female,UK,Tier 1,Student,1356.93,5,Casual,No,9.9,Yes,"Full-design, Sole type, Material",Full-design from scratch,1,4,4,1,4,Knit,No,124.24,3,No,Poor product information,Yes,Yes
+33,Female,Other,Tier 1,Student,1486.3,2,"Slippers, Formal",No,8.0,Yes,Full-design,Just color,1,5,1,1,2,"Canvas, Vegan",Yes,88.13,1,Yes,Long delivery times,Yes,Yes
+20,Male,USA,Tier 3,Other,1754.09,4,"Ethnic, Boots",No,10.3,Yes,Color,Material & sole,1,4,3,5,1,"Canvas, Leather, Vegan",Yes,71.92,1,No,Poor product information,Yes,Yes
+35,Female,India,Tier 3,Professional,225.67,5,"Sneakers, Casual",Yes,11.1,No,"Material, Color",Material & sole,3,1,4,2,2,"Vegan, Leather",Yes,143.18,4,No,Generic designs,Maybe,Yes
+28,Female,UK,Tier 1,Professional,5042.13,2,"Boots, Slippers",No,10.2,Yes,"Color, Material, Stitching pattern",Material & sole,5,2,4,4,4,"Knit, Vegan, Recyclable",No,150.67,5,Yes,Size mismatch,Yes,No
+27,Female,UAE,Tier 1,Self-employed,268.42,5,"Formal, Slippers",No,8.7,Yes,Sole type,Material & sole,5,3,3,2,2,"Knit, Vegan",Yes,171.43,5,Yes,Size mismatch,Maybe,No
+35,Male,USA,Tier 3,Professional,431.58,4,"Formal, Casual, Sports",No,9.2,Yes,"Sole type, Material, Color",Full-design from scratch,4,2,3,3,4,"Leather, Knit, Vegan",No,108.61,5,No,Poor product information,Yes,Yes
+33,Male,Other,Tier 3,Student,221.17,3,"Sneakers, Casual, Boots",Yes,6.7,No,"Sole type, Material, Full-design",Full-design from scratch,1,5,5,4,5,"Recyclable, Leather, Canvas",No,126.88,5,Yes,Poor product information,Maybe,Yes
+27,Female,India,Tier 1,Entrepreneur,1455.04,4,Ethnic,Yes,8.8,Yes,Sole type,Material & sole,3,4,1,1,4,Recyclable,Yes,186.61,3,No,Size mismatch,Yes,Yes
+39,Female,USA,Tier 1,Professional,4238.27,5,"Slippers, Sports, Casual",No,7.7,Yes,"Color, Material",Material & sole,2,5,2,5,4,Canvas,Yes,203.81,2,No,Size mismatch,Maybe,Yes
+21,Male,UK,Tier 1,Entrepreneur,1844.68,5,Slippers,No,10.0,Yes,"Full-design, Stitching pattern, Color",Material & sole,2,2,1,2,4,"Vegan, Canvas",Yes,163.21,1,Yes,Long delivery times,Yes,Yes
+34,Female,UAE,Tier 3,Entrepreneur,2794.51,6,Casual,No,12.9,No,"Sole type, Color, Material",Material & sole,4,4,1,1,5,"Canvas, Leather",Yes,106.0,2,No,Size mismatch,Yes,Yes
+34,Female,India,Tier 1,Other,220.06,0,"Boots, Formal",No,9.7,No,"Stitching pattern, Sole type",Material & sole,4,5,2,5,3,"Knit, Vegan",Yes,240.58,2,Yes,Long delivery times,No,Yes
+27,Male,UAE,Tier 1,Professional,1371.38,3,"Sports, Formal",No,6.0,No,"Color, Full-design, Sole type",Just color,1,1,1,1,4,"Knit, Leather, Canvas",No,112.87,2,No,Size mismatch,Maybe,Yes
+32,Female,USA,Tier 2,Professional,1123.07,4,"Casual, Sports",No,8.5,No,"Material, Stitching pattern",Material & sole,1,1,4,4,3,"Recyclable, Leather",Yes,148.23,3,Yes,Size mismatch,No,Yes
+19,Male,India,Tier 1,Professional,1236.63,2,"Sports, Sneakers",No,9.2,Yes,Sole type,Material & sole,2,3,4,2,1,"Canvas, Recyclable, Leather",Yes,87.21,2,No,Generic designs,Maybe,No
+37,Female,India,Tier 1,Student,312.43,6,"Casual, Formal, Sneakers",No,9.1,Yes,"Full-design, Material, Sole type",Full-design from scratch,2,1,2,3,2,"Canvas, Knit, Recyclable",Yes,132.85,3,No,Generic designs,Maybe,Yes
+28,Female,UAE,Tier 1,Self-employed,1930.09,3,Casual,No,7.9,No,Sole type,Full-design from scratch,2,1,2,1,3,"Knit, Recyclable, Vegan",No,133.06,4,No,Poor product information,Maybe,No
+25,Prefer not to say,India,Tier 1,Student,1249.41,5,Sports,No,9.4,No,"Material, Color",Just color,2,2,3,2,1,"Knit, Leather, Recyclable",No,135.35,4,Yes,Generic designs,Yes,Yes
+38,Male,India,Tier 1,Professional,2373.21,1,"Sports, Ethnic",Yes,7.1,Yes,Material,Just color,5,1,3,4,2,"Knit, Canvas, Leather",No,79.1,4,Yes,Size mismatch,Yes,Yes
+24,Male,India,Tier 2,Self-employed,1196.23,2,"Casual, Formal, Ethnic",No,7.6,Yes,"Full-design, Color, Material",Full-design from scratch,1,1,1,1,4,Recyclable,No,129.89,3,No,Generic designs,Yes,Yes
+18,Male,UAE,Tier 1,Professional,442.69,3,Casual,No,10.0,No,Stitching pattern,Material & sole,1,2,1,4,4,"Knit, Vegan",Yes,190.77,3,No,Generic designs,Maybe,Yes
+17,Male,UK,Tier 2,Professional,1767.28,3,"Ethnic, Formal",No,7.5,Yes,"Full-design, Sole type",Full-design from scratch,2,1,2,3,4,"Knit, Canvas",Yes,101.72,1,Yes,Poor product information,Maybe,Yes
+34,Male,UK,Tier 3,Professional,483.81,3,"Sneakers, Slippers, Boots",Yes,9.8,No,Material,Just color,3,1,1,3,5,Canvas,Yes,130.39,2,Yes,Long delivery times,Maybe,No
+19,Other,India,Tier 2,Self-employed,3288.22,3,Sports,Yes,6.9,Yes,"Sole type, Color, Material",Material & sole,2,3,5,5,5,Recyclable,Yes,46.32,5,Yes,Generic designs,Yes,Yes
+44,Male,USA,Tier 1,Professional,1624.45,4,Casual,No,11.6,Yes,"Material, Color",Material & sole,4,1,4,5,5,Canvas,No,130.12,5,No,Poor product information,Yes,Yes
+13,Male,USA,Tier 1,Self-employed,456.55,7,Slippers,Yes,7.8,Yes,Sole type,Full-design from scratch,3,1,1,5,5,"Recyclable, Leather, Canvas",Yes,128.66,2,Yes,Long delivery times,Maybe,Yes
+43,Female,UAE,Tier 1,Student,5118.66,4,Boots,No,8.7,Yes,"Color, Sole type, Material",Just color,4,3,1,4,1,"Leather, Recyclable",Yes,124.66,5,Yes,None of the above,Yes,No
+31,Male,Other,Tier 1,Entrepreneur,1295.85,6,"Boots, Slippers, Sneakers",No,9.5,Yes,"Full-design, Sole type, Color",Material & sole,3,2,3,5,1,Leather,No,149.21,5,Yes,Generic designs,Maybe,Yes
+29,Female,India,Tier 1,Self-employed,313.54,5,Slippers,No,8.2,Yes,"Sole type, Material, Color",Material & sole,4,1,5,2,4,"Knit, Recyclable",No,108.84,5,No,Size mismatch,Yes,Yes
+25,Male,UK,Tier 2,Student,1678.59,1,"Formal, Casual",Yes,9.2,Yes,"Color, Material, Stitching pattern",Full-design from scratch,2,5,1,4,2,"Knit, Canvas, Vegan",No,167.06,3,Yes,None of the above,Yes,No
+33,Female,India,Tier 1,Professional,637.93,2,Sports,No,9.9,No,"Full-design, Stitching pattern, Color",Full-design from scratch,2,2,4,4,5,"Recyclable, Knit, Leather",Yes,84.67,3,No,Size mismatch,Maybe,Yes
+29,Male,USA,Tier 1,Student,2642.12,6,Sneakers,No,10.4,Yes,"Material, Full-design",Full-design from scratch,3,2,1,5,2,"Knit, Leather, Recyclable",No,177.73,3,Yes,Size mismatch,Yes,Yes
+38,Male,India,Tier 1,Entrepreneur,2754.16,3,"Slippers, Boots, Sneakers",No,10.2,Yes,"Sole type, Full-design, Material",Full-design from scratch,4,1,2,5,1,Canvas,Yes,128.51,2,No,Poor product information,Yes,Yes
+30,Other,India,Tier 2,Professional,5991.09,6,Sports,No,8.7,Yes,"Material, Stitching pattern",Just color,5,3,5,4,5,Canvas,Yes,117.13,4,No,Generic designs,Maybe,Yes
+31,Male,India,Tier 1,Professional,1245.34,7,"Boots, Slippers",Yes,8.8,Yes,"Color, Full-design, Sole type",Just color,3,2,1,3,1,"Canvas, Knit, Leather",No,62.73,5,Yes,None of the above,No,No
+27,Female,USA,Tier 2,Student,1110.34,5,Ethnic,Yes,12.5,Yes,"Stitching pattern, Material",Just color,3,3,5,3,1,Canvas,No,75.61,1,Yes,Generic designs,Maybe,Yes
+29,Male,India,Tier 1,Professional,2300.44,7,"Boots, Formal, Ethnic",Yes,10.4,Yes,"Full-design, Material, Color",Material & sole,1,5,1,5,3,Vegan,Yes,134.03,3,No,None of the above,Maybe,Yes
+32,Male,UK,Tier 3,Student,413.16,2,"Sneakers, Sports",No,7.6,Yes,"Sole type, Stitching pattern, Color",Full-design from scratch,3,3,4,3,1,"Leather, Recyclable, Vegan",Yes,91.33,1,No,Size mismatch,Yes,No
+16,Female,USA,Tier 3,Professional,1387.52,8,"Casual, Formal, Boots",Yes,9.1,Yes,"Sole type, Full-design",Full-design from scratch,5,4,4,2,4,"Vegan, Leather",Yes,159.8,5,No,Size mismatch,Yes,Yes
+19,Male,India,Tier 1,Professional,1385.31,7,"Formal, Ethnic",No,8.5,Yes,Full-design,Just color,2,3,5,2,1,Leather,Yes,131.5,4,Yes,Generic designs,Yes,No
+35,Female,UK,Tier 1,Self-employed,340.6,4,"Sports, Boots, Casual",No,8.8,Yes,"Full-design, Stitching pattern",Material & sole,4,2,3,2,5,Recyclable,No,63.0,1,No,None of the above,Yes,Yes
+31,Prefer not to say,India,Tier 1,Professional,1011.89,5,Boots,Yes,7.2,Yes,"Color, Sole type",Full-design from scratch,1,3,3,4,4,"Leather, Vegan, Recyclable",Yes,150.44,5,No,Generic designs,Yes,Yes
+28,Female,USA,Tier 1,Professional,3078.89,1,"Boots, Slippers, Ethnic",Yes,8.4,No,"Material, Sole type, Stitching pattern",Material & sole,4,3,2,4,1,"Leather, Recyclable",No,113.5,5,No,Size mismatch,Maybe,Yes
+30,Other,UK,Tier 2,Other,3108.51,3,Sneakers,No,11.7,No,Color,Just color,2,4,3,4,4,"Leather, Recyclable",No,118.17,3,No,Size mismatch,Yes,No
+32,Male,India,Tier 3,Entrepreneur,356.77,3,"Sports, Ethnic",No,9.9,No,Full-design,Material & sole,3,4,5,4,1,Recyclable,Yes,161.78,4,No,Size mismatch,No,Yes
+25,Male,India,Tier 2,Self-employed,342.65,2,"Casual, Slippers",Yes,5.3,No,"Color, Full-design, Stitching pattern",Material & sole,5,1,3,4,4,Recyclable,Yes,64.23,5,Yes,Poor product information,Yes,No
+23,Male,India,Tier 3,Professional,657.13,5,"Sports, Casual, Slippers",Yes,10.8,Yes,"Material, Stitching pattern, Color",Material & sole,1,2,2,5,2,Canvas,Yes,75.01,4,Yes,Size mismatch,Yes,Yes
+31,Female,Other,Tier 1,Professional,3316.36,5,"Formal, Ethnic",No,10.6,Yes,Full-design,Material & sole,5,1,1,3,3,"Knit, Leather, Vegan",Yes,133.02,3,No,None of the above,Yes,Yes
+22,Prefer not to say,USA,Tier 1,Student,407.0,2,"Ethnic, Sports, Boots",Yes,8.5,Yes,"Stitching pattern, Color, Sole type",Just color,5,4,3,5,4,Knit,Yes,52.05,1,No,Generic designs,Maybe,Yes
+33,Male,UK,Tier 2,Entrepreneur,2109.43,6,"Slippers, Casual, Formal",No,10.1,No,"Material, Color, Full-design",Full-design from scratch,5,3,5,3,5,"Knit, Recyclable, Leather",Yes,95.71,2,Yes,Generic designs,Yes,Yes
+16,Female,USA,Tier 1,Student,359.98,1,Casual,Yes,7.7,No,"Sole type, Color, Stitching pattern",Material & sole,5,4,5,5,3,"Recyclable, Canvas, Knit",No,159.14,2,No,Size mismatch,No,Yes
+38,Male,India,Tier 2,Professional,1663.81,4,"Casual, Ethnic, Formal",No,8.3,No,Color,Material & sole,2,5,2,2,3,"Leather, Recyclable, Knit",Yes,115.65,2,No,Size mismatch,No,No
+33,Female,USA,Tier 1,Professional,860.24,1,"Sneakers, Ethnic, Slippers",No,11.2,Yes,Sole type,Full-design from scratch,5,3,2,1,1,Recyclable,No,65.02,4,Yes,Generic designs,Yes,Yes
+32,Female,UK,Tier 1,Professional,2533.23,1,"Formal, Slippers, Sports",No,8.6,No,"Color, Material, Stitching pattern",Just color,5,1,4,4,4,Canvas,Yes,127.56,2,Yes,Long delivery times,No,Yes
+37,Prefer not to say,India,Tier 3,Professional,599.25,3,"Slippers, Sneakers, Sports",No,6.2,Yes,"Stitching pattern, Full-design",Just color,2,3,4,1,3,"Canvas, Leather",No,103.8,1,No,Generic designs,Maybe,No
+43,Female,India,Tier 1,Student,1729.15,3,"Formal, Sports",No,8.9,Yes,"Stitching pattern, Full-design, Material",Full-design from scratch,4,5,4,1,5,"Leather, Canvas, Knit",No,91.91,5,Yes,Long delivery times,No,Yes
+38,Male,India,Tier 3,Professional,603.16,1,Sports,Yes,8.9,No,Stitching pattern,Material & sole,2,4,1,2,5,"Vegan, Knit, Recyclable",Yes,262.26,4,Yes,Long delivery times,Yes,No
+15,Male,USA,Tier 3,Professional,2075.86,5,"Casual, Boots",Yes,10.8,Yes,"Color, Full-design, Sole type",Full-design from scratch,3,2,5,1,5,"Canvas, Vegan, Knit",No,142.99,1,Yes,Size mismatch,No,Yes
+19,Male,Other,Tier 2,Other,3303.38,6,"Slippers, Boots",No,9.0,No,"Full-design, Color, Sole type",Material & sole,2,2,4,1,1,Canvas,No,108.66,4,Yes,Size mismatch,No,Yes
+25,Male,India,Tier 2,Entrepreneur,403.39,0,"Casual, Sports",No,8.4,Yes,"Color, Full-design, Material",Just color,4,2,5,2,2,"Vegan, Recyclable",No,155.93,4,No,Generic designs,Yes,Yes
+30,Male,USA,Tier 2,Self-employed,3221.56,2,"Formal, Casual, Ethnic",No,10.6,No,"Color, Sole type, Stitching pattern",Material & sole,3,4,2,3,4,Recyclable,No,108.36,4,No,Poor product information,Yes,Yes
+34,Female,India,Tier 3,Entrepreneur,1550.53,5,Slippers,No,9.2,Yes,"Full-design, Color",Just color,3,2,1,5,3,Vegan,Yes,99.27,3,No,Size mismatch,Yes,Yes
+24,Female,Other,Tier 1,Professional,403.92,3,"Casual, Slippers, Sports",No,7.9,No,"Stitching pattern, Full-design",Full-design from scratch,1,5,2,1,4,Knit,Yes,131.98,5,No,Poor product information,Yes,No
+31,Female,India,Tier 1,Student,1036.72,5,"Sneakers, Slippers",No,10.7,No,"Color, Stitching pattern",Material & sole,5,4,5,4,3,Vegan,Yes,140.35,2,No,Poor product information,Yes,No
+23,Male,USA,Tier 2,Professional,463.07,2,"Sneakers, Slippers, Casual",No,9.3,No,Full-design,Full-design from scratch,3,2,4,2,1,Recyclable,Yes,157.03,3,Yes,None of the above,Yes,Yes
+25,Female,UK,Tier 1,Professional,2007.7,6,Sneakers,No,9.0,Yes,Material,Full-design from scratch,3,1,2,1,4,Vegan,No,176.95,5,Yes,Size mismatch,Yes,No
+18,Female,UK,Tier 1,Professional,2333.62,4,"Sneakers, Casual, Boots",No,9.3,No,"Stitching pattern, Sole type, Full-design",Just color,4,4,3,3,1,"Knit, Leather",No,167.5,2,No,Size mismatch,Maybe,Yes
+22,Male,USA,Tier 1,Professional,367.73,2,"Slippers, Sports",No,7.4,Yes,Sole type,Full-design from scratch,3,4,1,3,1,Knit,Yes,154.26,3,No,Generic designs,No,No
+19,Female,India,Tier 2,Professional,1258.25,4,"Sneakers, Sports, Slippers",No,8.2,Yes,"Sole type, Color, Full-design",Material & sole,4,3,5,4,4,"Leather, Vegan",No,158.37,3,Yes,Generic designs,Maybe,Yes
+22,Female,India,Tier 3,Professional,2728.06,6,"Slippers, Formal, Boots",Yes,9.0,Yes,"Material, Color, Stitching pattern",Material & sole,5,2,4,1,4,"Vegan, Knit",No,167.39,1,Yes,Generic designs,No,Yes
+38,Male,India,Tier 1,Professional,4327.13,5,"Casual, Sports",No,8.7,No,Full-design,Full-design from scratch,1,1,2,4,3,"Vegan, Canvas, Knit",Yes,148.39,3,No,None of the above,Yes,Yes
+22,Female,India,Tier 3,Student,1280.83,5,Casual,Yes,10.9,Yes,"Stitching pattern, Color, Material",Material & sole,1,5,1,3,5,"Knit, Vegan",Yes,56.58,4,Yes,Long delivery times,Yes,Yes
+51,Female,USA,Tier 2,Self-employed,4702.0,6,"Casual, Slippers, Sneakers",No,9.3,No,Sole type,Material & sole,5,4,4,3,1,Leather,Yes,139.91,3,No,Generic designs,Maybe,Yes
+33,Male,India,Tier 3,Student,1350.8,4,"Ethnic, Sneakers, Formal",Yes,10.3,Yes,Stitching pattern,Material & sole,5,5,2,5,2,"Knit, Canvas",No,175.08,4,Yes,Size mismatch,Yes,Yes
+31,Other,India,Tier 2,Student,951.78,8,"Sneakers, Casual, Slippers",Yes,9.0,Yes,"Full-design, Material, Color",Material & sole,2,5,5,3,3,Vegan,No,87.89,5,Yes,Poor product information,Yes,Yes
+23,Female,UK,Tier 2,Professional,3027.82,0,Ethnic,No,10.6,No,Material,Just color,3,5,3,2,3,"Leather, Vegan, Canvas",Yes,104.32,5,No,Generic designs,Yes,Yes
+35,Female,Other,Tier 1,Professional,1218.82,2,"Boots, Sneakers",No,9.6,Yes,"Sole type, Material, Color",Material & sole,3,3,3,5,5,"Leather, Recyclable, Vegan",Yes,117.6,4,No,Long delivery times,Yes,No
+25,Female,USA,Tier 3,Professional,1157.71,1,"Ethnic, Sports",No,9.0,No,Full-design,Material & sole,3,5,5,4,5,"Vegan, Leather",No,127.6,1,No,None of the above,Yes,Yes
+30,Male,India,Tier 1,Professional,1210.94,1,Ethnic,No,9.0,Yes,Full-design,Just color,4,2,1,3,1,"Canvas, Leather, Recyclable",No,97.8,1,Yes,Generic designs,Yes,Yes
+50,Female,India,Tier 3,Professional,3013.87,6,"Sneakers, Casual, Boots",No,7.6,Yes,"Full-design, Color",Just color,2,2,5,2,3,Knit,No,122.29,5,No,Generic designs,Yes,Yes
+29,Female,Other,Tier 3,Professional,2875.17,8,"Ethnic, Formal, Sports",Yes,9.8,Yes,"Color, Sole type",Material & sole,3,1,2,5,3,Recyclable,No,140.53,3,No,Size mismatch,No,Yes
+39,Male,India,Tier 1,Self-employed,975.06,3,Slippers,No,8.9,Yes,Material,Material & sole,4,1,1,2,2,"Leather, Canvas",Yes,39.59,5,Yes,Size mismatch,Yes,Yes
+24,Female,India,Tier 1,Self-employed,808.12,3,"Ethnic, Sneakers, Sports",No,8.2,Yes,"Full-design, Stitching pattern, Material",Full-design from scratch,4,5,3,5,1,"Vegan, Knit",Yes,122.99,5,Yes,Size mismatch,No,Yes
+29,Female,USA,Tier 2,Professional,1215.7,8,Sports,No,10.7,Yes,"Material, Full-design",Material & sole,1,5,2,5,1,"Recyclable, Knit, Vegan",Yes,104.7,4,Yes,Size mismatch,No,Yes
+44,Female,USA,Tier 1,Professional,1475.66,4,Slippers,No,7.1,Yes,Sole type,Material & sole,4,3,4,5,5,"Knit, Vegan",No,51.72,1,No,Poor product information,No,Yes
+24,Male,USA,Tier 3,Entrepreneur,608.38,3,"Casual, Slippers, Sneakers",No,8.4,Yes,"Color, Material, Stitching pattern",Material & sole,5,5,4,4,1,"Recyclable, Vegan, Canvas",Yes,142.57,4,No,Poor product information,Yes,Yes
+44,Female,India,Tier 1,Student,2569.49,9,"Sports, Boots, Formal",No,10.5,Yes,"Stitching pattern, Sole type",Material & sole,4,5,4,5,2,"Knit, Canvas, Vegan",No,132.45,5,Yes,Generic designs,No,No
+35,Male,India,Tier 1,Professional,1199.71,2,"Sneakers, Casual, Ethnic",No,9.5,No,"Sole type, Material, Full-design",Material & sole,5,5,3,5,1,Leather,Yes,126.6,2,Yes,Generic designs,Yes,Yes
+25,Male,Other,Tier 3,Professional,809.8,5,"Slippers, Sports",No,8.9,Yes,"Sole type, Full-design, Material",Full-design from scratch,5,4,5,2,4,"Vegan, Recyclable",No,144.42,3,Yes,Generic designs,Yes,Yes
+35,Male,India,Tier 2,Self-employed,369.45,5,"Formal, Boots, Casual",No,9.4,No,Color,Full-design from scratch,1,4,1,5,4,Canvas,Yes,132.85,5,No,Poor product information,No,Yes
+37,Male,UK,Tier 3,Student,609.38,4,"Casual, Ethnic",No,9.3,Yes,"Material, Full-design",Full-design from scratch,1,3,3,4,2,Leather,Yes,90.48,4,Yes,Size mismatch,Yes,Yes
+34,Female,UK,Tier 1,Professional,4672.19,3,"Formal, Sports",Yes,6.7,Yes,"Stitching pattern, Sole type, Material",Full-design from scratch,4,3,2,2,5,"Leather, Recyclable, Canvas",No,148.92,2,Yes,None of the above,Yes,Yes
+17,Female,USA,Tier 2,Entrepreneur,745.98,6,Ethnic,No,8.5,Yes,Sole type,Material & sole,1,2,2,5,3,"Leather, Canvas, Vegan",Yes,155.77,2,No,Size mismatch,Yes,Yes
+24,Male,India,Tier 2,Professional,477.43,3,Sneakers,No,11.4,Yes,"Stitching pattern, Full-design",Material & sole,1,3,4,2,1,"Knit, Canvas, Vegan",No,76.57,5,No,None of the above,Yes,Yes
+28,Female,India,Tier 2,Student,1126.15,2,"Sneakers, Boots, Sports",Yes,8.0,Yes,"Sole type, Stitching pattern",Full-design from scratch,3,2,1,4,5,"Recyclable, Leather, Vegan",Yes,155.22,1,Yes,Poor product information,Yes,Yes
+29,Female,USA,Tier 2,Other,750.28,1,"Slippers, Casual",No,8.5,Yes,"Color, Material, Sole type",Material & sole,4,5,4,2,5,"Recyclable, Vegan, Canvas",Yes,108.66,2,No,Generic designs,Maybe,Yes
+34,Female,UAE,Tier 2,Professional,253.69,2,"Sneakers, Formal, Boots",No,8.2,No,"Color, Sole type, Full-design",Full-design from scratch,4,3,2,4,1,Knit,No,144.51,3,Yes,Size mismatch,Yes,Yes
+31,Male,Other,Tier 1,Professional,785.45,1,"Ethnic, Sneakers",No,8.9,No,"Material, Sole type, Stitching pattern",Full-design from scratch,4,3,2,3,3,"Vegan, Recyclable, Knit",No,126.08,4,No,Size mismatch,Yes,Yes
+19,Female,India,Tier 1,Professional,1378.25,3,Sports,No,8.1,Yes,"Color, Full-design, Stitching pattern",Full-design from scratch,1,3,5,5,1,"Recyclable, Knit",Yes,113.12,4,No,Poor product information,No,Yes
+33,Prefer not to say,India,Tier 2,Professional,1403.48,8,Slippers,No,9.7,No,"Color, Stitching pattern, Sole type",Material & sole,1,2,5,4,3,"Recyclable, Leather, Vegan",No,141.57,4,No,Generic designs,No,Yes
+34,Female,Other,Tier 1,Professional,861.39,1,Sneakers,Yes,9.3,Yes,Color,Full-design from scratch,5,2,5,5,2,"Leather, Vegan",Yes,106.67,5,No,Size mismatch,Maybe,Yes
+34,Male,UK,Tier 2,Student,1089.42,4,Ethnic,No,10.2,Yes,"Sole type, Stitching pattern, Full-design",Material & sole,2,1,4,4,3,"Knit, Vegan",Yes,163.21,4,Yes,Generic designs,Maybe,Yes
+38,Male,UAE,Tier 1,Student,5250.97,8,"Sports, Ethnic",No,7.4,Yes,Sole type,Material & sole,2,2,1,1,5,"Vegan, Leather",Yes,169.79,4,No,Size mismatch,Maybe,Yes
+36,Female,India,Tier 2,Self-employed,910.65,3,"Ethnic, Casual",No,8.5,No,"Material, Sole type",Material & sole,2,2,5,1,2,Canvas,Yes,98.12,3,Yes,Poor product information,Maybe,Yes
+33,Other,USA,Tier 2,Professional,648.07,3,"Sports, Boots, Ethnic",Yes,8.7,No,Stitching pattern,Full-design from scratch,3,4,3,1,4,"Knit, Canvas, Vegan",Yes,113.31,1,Yes,None of the above,Yes,Yes
+29,Female,UK,Tier 1,Student,618.51,7,"Casual, Formal",Yes,9.7,No,"Full-design, Color, Material",Full-design from scratch,1,3,5,4,2,"Canvas, Knit",Yes,105.03,5,No,Long delivery times,No,Yes
+16,Female,UK,Tier 1,Professional,1118.08,4,"Ethnic, Slippers, Formal",No,7.8,Yes,"Full-design, Color",Material & sole,5,2,4,5,3,"Vegan, Recyclable, Leather",Yes,135.01,5,No,Generic designs,Maybe,Yes
+33,Male,USA,Tier 1,Entrepreneur,2337.68,2,"Boots, Formal",No,10.4,Yes,"Material, Full-design, Sole type",Material & sole,5,3,1,1,2,"Vegan, Recyclable, Canvas",No,172.4,4,No,Size mismatch,No,No
+31,Female,India,Tier 2,Student,545.99,1,Formal,No,10.8,Yes,Stitching pattern,Material & sole,2,3,5,5,2,"Canvas, Leather, Recyclable",Yes,53.3,3,Yes,Size mismatch,Maybe,Yes
+32,Female,USA,Tier 3,Professional,2053.18,7,Formal,No,7.5,Yes,Material,Full-design from scratch,3,4,1,4,4,"Vegan, Recyclable",No,63.27,2,No,None of the above,Yes,Yes
+19,Male,India,Tier 1,Student,232.07,5,"Sports, Casual",No,8.3,Yes,"Full-design, Material, Sole type",Material & sole,3,3,3,5,3,"Knit, Recyclable, Canvas",No,116.66,4,Yes,Size mismatch,Yes,Yes
+21,Female,USA,Tier 2,Student,1014.33,2,"Boots, Casual, Sneakers",No,8.2,Yes,"Stitching pattern, Sole type, Color",Material & sole,2,2,2,5,5,Leather,Yes,127.44,4,No,Long delivery times,Maybe,Yes
+38,Prefer not to say,Other,Tier 1,Student,2443.26,6,"Formal, Boots, Sports",No,12.9,Yes,Stitching pattern,Material & sole,2,3,1,1,2,"Leather, Canvas, Vegan",Yes,82.35,5,Yes,Poor product information,Yes,Yes
+29,Male,India,Tier 1,Self-employed,820.4,3,Casual,Yes,8.4,Yes,Color,Material & sole,1,1,5,2,1,"Recyclable, Leather",Yes,127.23,5,Yes,None of the above,Maybe,Yes
+35,Female,UAE,Tier 3,Student,1444.27,3,"Ethnic, Slippers",No,11.5,Yes,"Sole type, Material",Just color,3,1,4,3,5,"Knit, Vegan, Leather",No,90.36,4,Yes,Poor product information,Yes,Yes
+30,Male,India,Tier 1,Student,544.08,1,"Boots, Sneakers",No,7.1,Yes,Material,Material & sole,5,4,4,4,2,"Knit, Recyclable",Yes,102.13,5,No,Poor product information,No,Yes
+30,Female,UK,Tier 1,Professional,2232.17,5,"Slippers, Boots",No,7.5,Yes,"Sole type, Stitching pattern, Material",Full-design from scratch,2,2,4,4,5,"Knit, Leather",Yes,170.79,3,Yes,Generic designs,Maybe,Yes
+37,Female,Other,Tier 1,Self-employed,280.54,3,Formal,No,8.0,Yes,"Color, Full-design",Full-design from scratch,1,4,4,4,1,"Canvas, Recyclable, Leather",No,106.27,2,No,None of the above,Yes,No
+25,Female,India,Tier 1,Professional,3071.32,4,"Ethnic, Sports",No,7.7,Yes,"Sole type, Color, Full-design",Just color,5,1,1,3,5,"Knit, Leather, Recyclable",No,105.57,2,Yes,None of the above,Yes,No
+30,Female,India,Tier 1,Professional,531.34,4,"Sneakers, Ethnic",No,8.6,Yes,"Sole type, Full-design, Stitching pattern",Full-design from scratch,3,2,4,2,5,Knit,Yes,125.27,2,Yes,Generic designs,Yes,Yes
+26,Male,USA,Tier 1,Student,3311.96,7,"Casual, Formal, Boots",No,7.9,Yes,"Full-design, Material, Stitching pattern",Material & sole,2,3,2,5,1,Knit,Yes,163.69,4,Yes,Long delivery times,Maybe,Yes
+26,Other,India,Tier 2,Professional,852.02,4,"Boots, Formal, Ethnic",No,7.8,Yes,"Stitching pattern, Sole type, Full-design",Just color,2,2,3,4,1,Leather,No,118.28,4,No,Generic designs,Maybe,Yes
+27,Female,UK,Tier 1,Professional,2123.89,3,"Boots, Sports",No,10.7,Yes,"Color, Sole type, Material",Just color,1,5,1,5,1,"Knit, Leather, Canvas",No,97.67,4,Yes,Long delivery times,Yes,Yes
+31,Male,Other,Tier 2,Professional,776.79,2,Boots,No,10.8,No,Full-design,Just color,1,2,1,1,4,"Vegan, Recyclable, Canvas",Yes,143.17,3,Yes,Long delivery times,Yes,Yes
+26,Female,USA,Tier 1,Professional,3745.28,2,Casual,No,10.4,Yes,"Sole type, Full-design",Full-design from scratch,3,3,4,1,1,Vegan,Yes,152.51,2,No,Poor product information,Maybe,Yes
+40,Female,India,Tier 1,Professional,403.11,2,Formal,No,9.8,Yes,"Stitching pattern, Color",Just color,2,5,4,1,5,"Leather, Knit, Canvas",No,165.79,5,Yes,Generic designs,Maybe,Yes
+22,Male,USA,Tier 2,Student,494.97,4,"Ethnic, Formal",No,9.1,Yes,"Material, Stitching pattern, Color",Material & sole,1,4,1,4,1,"Vegan, Knit, Recyclable",No,118.57,5,No,Generic designs,Yes,No
+28,Female,UK,Tier 3,Professional,1218.96,4,"Boots, Casual",Yes,8.3,No,Color,Full-design from scratch,2,2,4,3,2,Vegan,No,139.01,1,Yes,Generic designs,Yes,No
+26,Other,India,Tier 1,Student,328.24,4,Casual,No,7.6,Yes,"Sole type, Material, Color",Material & sole,3,4,4,4,1,Canvas,Yes,151.62,1,No,Long delivery times,Maybe,Yes
+41,Male,USA,Tier 3,Entrepreneur,527.2,4,Ethnic,No,9.5,Yes,Material,Full-design from scratch,2,2,4,1,1,"Vegan, Knit",No,127.27,5,Yes,Poor product information,No,No
+31,Prefer not to say,USA,Tier 2,Other,4517.36,5,"Casual, Formal, Slippers",No,7.2,Yes,"Full-design, Color",Full-design from scratch,5,1,4,1,3,Recyclable,Yes,172.78,2,No,Size mismatch,Maybe,Yes
+38,Male,USA,Tier 2,Other,5825.47,3,"Boots, Sports, Slippers",Yes,7.5,Yes,"Material, Stitching pattern, Full-design",Just color,2,1,4,4,5,"Knit, Vegan",Yes,146.06,4,No,Poor product information,Yes,Yes
+18,Male,India,Tier 2,Self-employed,908.03,3,"Formal, Boots, Ethnic",No,10.7,Yes,"Color, Stitching pattern, Sole type",Full-design from scratch,4,3,5,3,5,Vegan,No,195.31,5,No,Size mismatch,No,Yes
+32,Male,UK,Tier 1,Professional,4051.51,1,Formal,Yes,11.9,No,"Stitching pattern, Material",Material & sole,4,1,5,3,2,"Leather, Canvas, Vegan",Yes,156.71,5,No,Poor product information,No,Yes
+37,Female,India,Tier 1,Entrepreneur,1380.61,6,"Boots, Ethnic, Slippers",No,9.6,No,"Material, Stitching pattern, Color",Material & sole,3,5,5,5,4,"Leather, Knit",No,42.93,1,No,None of the above,Maybe,Yes
+30,Female,India,Tier 2,Professional,671.54,6,"Slippers, Boots",No,10.7,Yes,Color,Material & sole,3,5,1,2,3,"Vegan, Canvas, Knit",Yes,104.07,2,Yes,Generic designs,Yes,No
+38,Male,UAE,Tier 1,Professional,2018.0,5,Slippers,No,8.6,Yes,Full-design,Just color,3,2,3,1,2,"Leather, Recyclable, Knit",No,55.29,5,Yes,Long delivery times,Yes,Yes
+25,Male,UK,Tier 3,Professional,1813.38,4,Sports,Yes,7.0,Yes,"Material, Full-design, Sole type",Full-design from scratch,5,4,1,3,2,"Knit, Leather",Yes,94.45,4,No,Size mismatch,Yes,Yes
+41,Female,India,Tier 1,Professional,6981.98,3,Ethnic,Yes,9.9,Yes,"Color, Material, Full-design",Material & sole,5,5,5,1,5,"Recyclable, Vegan, Canvas",No,105.15,4,No,None of the above,Maybe,Yes
+48,Male,India,Tier 1,Entrepreneur,661.92,2,"Casual, Ethnic, Formal",Yes,9.9,Yes,Sole type,Just color,2,2,1,2,3,Knit,Yes,154.75,3,Yes,Generic designs,Yes,Yes
+27,Female,India,Tier 2,Professional,1872.38,3,"Sneakers, Boots, Sports",Yes,9.1,Yes,Full-design,Full-design from scratch,1,4,3,1,5,Knit,No,102.41,4,No,Size mismatch,Yes,No
+26,Female,India,Tier 1,Professional,280.14,4,"Ethnic, Boots",No,8.6,Yes,"Full-design, Color",Material & sole,4,1,4,3,4,"Knit, Vegan, Recyclable",No,175.77,5,Yes,Generic designs,No,Yes
+41,Female,India,Tier 2,Self-employed,380.96,4,"Ethnic, Casual",No,10.4,Yes,"Sole type, Color, Stitching pattern",Material & sole,4,2,2,5,5,"Knit, Canvas, Vegan",Yes,93.26,5,No,None of the above,Yes,Yes
+42,Prefer not to say,India,Tier 2,Student,205.89,4,"Formal, Ethnic",No,7.5,Yes,"Full-design, Stitching pattern",Material & sole,4,4,5,4,1,"Knit, Vegan",Yes,108.46,4,No,Size mismatch,Yes,Yes
+25,Male,USA,Tier 3,Professional,10000.0,8,"Casual, Sneakers",No,7.8,No,"Material, Full-design",Full-design from scratch,2,3,5,4,5,"Recyclable, Canvas, Leather",Yes,70.41,1,No,Generic designs,Yes,Yes
+26,Prefer not to say,UK,Tier 2,Self-employed,2631.31,3,Ethnic,Yes,7.5,Yes,"Full-design, Material",Just color,2,3,3,3,1,"Recyclable, Canvas, Knit",No,177.78,2,Yes,None of the above,No,Yes
+27,Female,USA,Tier 2,Professional,2517.75,4,Formal,Yes,9.1,No,"Material, Sole type, Color",Material & sole,3,5,4,3,2,"Canvas, Vegan",Yes,183.13,5,No,Size mismatch,Maybe,Yes
+19,Female,UK,Tier 2,Professional,1269.19,3,"Sneakers, Slippers",Yes,7.4,Yes,"Sole type, Stitching pattern, Full-design",Material & sole,1,4,4,2,4,"Recyclable, Vegan",Yes,114.72,4,No,Generic designs,Maybe,No
+22,Male,India,Tier 3,Professional,735.16,5,"Formal, Casual",No,8.0,Yes,"Color, Material, Stitching pattern",Just color,3,3,2,1,1,"Leather, Canvas, Vegan",Yes,60.77,4,Yes,Poor product information,Maybe,No
+21,Female,Other,Tier 1,Professional,446.01,6,"Formal, Casual, Ethnic",No,7.9,Yes,"Material, Color",Full-design from scratch,2,5,4,2,4,"Canvas, Recyclable",No,111.67,5,No,Poor product information,Yes,No
+23,Male,UAE,Tier 1,Self-employed,702.53,7,"Slippers, Casual, Sneakers",Yes,8.6,Yes,Material,Material & sole,5,2,3,4,5,Knit,Yes,129.29,3,No,Generic designs,Maybe,Yes
+29,Male,UAE,Tier 1,Professional,907.34,7,Slippers,Yes,6.8,Yes,"Full-design, Stitching pattern, Color",Material & sole,3,2,4,1,5,"Vegan, Knit",Yes,94.61,2,Yes,Size mismatch,Yes,No
+31,Male,UAE,Tier 1,Professional,2317.79,3,"Boots, Slippers",No,9.1,No,"Color, Material, Stitching pattern",Just color,2,4,3,2,2,Canvas,No,214.03,5,Yes,Long delivery times,Yes,Yes
+42,Female,Other,Tier 2,Student,1363.69,3,Casual,No,10.9,No,"Full-design, Color, Sole type",Full-design from scratch,2,4,5,4,5,"Knit, Recyclable",No,193.01,4,Yes,Size mismatch,Yes,No
+22,Female,USA,Tier 2,Student,320.98,3,Sneakers,No,9.2,Yes,"Color, Full-design, Material",Full-design from scratch,5,4,5,1,1,"Canvas, Knit, Vegan",Yes,50.05,3,No,Poor product information,Yes,No
+37,Female,India,Tier 2,Other,227.29,3,Casual,No,11.3,Yes,"Material, Color, Sole type",Material & sole,5,4,5,5,2,"Canvas, Vegan, Leather",No,73.85,5,No,Generic designs,Yes,No
+28,Female,USA,Tier 1,Professional,361.93,7,"Formal, Slippers",Yes,11.0,Yes,"Stitching pattern, Full-design, Material",Material & sole,5,3,1,5,4,Canvas,No,138.35,2,No,Poor product information,Yes,No
+29,Male,UK,Tier 2,Professional,992.72,4,Sports,No,10.2,Yes,Full-design,Material & sole,1,3,5,2,2,Leather,Yes,77.12,3,Yes,Poor product information,No,Yes
+35,Female,UK,Tier 1,Student,4258.92,5,"Sneakers, Boots",No,9.1,Yes,"Material, Stitching pattern",Material & sole,2,5,3,3,4,Knit,Yes,127.32,4,No,Long delivery times,Yes,Yes
+21,Male,USA,Tier 2,Professional,1721.69,2,"Formal, Slippers",No,9.0,Yes,"Sole type, Color",Just color,5,3,2,1,3,"Vegan, Recyclable",No,120.43,1,No,None of the above,No,Yes
+33,Female,India,Tier 2,Self-employed,2627.91,5,"Boots, Ethnic",No,10.1,Yes,"Material, Sole type",Material & sole,1,2,4,2,1,"Leather, Canvas",Yes,118.42,2,No,Long delivery times,Yes,Yes
+31,Female,India,Tier 1,Professional,1142.09,6,"Formal, Slippers",No,8.4,Yes,"Material, Color",Material & sole,4,5,5,3,1,Knit,Yes,160.75,3,Yes,Generic designs,Yes,Yes
+33,Female,Other,Tier 1,Student,873.34,10,"Boots, Sneakers",Yes,6.2,Yes,"Full-design, Stitching pattern",Full-design from scratch,4,3,1,3,4,Leather,Yes,192.3,5,No,Long delivery times,Yes,Yes
+32,Female,USA,Tier 1,Professional,372.11,2,"Casual, Sneakers",No,9.7,Yes,"Material, Color",Material & sole,4,4,1,1,5,"Knit, Canvas",No,135.84,5,No,None of the above,Yes,Yes
+49,Male,USA,Tier 3,Entrepreneur,3330.4,6,Sports,Yes,7.3,Yes,"Color, Full-design, Sole type",Full-design from scratch,2,3,3,1,5,"Leather, Vegan, Recyclable",Yes,71.52,3,Yes,Poor product information,Yes,Yes
+24,Female,India,Tier 3,Professional,2492.89,7,"Boots, Sneakers",Yes,7.6,No,Stitching pattern,Material & sole,1,1,2,3,3,Leather,No,125.76,5,No,Size mismatch,No,No
+25,Female,India,Tier 2,Self-employed,476.1,3,Formal,No,9.0,Yes,"Material, Sole type, Full-design",Full-design from scratch,1,5,5,4,4,"Recyclable, Knit",Yes,96.63,3,No,Size mismatch,Maybe,Yes
+25,Female,UAE,Tier 1,Professional,1276.96,5,"Casual, Sports, Ethnic",Yes,8.9,No,"Color, Material",Material & sole,4,3,5,2,3,Vegan,No,199.69,2,Yes,Poor product information,Yes,Yes
+25,Male,UK,Tier 1,Self-employed,1202.32,2,"Sneakers, Boots",No,6.9,No,"Full-design, Sole type",Material & sole,3,3,1,1,4,"Leather, Vegan",No,147.73,5,No,None of the above,Yes,Yes
+24,Female,UK,Tier 2,Professional,1671.61,4,"Ethnic, Sneakers, Casual",No,9.2,No,"Full-design, Stitching pattern",Full-design from scratch,4,2,3,3,3,"Canvas, Recyclable, Leather",Yes,136.1,2,Yes,Generic designs,Maybe,No
+39,Female,USA,Tier 2,Student,4583.36,3,"Sports, Slippers, Sneakers",Yes,10.4,No,"Sole type, Full-design, Stitching pattern",Just color,2,4,1,4,4,"Recyclable, Leather, Knit",No,145.98,4,No,Generic designs,Yes,Yes
+41,Male,USA,Tier 1,Professional,1500.43,3,Casual,No,7.3,Yes,"Material, Stitching pattern",Just color,4,4,1,5,1,"Recyclable, Knit, Canvas",Yes,118.47,4,Yes,Size mismatch,Yes,Yes
+25,Male,India,Tier 1,Professional,1365.5,1,"Casual, Sneakers, Slippers",No,10.9,No,"Full-design, Stitching pattern, Color",Just color,4,2,2,3,3,Canvas,No,170.08,4,Yes,Size mismatch,No,No
+23,Female,UK,Tier 2,Self-employed,277.45,6,Sneakers,No,6.7,Yes,"Full-design, Stitching pattern",Full-design from scratch,1,2,3,4,3,"Leather, Knit, Canvas",Yes,97.16,4,No,Poor product information,No,Yes
+33,Female,USA,Tier 1,Entrepreneur,297.46,3,Boots,No,12.2,Yes,"Sole type, Full-design",Just color,4,1,2,5,4,"Vegan, Canvas, Recyclable",Yes,158.4,5,No,None of the above,No,Yes
+25,Male,USA,Tier 1,Professional,511.18,7,"Formal, Casual, Boots",No,8.4,No,"Stitching pattern, Material, Sole type",Full-design from scratch,5,5,3,4,2,Canvas,No,183.68,3,No,Poor product information,Maybe,Yes
+35,Male,USA,Tier 1,Professional,249.51,6,"Sports, Sneakers",No,9.2,No,Material,Material & sole,5,4,5,1,2,Canvas,No,87.44,5,No,Long delivery times,Yes,Yes
+31,Male,Other,Tier 2,Student,2240.08,3,"Sneakers, Boots, Casual",No,6.2,No,"Material, Color",Just color,3,2,4,3,1,Knit,Yes,133.51,5,No,Size mismatch,Yes,Yes
+17,Male,India,Tier 3,Entrepreneur,2127.4,3,"Ethnic, Boots, Sports",No,8.9,No,Full-design,Material & sole,2,2,4,5,5,"Vegan, Knit",Yes,136.66,2,No,Generic designs,Yes,Yes
+42,Female,UAE,Tier 3,Professional,419.37,2,Sports,No,9.3,No,"Sole type, Color",Just color,2,5,3,4,5,"Leather, Vegan, Knit",Yes,77.02,3,No,Generic designs,Maybe,Yes
+44,Female,India,Tier 2,Professional,2912.56,4,"Casual, Slippers",No,8.9,Yes,Stitching pattern,Material & sole,1,2,4,5,1,"Leather, Knit",No,65.24,1,Yes,Long delivery times,Maybe,Yes
+25,Female,USA,Tier 2,Professional,452.25,5,"Casual, Formal, Ethnic",Yes,8.2,No,"Color, Full-design, Stitching pattern",Material & sole,2,1,1,2,5,"Vegan, Recyclable, Knit",Yes,83.36,1,Yes,Size mismatch,Yes,Yes
+26,Female,India,Tier 1,Student,737.53,6,"Boots, Sneakers, Slippers",No,7.6,Yes,"Full-design, Stitching pattern",Material & sole,3,5,5,3,4,Knit,Yes,117.92,3,Yes,Size mismatch,Yes,Yes
+32,Male,India,Tier 2,Professional,629.48,5,Sports,No,10.7,No,Color,Just color,5,1,5,1,2,Knit,Yes,136.75,1,No,Size mismatch,Yes,No
+32,Female,USA,Tier 1,Professional,898.56,1,Formal,No,9.0,No,"Material, Sole type",Material & sole,1,3,4,5,1,"Knit, Recyclable",No,105.22,3,Yes,None of the above,Yes,Yes
+35,Female,India,Tier 2,Student,640.88,8,"Casual, Sneakers, Boots",No,11.3,No,Full-design,Full-design from scratch,5,4,3,4,4,Recyclable,Yes,197.23,2,Yes,Size mismatch,Yes,No
+46,Prefer not to say,USA,Tier 1,Other,1206.93,8,"Formal, Boots",Yes,8.2,Yes,Stitching pattern,Full-design from scratch,3,2,1,5,1,Leather,Yes,161.05,2,Yes,Size mismatch,No,Yes
+28,Female,Other,Tier 1,Professional,984.87,3,"Formal, Casual, Boots",Yes,8.3,Yes,"Full-design, Sole type",Full-design from scratch,1,5,3,4,2,"Canvas, Knit, Vegan",Yes,138.11,5,No,Generic designs,Maybe,Yes
+23,Male,India,Tier 1,Student,6665.34,6,"Formal, Sneakers",Yes,10.2,Yes,"Full-design, Color, Stitching pattern",Material & sole,4,1,4,5,5,"Knit, Recyclable",Yes,102.78,1,Yes,Generic designs,Yes,Yes
+18,Female,UK,Tier 1,Professional,286.33,4,"Ethnic, Casual, Boots",Yes,6.6,No,"Stitching pattern, Full-design, Color",Full-design from scratch,2,4,5,1,4,"Leather, Canvas, Vegan",No,122.79,3,Yes,Long delivery times,Yes,Yes
+24,Male,USA,Tier 1,Entrepreneur,430.04,3,"Boots, Slippers",No,7.2,Yes,Full-design,Material & sole,3,4,5,1,2,"Leather, Vegan",No,164.06,2,No,None of the above,Yes,Yes
+29,Female,UK,Tier 1,Professional,281.41,7,"Sneakers, Ethnic, Boots",No,10.6,Yes,"Material, Color",Just color,1,2,3,3,1,"Knit, Leather",No,156.8,5,No,Generic designs,Yes,Yes
+44,Male,India,Tier 3,Professional,1674.61,3,"Sneakers, Sports",No,7.2,Yes,"Full-design, Material, Sole type",Full-design from scratch,5,4,2,1,3,Knit,Yes,156.37,1,Yes,None of the above,Yes,Yes
+25,Male,India,Tier 1,Student,284.08,4,"Casual, Ethnic",Yes,6.3,No,Color,Full-design from scratch,1,2,3,5,4,Canvas,No,107.85,1,No,Generic designs,Maybe,Yes
+31,Female,India,Tier 2,Student,2915.86,7,Sneakers,No,11.8,No,"Material, Color",Material & sole,4,3,2,5,1,"Knit, Vegan",Yes,99.08,1,Yes,Size mismatch,Yes,No
+29,Male,India,Tier 3,Professional,1275.97,4,"Casual, Ethnic, Sports",No,6.9,No,Color,Material & sole,3,2,3,1,1,Knit,Yes,62.91,2,No,None of the above,Maybe,No
+39,Female,India,Tier 3,Self-employed,1323.01,6,"Sneakers, Casual, Boots",No,9.3,Yes,"Stitching pattern, Sole type",Material & sole,1,1,2,2,2,Vegan,No,141.14,2,Yes,Generic designs,No,Yes
+50,Male,UK,Tier 2,Self-employed,1436.92,5,"Formal, Ethnic, Sports",No,9.1,Yes,"Stitching pattern, Full-design, Sole type",Material & sole,3,4,2,5,1,"Vegan, Knit",Yes,59.26,1,No,Poor product information,No,Yes
+25,Female,UAE,Tier 3,Student,480.97,11,"Sneakers, Formal, Boots",Yes,5.0,Yes,Full-design,Full-design from scratch,3,4,2,3,4,"Vegan, Leather, Recyclable",Yes,119.38,2,No,Generic designs,Yes,Yes
+26,Female,UAE,Tier 1,Professional,530.39,3,"Ethnic, Boots, Sneakers",No,8.6,Yes,Color,Just color,5,4,2,2,4,"Knit, Leather, Canvas",No,103.19,1,No,Poor product information,No,Yes
+38,Female,UK,Tier 1,Self-employed,775.89,4,Slippers,No,9.7,No,Full-design,Full-design from scratch,2,2,1,1,1,"Recyclable, Knit",Yes,128.9,4,Yes,Size mismatch,Yes,Yes
+35,Male,India,Tier 1,Professional,1550.24,2,"Formal, Sports, Boots",Yes,9.5,Yes,"Full-design, Sole type",Material & sole,4,5,2,4,2,"Leather, Recyclable",No,166.62,2,No,Generic designs,Yes,No
+44,Male,India,Tier 2,Self-employed,553.81,3,"Sports, Formal, Slippers",Yes,10.4,Yes,"Sole type, Material",Full-design from scratch,1,2,2,5,4,"Canvas, Vegan, Knit",No,174.15,3,Yes,Long delivery times,Yes,No
+34,Male,India,Tier 2,Student,385.51,0,"Casual, Sneakers",Yes,8.4,Yes,"Material, Stitching pattern, Full-design",Full-design from scratch,2,1,5,4,3,Leather,Yes,148.1,2,No,Generic designs,Maybe,Yes
+27,Male,India,Tier 1,Self-employed,5465.69,5,Sneakers,Yes,10.1,Yes,"Color, Sole type, Full-design",Material & sole,5,2,1,3,5,"Canvas, Knit",Yes,89.43,1,No,Size mismatch,Yes,Yes
+34,Female,USA,Tier 1,Entrepreneur,233.34,5,"Formal, Sneakers, Boots",No,8.0,No,"Full-design, Color",Material & sole,2,4,2,2,2,"Recyclable, Leather",Yes,119.11,3,No,None of the above,Yes,Yes
+38,Other,USA,Tier 2,Self-employed,2634.53,2,"Sneakers, Ethnic, Sports",No,6.9,Yes,"Color, Sole type, Material",Full-design from scratch,3,3,4,4,2,Canvas,Yes,85.05,5,No,Size mismatch,Yes,Yes
+36,Female,India,Tier 1,Professional,2527.0,3,"Formal, Boots, Slippers",Yes,7.1,No,Full-design,Material & sole,3,1,1,3,5,Recyclable,Yes,93.83,3,No,Poor product information,Yes,Yes
+34,Female,India,Tier 2,Professional,729.05,6,"Casual, Ethnic, Sneakers",No,6.8,Yes,"Full-design, Sole type",Material & sole,4,3,5,4,5,"Canvas, Vegan, Recyclable",No,139.3,3,No,Size mismatch,Yes,Yes
+38,Female,UAE,Tier 2,Self-employed,418.63,3,"Sneakers, Casual, Formal",No,10.5,Yes,"Stitching pattern, Full-design, Sole type",Material & sole,1,1,3,4,4,"Vegan, Canvas",Yes,81.03,2,Yes,Size mismatch,Yes,Yes
+39,Female,UK,Tier 2,Professional,436.08,4,"Boots, Casual",Yes,6.7,Yes,"Material, Sole type",Just color,1,1,5,3,1,"Canvas, Knit",Yes,101.82,3,No,Poor product information,No,No
+41,Male,India,Tier 2,Professional,1993.17,5,"Casual, Ethnic, Slippers",Yes,9.4,Yes,"Stitching pattern, Color",Full-design from scratch,5,4,5,5,1,"Canvas, Leather",Yes,77.21,3,No,Generic designs,Yes,Yes
+35,Other,Other,Tier 3,Entrepreneur,1744.22,2,"Sneakers, Formal, Ethnic",Yes,8.6,No,"Color, Sole type",Just color,4,2,1,4,3,"Knit, Canvas",Yes,146.33,1,No,Long delivery times,Maybe,Yes
+28,Female,Other,Tier 1,Entrepreneur,2490.03,4,"Boots, Casual",No,8.8,Yes,Stitching pattern,Full-design from scratch,1,4,1,3,1,"Vegan, Canvas",No,105.58,2,No,None of the above,Maybe,No
+31,Female,India,Tier 2,Self-employed,4358.43,4,Casual,Yes,11.0,Yes,"Material, Full-design, Stitching pattern",Material & sole,3,4,4,4,3,Leather,Yes,31.35,1,No,Long delivery times,Yes,Yes
+39,Male,India,Tier 2,Professional,1966.13,6,"Ethnic, Formal",No,8.3,Yes,"Sole type, Color",Full-design from scratch,4,4,4,5,3,"Recyclable, Canvas, Leather",No,185.35,2,No,Poor product information,No,Yes
+23,Male,USA,Tier 1,Entrepreneur,454.14,3,"Ethnic, Sneakers, Casual",No,9.9,Yes,"Sole type, Material, Stitching pattern",Material & sole,2,3,1,3,2,"Canvas, Knit",Yes,160.54,5,No,Generic designs,Maybe,No
+32,Female,Other,Tier 1,Entrepreneur,618.47,3,"Casual, Boots",No,9.1,No,Stitching pattern,Material & sole,4,1,1,4,2,"Canvas, Leather, Recyclable",Yes,39.39,3,Yes,Long delivery times,No,No
+26,Female,UAE,Tier 1,Student,2969.58,5,"Casual, Slippers, Sports",Yes,8.8,Yes,"Sole type, Color, Full-design",Material & sole,4,5,1,1,4,"Vegan, Knit, Leather",Yes,149.39,2,No,Poor product information,No,Yes
+30,Female,India,Tier 1,Professional,552.27,4,"Ethnic, Boots, Sneakers",No,12.4,Yes,Stitching pattern,Full-design from scratch,1,2,3,5,5,Knit,Yes,180.91,3,No,Long delivery times,Maybe,Yes
+40,Male,India,Tier 2,Professional,312.93,5,"Slippers, Casual",No,6.8,No,"Sole type, Material",Material & sole,5,4,5,4,5,Recyclable,No,112.54,3,Yes,Poor product information,Yes,Yes
+31,Prefer not to say,USA,Tier 3,Professional,2022.45,6,Casual,No,10.9,Yes,"Sole type, Material, Full-design",Full-design from scratch,5,1,4,2,3,Leather,Yes,125.96,4,Yes,Poor product information,Maybe,Yes
+30,Male,USA,Tier 1,Other,972.57,5,Casual,No,10.0,Yes,"Material, Stitching pattern, Sole type",Material & sole,1,2,4,3,5,"Recyclable, Vegan, Canvas",No,107.25,1,No,Generic designs,Yes,Yes
+19,Male,India,Tier 1,Professional,3989.34,1,"Sports, Casual, Sneakers",No,8.3,Yes,Material,Material & sole,1,5,2,4,3,"Vegan, Leather, Recyclable",Yes,140.79,2,Yes,Generic designs,No,Yes
+35,Male,UAE,Tier 3,Entrepreneur,1775.83,5,"Casual, Ethnic, Sneakers",No,11.4,Yes,"Material, Sole type, Color",Full-design from scratch,1,5,3,5,5,"Canvas, Recyclable, Vegan",No,161.33,5,No,Generic designs,Yes,No
+35,Female,UK,Tier 1,Other,342.16,4,Formal,No,6.2,Yes,Material,Just color,5,4,1,5,4,"Vegan, Recyclable",Yes,72.36,4,No,Poor product information,Maybe,Yes
+47,Other,UAE,Tier 1,Professional,4630.64,0,"Casual, Boots, Slippers",No,8.2,Yes,Full-design,Material & sole,1,5,1,2,2,Vegan,Yes,91.75,1,No,Generic designs,Yes,No
+27,Male,UAE,Tier 2,Self-employed,648.74,5,Sports,Yes,7.2,No,"Material, Color",Material & sole,2,5,3,2,2,Recyclable,Yes,124.07,5,No,None of the above,No,Yes
+31,Female,UK,Tier 2,Professional,816.95,3,"Ethnic, Boots, Formal",No,9.6,Yes,Color,Material & sole,2,2,4,4,3,Knit,Yes,132.41,5,No,None of the above,Maybe,Yes
+31,Male,USA,Tier 1,Self-employed,971.9,4,Sports,No,7.3,No,"Stitching pattern, Color, Sole type",Material & sole,3,2,1,1,5,"Canvas, Vegan, Leather",No,136.3,3,No,Size mismatch,Maybe,No
+42,Other,USA,Tier 1,Student,278.87,4,"Boots, Formal, Ethnic",No,9.6,Yes,Stitching pattern,Material & sole,2,4,2,5,1,"Canvas, Leather",Yes,112.3,1,Yes,Size mismatch,Maybe,Yes
+29,Female,India,Tier 1,Self-employed,1229.3,6,Sports,Yes,8.7,Yes,"Full-design, Sole type",Material & sole,4,1,4,1,4,"Knit, Canvas",Yes,84.72,4,No,Generic designs,Yes,Yes
+32,Female,UK,Tier 2,Professional,397.42,5,"Casual, Ethnic",No,8.3,Yes,"Full-design, Sole type",Full-design from scratch,3,4,5,1,5,"Vegan, Canvas, Recyclable",Yes,159.41,2,No,Poor product information,Maybe,Yes
+34,Male,India,Tier 2,Professional,968.67,2,"Sports, Ethnic",No,9.6,Yes,"Material, Sole type",Full-design from scratch,2,3,3,4,1,"Vegan, Leather, Recyclable",Yes,71.13,2,No,Size mismatch,No,Yes
+31,Prefer not to say,UK,Tier 1,Entrepreneur,847.81,2,Sports,Yes,8.6,No,"Material, Full-design",Material & sole,4,5,4,3,4,"Canvas, Knit",No,100.31,4,No,Poor product information,No,Yes
+26,Female,India,Tier 2,Professional,2423.15,4,"Formal, Sneakers, Ethnic",Yes,7.4,Yes,Full-design,Material & sole,2,1,5,3,4,"Vegan, Canvas, Knit",No,120.71,3,Yes,Long delivery times,Maybe,Yes
+31,Male,India,Tier 3,Professional,2638.13,6,"Ethnic, Formal",No,13.0,Yes,"Stitching pattern, Color",Just color,4,2,2,3,2,"Vegan, Knit",No,139.41,3,No,Long delivery times,Yes,Yes
+38,Female,India,Tier 1,Professional,449.81,5,"Casual, Slippers",No,8.3,Yes,"Sole type, Stitching pattern, Full-design",Full-design from scratch,1,3,3,2,3,Leather,Yes,108.33,5,No,Poor product information,Yes,Yes
+21,Male,India,Tier 1,Entrepreneur,884.86,5,"Sports, Slippers, Boots",No,5.7,Yes,Stitching pattern,Material & sole,4,3,1,5,5,"Leather, Recyclable, Canvas",No,150.12,1,Yes,Poor product information,No,Yes
+31,Female,UK,Tier 2,Professional,901.06,6,Boots,Yes,7.7,No,Full-design,Material & sole,1,5,1,2,4,Vegan,No,170.03,5,No,Generic designs,Maybe,Yes
+24,Male,UK,Tier 1,Student,446.27,4,"Ethnic, Sports, Formal",No,7.1,No,"Sole type, Color",Full-design from scratch,4,2,5,5,5,"Recyclable, Leather",Yes,95.09,2,No,Size mismatch,Yes,Yes
+39,Female,USA,Tier 1,Professional,2602.6,3,"Slippers, Formal",No,10.2,Yes,Material,Material & sole,4,1,4,5,4,Knit,Yes,135.66,4,No,Generic designs,No,Yes
+17,Female,India,Tier 2,Professional,2042.54,3,Slippers,No,9.5,No,"Full-design, Color",Full-design from scratch,2,2,2,5,2,"Recyclable, Vegan, Canvas",No,129.85,1,No,Size mismatch,Yes,Yes
+25,Male,India,Tier 3,Student,516.79,5,"Slippers, Sneakers",No,9.6,No,"Sole type, Full-design",Material & sole,4,5,5,4,3,"Knit, Canvas",Yes,106.36,4,Yes,Poor product information,No,No
+33,Male,India,Tier 3,Professional,885.27,4,Ethnic,No,8.4,Yes,Full-design,Just color,2,3,2,3,1,"Leather, Canvas, Vegan",No,43.75,1,No,Poor product information,Maybe,Yes
+42,Male,India,Tier 2,Professional,367.75,4,"Sports, Slippers",No,8.6,Yes,"Material, Sole type",Full-design from scratch,4,5,2,2,1,Recyclable,Yes,134.17,2,Yes,Generic designs,Yes,Yes
+29,Female,UAE,Tier 2,Student,1684.13,3,"Boots, Slippers",Yes,8.4,Yes,"Full-design, Sole type",Just color,5,4,2,2,2,"Knit, Vegan",Yes,138.56,2,No,Generic designs,No,Yes
+25,Male,India,Tier 1,Professional,394.09,3,Casual,No,8.9,Yes,"Material, Stitching pattern",Full-design from scratch,3,3,3,4,4,Leather,No,163.49,1,No,Poor product information,Maybe,Yes
+45,Female,India,Tier 2,Self-employed,6596.01,1,"Sneakers, Ethnic",No,10.3,Yes,"Material, Stitching pattern",Just color,2,5,5,5,2,"Recyclable, Vegan",No,106.6,3,No,Size mismatch,Yes,Yes
+18,Male,India,Tier 1,Student,2475.85,2,"Boots, Sneakers, Formal",No,9.5,Yes,"Sole type, Full-design, Material",Full-design from scratch,2,1,3,3,3,Knit,Yes,93.32,1,No,Size mismatch,Yes,Yes
+13,Male,India,Tier 1,Professional,942.03,7,"Sneakers, Casual, Formal",No,9.8,Yes,"Stitching pattern, Material",Just color,1,1,4,1,1,Knit,No,83.42,2,Yes,Generic designs,Yes,Yes
+33,Female,USA,Tier 2,Professional,1496.13,2,Casual,No,9.7,Yes,"Material, Full-design, Color",Material & sole,5,1,4,1,5,Canvas,Yes,20.0,4,No,Size mismatch,Maybe,Yes
+25,Male,USA,Tier 2,Professional,3834.45,4,Ethnic,Yes,10.3,No,"Sole type, Material, Full-design",Material & sole,1,4,1,4,1,"Knit, Recyclable",No,103.81,5,No,Size mismatch,Yes,No
+21,Other,India,Tier 1,Entrepreneur,1411.49,3,"Ethnic, Casual",Yes,9.4,Yes,"Stitching pattern, Material",Material & sole,5,2,1,3,3,"Knit, Recyclable",No,230.66,4,No,Generic designs,Yes,Yes
+35,Female,India,Tier 3,Professional,487.65,3,"Formal, Sports, Casual",No,9.5,Yes,Material,Material & sole,5,1,1,1,4,"Knit, Recyclable, Canvas",No,170.84,2,Yes,Long delivery times,Yes,Yes
+31,Female,India,Tier 1,Professional,913.92,7,"Boots, Ethnic",No,10.8,No,"Color, Material",Material & sole,4,4,4,1,2,Knit,Yes,80.31,4,No,Poor product information,Yes,Yes
+25,Female,India,Tier 1,Student,2978.65,3,Formal,No,8.0,Yes,"Stitching pattern, Material",Material & sole,1,1,2,2,1,"Vegan, Canvas, Knit",Yes,99.41,3,No,Poor product information,Maybe,No
+19,Female,India,Tier 1,Professional,1750.13,2,"Slippers, Ethnic, Sneakers",Yes,7.7,Yes,"Full-design, Sole type, Material",Material & sole,3,4,2,3,1,"Vegan, Leather, Recyclable",No,99.16,3,No,None of the above,Maybe,Yes
+36,Male,Other,Tier 2,Professional,1777.84,1,"Boots, Casual",No,7.2,No,"Sole type, Color",Material & sole,5,1,5,1,5,Leather,Yes,175.94,1,No,None of the above,Yes,Yes
+35,Male,USA,Tier 2,Student,3224.1,4,Sneakers,Yes,9.3,No,"Color, Material",Material & sole,5,2,4,2,2,Canvas,Yes,208.98,4,Yes,Poor product information,No,Yes
+29,Male,USA,Tier 1,Professional,3566.09,2,"Sports, Formal, Ethnic",Yes,6.2,Yes,Material,Material & sole,2,5,1,3,5,Vegan,No,123.59,4,No,Long delivery times,Maybe,Yes
+44,Female,USA,Tier 2,Other,3984.71,4,"Casual, Formal",No,9.7,Yes,"Stitching pattern, Color",Full-design from scratch,4,1,4,5,5,"Canvas, Vegan",Yes,130.55,2,No,Generic designs,Yes,Yes
+21,Male,USA,Tier 1,Professional,349.48,7,Casual,No,8.8,No,"Sole type, Full-design",Material & sole,3,5,2,3,4,"Leather, Vegan",Yes,140.82,1,Yes,None of the above,Yes,Yes
+17,Female,USA,Tier 2,Professional,1378.31,4,"Formal, Sneakers",No,10.7,Yes,"Sole type, Full-design",Just color,5,1,2,4,1,Vegan,Yes,119.37,1,No,Poor product information,Maybe,Yes
+24,Prefer not to say,UK,Tier 1,Self-employed,2223.55,5,"Casual, Slippers",Yes,8.0,Yes,"Color, Stitching pattern",Material & sole,2,2,3,2,2,"Recyclable, Vegan",Yes,131.28,4,No,Long delivery times,No,Yes
+29,Female,UK,Tier 1,Entrepreneur,2321.59,8,"Ethnic, Boots, Sports",No,8.7,Yes,Sole type,Full-design from scratch,1,5,3,5,4,"Vegan, Leather",Yes,121.93,5,Yes,Long delivery times,No,No
+31,Female,India,Tier 3,Professional,1599.84,4,"Ethnic, Casual",No,10.7,Yes,"Full-design, Material, Sole type",Just color,5,4,5,2,4,"Canvas, Leather, Recyclable",No,139.12,4,Yes,Poor product information,Yes,No
+28,Male,USA,Tier 1,Entrepreneur,473.7,3,"Formal, Sports, Ethnic",No,11.1,Yes,"Full-design, Material, Stitching pattern",Material & sole,2,1,4,2,4,Canvas,Yes,39.93,4,Yes,Long delivery times,Maybe,Yes
+32,Female,USA,Tier 1,Self-employed,2594.93,7,"Casual, Formal",No,8.0,No,"Sole type, Stitching pattern",Material & sole,1,1,3,1,3,"Canvas, Recyclable",Yes,100.82,4,Yes,Size mismatch,No,Yes
+19,Female,UAE,Tier 2,Professional,2110.05,4,"Ethnic, Boots",No,9.3,No,"Stitching pattern, Color, Material",Just color,4,4,3,3,3,"Recyclable, Knit, Vegan",No,72.66,3,Yes,Size mismatch,Maybe,Yes
+41,Male,USA,Tier 3,Professional,335.11,5,"Slippers, Casual, Sports",No,9.4,No,"Sole type, Stitching pattern, Full-design",Full-design from scratch,1,2,4,2,4,"Recyclable, Canvas, Knit",No,147.6,1,Yes,Poor product information,Maybe,Yes
+29,Male,USA,Tier 1,Professional,1134.9,8,"Casual, Slippers, Boots",No,9.6,Yes,Material,Material & sole,5,3,2,2,3,Recyclable,No,88.58,3,Yes,None of the above,Maybe,Yes
+38,Other,India,Tier 1,Other,486.7,4,Formal,No,8.6,Yes,"Sole type, Stitching pattern, Full-design",Material & sole,3,1,5,4,2,"Canvas, Vegan, Leather",Yes,57.4,5,No,Generic designs,Maybe,Yes
+32,Female,USA,Tier 1,Professional,817.55,3,Sneakers,Yes,10.9,No,"Full-design, Stitching pattern, Color",Full-design from scratch,1,4,5,4,1,Vegan,No,48.46,2,No,Generic designs,Yes,No
+33,Female,India,Tier 2,Student,227.37,1,Sneakers,No,6.2,Yes,Material,Material & sole,3,3,5,4,2,"Leather, Knit, Recyclable",Yes,137.98,5,Yes,Generic designs,Maybe,Yes
+34,Female,India,Tier 1,Self-employed,967.06,1,"Boots, Casual, Sneakers",Yes,8.4,Yes,"Material, Sole type",Full-design from scratch,3,1,3,2,1,"Leather, Vegan",Yes,82.85,1,No,Size mismatch,Yes,Yes
+33,Female,India,Tier 2,Professional,1397.35,8,"Boots, Sneakers, Slippers",Yes,9.7,No,"Sole type, Full-design",Material & sole,1,5,2,5,3,"Recyclable, Leather",Yes,114.47,2,No,Poor product information,Maybe,Yes
+35,Female,UK,Tier 3,Student,1649.73,5,"Slippers, Formal, Ethnic",Yes,9.7,Yes,"Stitching pattern, Sole type, Material",Full-design from scratch,4,4,5,3,2,"Canvas, Leather",Yes,183.32,5,No,Generic designs,Yes,Yes
+40,Male,India,Tier 1,Professional,1833.69,3,"Slippers, Boots, Sports",No,11.0,Yes,"Full-design, Stitching pattern",Full-design from scratch,1,5,4,2,5,Vegan,Yes,135.01,1,No,None of the above,No,No
+31,Male,India,Tier 1,Professional,2914.5,5,"Sneakers, Boots, Casual",No,10.8,No,"Material, Full-design",Just color,2,2,5,1,4,"Vegan, Recyclable, Knit",No,99.59,5,No,Size mismatch,Yes,Yes
+35,Male,UAE,Tier 1,Self-employed,563.99,4,Boots,No,8.6,No,Material,Full-design from scratch,3,3,1,5,1,"Recyclable, Leather",Yes,72.99,2,Yes,Poor product information,Maybe,No
+29,Female,India,Tier 1,Professional,392.57,3,Sports,No,10.9,Yes,"Material, Sole type, Stitching pattern",Material & sole,5,4,2,5,1,"Leather, Vegan",No,137.4,2,Yes,Size mismatch,Yes,Yes
+41,Female,USA,Tier 3,Self-employed,3061.13,1,"Boots, Formal, Slippers",Yes,7.9,No,"Color, Material, Full-design",Just color,3,1,1,3,5,"Recyclable, Canvas",Yes,114.84,5,No,Size mismatch,Yes,Yes
+24,Female,USA,Tier 1,Professional,455.49,5,"Formal, Slippers, Casual",No,10.4,Yes,"Color, Full-design",Material & sole,5,1,2,5,5,Leather,Yes,143.14,3,No,Poor product information,Maybe,No
+44,Male,India,Tier 1,Student,5718.99,3,"Sneakers, Sports, Formal",Yes,11.7,Yes,Stitching pattern,Just color,2,3,4,3,4,"Knit, Recyclable, Leather",Yes,24.66,5,No,Generic designs,No,Yes
+29,Female,UK,Tier 2,Other,2972.86,4,"Boots, Sneakers, Sports",No,10.8,No,"Color, Full-design, Material",Full-design from scratch,2,5,3,5,3,"Leather, Vegan, Recyclable",No,165.5,5,Yes,Size mismatch,Yes,Yes
+18,Female,India,Tier 1,Professional,1242.35,9,"Sneakers, Sports, Slippers",No,9.2,No,"Color, Full-design, Material",Material & sole,2,5,3,3,2,"Knit, Canvas",No,51.49,5,No,Size mismatch,Yes,Yes
+31,Female,USA,Tier 2,Professional,6178.62,7,Boots,Yes,8.5,Yes,"Material, Color, Sole type",Full-design from scratch,1,4,2,4,2,Vegan,No,100.63,3,No,Long delivery times,Yes,Yes
+24,Female,USA,Tier 1,Professional,353.68,5,"Sneakers, Boots",Yes,6.7,Yes,"Sole type, Material",Just color,3,4,5,4,2,Leather,No,175.6,4,No,None of the above,No,Yes
+36,Male,USA,Tier 3,Self-employed,741.6,4,Boots,No,9.5,Yes,Sole type,Material & sole,5,5,1,5,3,Canvas,No,30.66,2,Yes,Poor product information,Maybe,Yes
+24,Female,UK,Tier 3,Professional,1725.1,1,"Ethnic, Casual",No,7.3,Yes,"Material, Full-design",Material & sole,2,4,4,5,4,"Vegan, Knit",No,116.53,1,No,Generic designs,No,Yes
+26,Male,India,Tier 2,Student,846.19,7,"Sports, Sneakers, Casual",No,7.8,Yes,"Material, Color, Stitching pattern",Material & sole,2,5,5,3,2,"Canvas, Leather, Recyclable",No,109.01,2,No,Size mismatch,Yes,Yes
+14,Male,India,Tier 3,Student,4154.42,2,Ethnic,No,7.2,Yes,"Sole type, Full-design, Material",Full-design from scratch,5,3,3,3,1,"Vegan, Knit",Yes,118.85,2,No,None of the above,Yes,No
+26,Female,UK,Tier 1,Professional,301.82,7,Boots,No,8.3,Yes,"Full-design, Sole type",Full-design from scratch,3,4,5,2,1,"Recyclable, Canvas, Vegan",Yes,134.25,4,No,Generic designs,Maybe,Yes
+13,Female,USA,Tier 1,Entrepreneur,1395.8,4,Sports,No,9.0,Yes,"Stitching pattern, Material, Sole type",Full-design from scratch,3,5,1,4,1,"Leather, Knit, Vegan",Yes,120.6,2,Yes,Long delivery times,Yes,Yes
+17,Prefer not to say,UAE,Tier 2,Professional,1540.57,6,"Casual, Ethnic",Yes,9.4,Yes,"Material, Stitching pattern, Sole type",Full-design from scratch,5,4,3,2,5,Vegan,Yes,66.4,2,No,Size mismatch,No,Yes
+36,Female,UAE,Tier 2,Professional,1786.47,5,Boots,Yes,8.1,No,"Full-design, Stitching pattern, Sole type",Just color,4,1,2,2,5,"Vegan, Recyclable",Yes,123.89,3,Yes,Generic designs,Yes,Yes
+36,Female,UAE,Tier 1,Student,642.9,6,Sports,No,10.6,Yes,"Full-design, Sole type, Material",Material & sole,3,1,4,1,3,"Recyclable, Vegan",Yes,119.27,3,No,Generic designs,Maybe,Yes
+33,Female,USA,Tier 1,Professional,880.17,6,"Sports, Casual",No,8.7,Yes,"Full-design, Material",Material & sole,5,2,4,3,2,Vegan,Yes,117.59,3,Yes,Size mismatch,Maybe,Yes
+22,Female,India,Tier 1,Self-employed,2983.78,2,"Formal, Slippers",Yes,7.8,No,Stitching pattern,Material & sole,5,5,3,1,5,"Recyclable, Canvas",Yes,203.44,3,No,Size mismatch,Yes,Yes
+29,Male,UK,Tier 1,Professional,525.26,5,"Ethnic, Slippers, Sneakers",Yes,9.3,Yes,"Sole type, Stitching pattern",Just color,2,2,2,1,1,"Vegan, Leather",No,173.5,3,No,Generic designs,No,Yes
+29,Male,USA,Tier 1,Other,2830.55,5,"Sneakers, Slippers",Yes,11.9,Yes,"Material, Sole type",Material & sole,5,5,1,2,5,Recyclable,Yes,193.09,1,No,Generic designs,No,Yes
+20,Male,India,Tier 2,Professional,1440.55,7,"Sneakers, Sports",Yes,9.5,Yes,Color,Material & sole,1,4,4,1,1,"Vegan, Canvas",Yes,133.76,4,No,Size mismatch,Yes,Yes
+42,Female,UAE,Tier 1,Student,2354.41,3,"Ethnic, Boots, Formal",Yes,8.5,Yes,"Material, Sole type, Full-design",Material & sole,2,5,3,3,2,"Canvas, Vegan, Knit",No,191.41,5,No,Generic designs,Yes,Yes
+37,Male,UAE,Tier 1,Self-employed,2075.59,2,"Slippers, Casual, Sports",No,6.7,Yes,"Full-design, Color",Full-design from scratch,2,1,4,2,3,"Recyclable, Leather, Canvas",Yes,85.76,3,No,Size mismatch,No,Yes
+28,Male,USA,Tier 2,Professional,548.87,5,Boots,No,8.7,No,"Stitching pattern, Full-design, Material",Material & sole,3,4,2,3,4,"Vegan, Leather",Yes,105.63,4,Yes,Size mismatch,Yes,Yes
+30,Male,India,Tier 2,Entrepreneur,1461.82,7,"Boots, Formal",No,9.4,Yes,Stitching pattern,Just color,4,1,1,5,4,"Knit, Canvas",Yes,96.79,5,Yes,Generic designs,Maybe,Yes
+31,Prefer not to say,India,Tier 3,Other,3234.29,4,"Formal, Sports, Ethnic",No,8.4,Yes,"Full-design, Material",Just color,3,4,2,1,1,Knit,Yes,100.16,2,No,Poor product information,Yes,Yes
+13,Male,UAE,Tier 2,Student,1048.76,5,"Sneakers, Ethnic",No,6.5,Yes,Full-design,Full-design from scratch,1,5,5,2,5,Recyclable,Yes,121.65,2,Yes,Poor product information,Yes,Yes
+28,Female,Other,Tier 1,Student,5298.38,4,"Boots, Sneakers, Slippers",No,7.7,Yes,"Material, Stitching pattern",Full-design from scratch,2,5,2,4,5,"Knit, Leather",Yes,128.16,4,No,Poor product information,Yes,No
+24,Male,India,Tier 3,Entrepreneur,1102.81,6,"Slippers, Formal",No,11.2,No,"Stitching pattern, Full-design, Color",Material & sole,2,1,2,3,1,"Leather, Recyclable, Knit",Yes,137.24,1,Yes,Generic designs,Yes,Yes
+21,Female,India,Tier 2,Professional,431.1,2,Sneakers,No,11.2,Yes,Stitching pattern,Material & sole,5,3,4,1,2,Recyclable,No,189.79,1,No,Poor product information,Yes,Yes
+27,Male,UAE,Tier 1,Student,940.05,5,"Formal, Casual",No,7.7,Yes,"Material, Sole type",Full-design from scratch,4,5,2,3,1,"Vegan, Leather",Yes,59.01,4,No,None of the above,Yes,Yes
+44,Male,India,Tier 2,Student,4745.56,3,Ethnic,No,10.0,Yes,Stitching pattern,Material & sole,4,3,3,3,2,"Recyclable, Knit",No,71.79,1,No,Poor product information,Maybe,Yes
+35,Female,USA,Tier 3,Student,777.88,6,Sports,No,7.2,Yes,"Material, Sole type, Full-design",Full-design from scratch,5,4,4,5,3,"Knit, Leather",Yes,22.32,1,Yes,Generic designs,Maybe,Yes
+25,Male,Other,Tier 1,Entrepreneur,3238.55,4,"Sneakers, Boots, Sports",No,11.1,No,"Full-design, Sole type, Material",Full-design from scratch,1,3,4,3,3,"Leather, Recyclable, Knit",Yes,86.32,2,Yes,Size mismatch,Maybe,No
+34,Male,India,Tier 1,Student,3396.11,4,Formal,No,9.4,Yes,Color,Material & sole,4,1,5,5,1,"Vegan, Canvas, Leather",No,102.23,1,Yes,Generic designs,Yes,Yes
